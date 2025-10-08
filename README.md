@@ -8,7 +8,7 @@
 ---
 
 ## 📌 Project Overview
-The **Myntra Analysis Dashboard** is a Power BI project designed to analyze and visualize Myntra’s sales performance from **2023 to 2025**.  
+The **Myntra Analysis Dashboard** is to analyze and visualize Myntra’s sales performance from **2023 to 2025**.  
 It provides **interactive dashboards** that deliver clear insights into **sales growth, product performance, customer orders, and state-wise trends**.  
 
 The dashboard helps in tracking KPIs and identifying patterns that support **data-driven business decisions**.
@@ -114,8 +114,8 @@ The dashboard helps in tracking KPIs and identifying patterns that support **dat
 
 ## 👩‍💻 Author
 **Harinisri S**  
-- 📧 Email: [harinisrioff@gmail.com](mailto:harinisrioff@gmail.com)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/harinisri-s)  
-- 🔗 [GitHub](https://github.com/Harinisri22)
+- [harinisrioff@gmail.com](mailto:harinisrioff@gmail.com)  
+-  [LinkedIn](https://www.linkedin.com/in/harinisri-s)  
+-  [GitHub](https://github.com/Harinisri22)
 
 ---
