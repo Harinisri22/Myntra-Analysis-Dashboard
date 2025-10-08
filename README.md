@@ -1,4 +1,4 @@
-# 🛍️ Power BI Project – Myntra Analysis Dashboard
+# 📜 Power BI Project – Myntra Analysis Dashboard
 
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow)
 ![Data Modeling](https://img.shields.io/badge/Data%20Model-Star%20Schema-blue)
@@ -8,7 +8,7 @@
 ---
 
 ## 📌 Project Overview
-The **Myntra Sales Analysis Dashboard** is a Power BI project designed to analyze and visualize Myntra’s sales performance from **2023 to 2025**.  
+The **Myntra Analysis Dashboard** is a Power BI project designed to analyze and visualize Myntra’s sales performance from **2023 to 2025**.  
 It provides **interactive dashboards** that deliver clear insights into **sales growth, product performance, customer orders, and state-wise trends**.  
 
 The dashboard helps in tracking KPIs and identifying patterns that support **data-driven business decisions**.
@@ -34,7 +34,7 @@ The dashboard helps in tracking KPIs and identifying patterns that support **dat
    - Standardized column names and data types.
 
 3. **Data Modeling**
-   - Designed a **Star Schema** with `Sales` as the fact table.
+   - Designed a **Star-like (hybrid) Schema** with `Sales` as the fact table.
    - Established **one-to-many relationships** with dimension tables (Products, Customers, Brands, States).
 
 4. **DAX Measures Created**
@@ -42,7 +42,7 @@ The dashboard helps in tracking KPIs and identifying patterns that support **dat
    - `Top 5 Products Sales`  
    - `Customer Count = DISTINCTCOUNT(Customers[CustomerID])`  
    - `Return Rate % = DIVIDE(SUM(Orders[Returned]), COUNTROWS(Orders))`  
-   - `Average Rating = AVERAGE(Products[Rating])`
+   - `Average Rating = AVERAGE(Products[Rating])` and more.
 
 5. **Dashboard Pages**
    - **Page 1:** Myntra Sales Overview  
@@ -63,7 +63,7 @@ The dashboard helps in tracking KPIs and identifying patterns that support **dat
 ## 🛠 Tools & Technologies Used
 - **Tool:** Microsoft Power BI  
 - **Data Cleaning & Transformation:** Power Query  
-- **Data Modeling:** Star Schema (Fact & Dimension Tables)  
+- **Data Modeling:** Star star-like Schema (Fact & Dimension Tables)  
 - **DAX Functions:** SUM, CALCULATE, DIVIDE, DISTINCTCOUNT, AVERAGE  
 - **Visualization Types:**  
   - Bar Chart  
@@ -72,7 +72,7 @@ The dashboard helps in tracking KPIs and identifying patterns that support **dat
   - Map  
   - Cards (KPI)  
   - Slicers  
-  - Tables
+  - Tables and more.
 
 ---
 
@@ -90,15 +90,15 @@ The dashboard helps in tracking KPIs and identifying patterns that support **dat
 ---
 
 ## 📊 Dashboard Pages Overview
-### 1️⃣ **Myntra Sales Overview**
+### 1️ **Myntra Sales Overview**
 - **Visuals Used:** KPI Cards, Line Chart, and Column Chart  
 - Displays total sales, total orders, revenue trends, and yearly comparisons.
 
-### 2️⃣ **Product & Order Insights**
+### 2️ **Product & Order Insights**
 - **Visuals Used:** Bar Chart, Pie Chart, and Table  
 - Shows top-selling products, brand performance, and customer order frequency.
 
-### 3️⃣ **State-wise Overview**
+### 3️ **State-wise Overview**
 - **Visuals Used:** Map Chart, Column Chart, and KPI Cards  
 - Displays geographical sales distribution and top-performing states.
 
