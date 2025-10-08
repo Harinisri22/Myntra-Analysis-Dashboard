@@ -1,0 +1,1001 @@
+﻿OrderID,ShippingDate,ShippingMethod,DeliveryStatus,ShippingCost,CounterPartner,TrackingID,EstimatedDays,DestinationCity,ReturnEligible
+ORD0521,20-09-2025 22:21,Standard,Out for Delivery,64,FedEx,TRKAA7987E0,4,Mumbai,No
+ORD0734,30-05-2024 09:41,Standard,Pending,463,Blue Dart,TRK05A96D10,4,Bangalore,No
+ORD0934,30-04-2025 15:37,Overnight,In Transit,193,FedEx,TRK9D3888B5,5,Chennai,No
+ORD0260,19-01-2024 13:58,Overnight,Pending,185,Amazon Shipping,TRKA5CD5063,3,Mumbai,No
+ORD0438,05-12-2023 17:36,Standard,Delivered,272,Delhivery,TRKA04286D9,5,Kolkata,Yes
+ORD0400,23-04-2024 11:53,Next Day,In Transit,429,FedEx,TRKA50F8984,4,Pune,No
+ORD0822,26-03-2024 04:48,Next Day,Pending,353,Blue Dart,TRKBC1CA735,6,Bangalore,No
+ORD0669,13-04-2024 06:42,Standard,Delivered,121,Delhivery,TRKE4E4F018,2,Pune,No
+ORD0025,22-11-2023 04:18,Express,Out for Delivery,179,DTDC,TRK5084A694,7,Delhi,No
+ORD0045,08-04-2024 15:40,Next Day,Delivered,343,Amazon Shipping,TRK5C222945,3,Delhi,No
+ORD0480,04-03-2025 06:55,Next Day,In Transit,253,Blue Dart,TRK5C4A4B9A,4,Hyderabad,Yes
+ORD0724,30-12-2024 19:15,Overnight,In Transit,113,FedEx,TRKD883ACDB,2,Delhi,Yes
+ORD0381,09-08-2025 19:09,Express,Out for Delivery,176,Amazon Shipping,TRKF3C4F1B5,6,Kolkata,No
+ORD0971,05-12-2024 03:45,Express,Pending,335,Amazon Shipping,TRKB6D7FBB6,4,Delhi,Yes
+ORD0438,08-09-2024 14:17,Next Day,Out for Delivery,341,FedEx,TRK46503CD4,7,Bangalore,No
+ORD0949,12-07-2025 18:48,Overnight,Out for Delivery,481,FedEx,TRKC379E0DC,7,Kolkata,Yes
+ORD0178,08-04-2025 18:48,Express,Delivered,302,DTDC,TRKF8D3BC72,7,Hyderabad,Yes
+ORD0450,30-05-2024 18:31,Standard,In Transit,117,Blue Dart,TRK8E3CE1A6,7,Bangalore,Yes
+ORD0166,24-06-2025 13:51,Express,Pending,491,Blue Dart,TRK8A4886BD,5,Chennai,Yes
+ORD0473,26-04-2024 19:00,Overnight,Delivered,442,DTDC,TRK6F0A737F,2,Bangalore,No
+ORD0345,04-10-2024 11:22,Overnight,Delivered,91,Blue Dart,TRKC1C5E661,6,Chennai,Yes
+ORD0517,12-03-2025 04:05,Standard,Delivered,229,Delhivery,TRK708D08D4,3,Hyderabad,Yes
+ORD0545,25-04-2024 20:23,Express,Delivered,294,DTDC,TRKD1E85151,7,Hyderabad,No
+ORD0602,26-09-2025 08:56,Express,In Transit,276,FedEx,TRKEA5FC99D,5,Chennai,No
+ORD0187,28-02-2024 06:57,Express,Out for Delivery,407,DTDC,TRK94FF649D,3,Pune,Yes
+ORD0840,15-10-2023 21:59,Next Day,In Transit,424,Blue Dart,TRK6B84E320,7,Chennai,Yes
+ORD0623,10-06-2025 12:14,Express,Delivered,472,DTDC,TRKCF3D3686,2,Mumbai,Yes
+ORD0142,05-11-2023 18:37,Standard,Pending,275,Blue Dart,TRK0857D4D8,2,Bangalore,Yes
+ORD0916,05-12-2024 22:08,Overnight,Pending,499,Amazon Shipping,TRK5D7D31D8,7,Pune,No
+ORD0995,05-12-2024 16:15,Express,Pending,84,DTDC,TRK20A47883,4,Chennai,Yes
+ORD0115,19-11-2023 09:35,Overnight,In Transit,52,Amazon Shipping,TRK4805F8EA,6,Kolkata,Yes
+ORD0068,29-08-2024 19:58,Next Day,In Transit,65,Amazon Shipping,TRK70887663,4,Mumbai,No
+ORD0638,27-03-2024 08:35,Express,Pending,280,Blue Dart,TRK605A6707,2,Delhi,No
+ORD0198,24-03-2024 20:40,Standard,Out for Delivery,314,DTDC,TRKF5D5505A,2,Pune,Yes
+ORD0701,04-08-2024 02:23,Next Day,Out for Delivery,360,Delhivery,TRK10C8F8DE,6,Delhi,No
+ORD0558,06-08-2024 16:58,Standard,Delivered,361,Delhivery,TRK6C2B891C,5,Delhi,Yes
+ORD0029,03-12-2024 20:44,Next Day,Delivered,496,Blue Dart,TRKEE6AA824,2,Kolkata,No
+ORD0356,23-08-2024 08:37,Express,Out for Delivery,341,FedEx,TRK28F2DCF3,2,Delhi,Yes
+ORD0215,31-07-2024 20:15,Overnight,Pending,229,Delhivery,TRKB27E709E,5,Bangalore,No
+ORD0809,11-04-2025 10:01,Standard,In Transit,135,Blue Dart,TRK0DE304D9,2,Pune,Yes
+ORD0814,16-06-2024 11:12,Standard,Out for Delivery,84,FedEx,TRK5864D80E,4,Mumbai,Yes
+ORD0978,08-03-2024 11:13,Overnight,Delivered,163,Delhivery,TRKCC1731DD,2,Chennai,No
+ORD0506,06-10-2024 23:37,Overnight,Pending,216,DTDC,TRK655C4EBD,7,Kolkata,No
+ORD0973,30-05-2024 06:11,Overnight,Delivered,205,DTDC,TRK0DD01FA9,2,Bangalore,No
+ORD0181,10-07-2025 11:57,Next Day,Pending,368,DTDC,TRK699D1F88,7,Chennai,Yes
+ORD0457,03-10-2024 16:09,Next Day,Out for Delivery,103,Amazon Shipping,TRK08AB748B,2,Bangalore,Yes
+ORD0041,27-09-2025 01:59,Express,Out for Delivery,441,DTDC,TRKE2913E35,2,Hyderabad,No
+ORD0929,05-06-2024 20:36,Express,Delivered,299,FedEx,TRK00FD18FB,4,Hyderabad,Yes
+ORD0952,23-02-2024 13:52,Express,Out for Delivery,104,FedEx,TRK33C0E7A1,7,Pune,No
+ORD0460,21-06-2025 09:35,Standard,Pending,334,Amazon Shipping,TRK6D6B6979,7,Hyderabad,No
+ORD0578,26-01-2024 04:21,Overnight,Out for Delivery,278,DTDC,TRKEF600F8B,6,Mumbai,Yes
+ORD0056,11-05-2025 10:02,Next Day,Pending,378,Blue Dart,TRK7C6F22F8,5,Bangalore,Yes
+ORD0517,22-11-2024 08:23,Express,Pending,325,Amazon Shipping,TRKE462DECA,4,Delhi,No
+ORD0485,13-08-2024 00:28,Standard,In Transit,192,Amazon Shipping,TRK1B3C8E0C,3,Pune,Yes
+ORD0442,17-12-2024 15:11,Overnight,Out for Delivery,396,Amazon Shipping,TRKB0284283,6,Delhi,No
+ORD0253,14-09-2024 10:35,Standard,Out for Delivery,275,Delhivery,TRK3DEA2B89,4,Mumbai,No
+ORD0644,22-06-2025 08:02,Express,Pending,226,Delhivery,TRK6CC66F33,6,Pune,No
+ORD0383,28-03-2024 17:55,Express,Pending,406,Amazon Shipping,TRKD90C3EFC,3,Pune,Yes
+ORD0854,03-10-2024 07:22,Express,Pending,156,DTDC,TRK32F35B13,5,Mumbai,Yes
+ORD0373,31-03-2024 02:12,Next Day,In Transit,87,Blue Dart,TRKA0F2825F,3,Mumbai,Yes
+ORD0566,16-01-2025 20:58,Next Day,Out for Delivery,453,Amazon Shipping,TRKD0DC4E20,2,Bangalore,Yes
+ORD0146,24-06-2024 20:27,Overnight,In Transit,224,FedEx,TRKD65C6968,5,Mumbai,Yes
+ORD0595,03-06-2025 07:31,Standard,Out for Delivery,301,Amazon Shipping,TRK037A5E7A,3,Chennai,Yes
+ORD0715,21-10-2024 21:29,Standard,In Transit,187,Delhivery,TRK63E31591,3,Pune,No
+ORD0347,17-11-2024 11:50,Express,In Transit,351,Amazon Shipping,TRK75F5D087,4,Chennai,No
+ORD0632,06-09-2024 19:06,Next Day,Pending,467,Delhivery,TRK9F6B058D,7,Chennai,Yes
+ORD0437,14-12-2023 13:40,Standard,Pending,189,FedEx,TRK0B59DEB5,2,Pune,No
+ORD0807,15-06-2025 06:43,Express,Pending,66,Delhivery,TRK49E5A65C,4,Hyderabad,Yes
+ORD0748,01-10-2024 11:12,Next Day,Out for Delivery,195,Blue Dart,TRK6D51029B,5,Kolkata,No
+ORD0085,25-08-2025 01:46,Next Day,In Transit,307,FedEx,TRK1C479601,5,Delhi,Yes
+ORD0929,02-06-2025 08:02,Next Day,Pending,459,DTDC,TRKE6CD0A76,2,Hyderabad,No
+ORD0262,09-05-2024 15:18,Next Day,Pending,112,Amazon Shipping,TRK18E685C3,3,Bangalore,No
+ORD0315,14-10-2024 02:59,Overnight,In Transit,300,Amazon Shipping,TRK98125B24,4,Delhi,Yes
+ORD0257,11-07-2025 23:29,Next Day,In Transit,264,Blue Dart,TRK5304FA7B,7,Bangalore,Yes
+ORD0085,04-07-2025 21:34,Express,In Transit,154,Blue Dart,TRKD6F8D7B8,6,Pune,Yes
+ORD0126,29-11-2024 10:00,Standard,Delivered,286,Delhivery,TRKFF1411A9,3,Pune,Yes
+ORD0678,14-07-2024 08:42,Standard,Out for Delivery,417,DTDC,TRKEB34A989,6,Bangalore,No
+ORD0430,11-11-2023 00:50,Next Day,Delivered,236,DTDC,TRK23A1243E,2,Hyderabad,No
+ORD0666,03-09-2024 07:09,Next Day,Pending,53,DTDC,TRKFB1124B4,4,Chennai,Yes
+ORD0591,12-04-2024 00:17,Standard,Pending,401,DTDC,TRKCB87A096,4,Chennai,No
+ORD0504,19-10-2023 03:17,Next Day,Pending,240,FedEx,TRKC3C96A9B,7,Chennai,No
+ORD0411,08-08-2024 17:23,Next Day,Pending,73,Amazon Shipping,TRK7E18EA44,4,Delhi,Yes
+ORD0513,26-01-2024 21:08,Overnight,In Transit,350,FedEx,TRKFAA5350A,4,Bangalore,No
+ORD0949,05-03-2025 04:39,Standard,Pending,236,Delhivery,TRKE204BEBC,4,Kolkata,No
+ORD0542,22-10-2023 00:29,Next Day,In Transit,289,DTDC,TRK974221FD,4,Hyderabad,No
+ORD0146,13-06-2025 00:59,Standard,Pending,89,Amazon Shipping,TRK57189E57,4,Hyderabad,Yes
+ORD0425,07-05-2024 18:52,Express,Pending,451,Blue Dart,TRK6E44CD62,7,Kolkata,No
+ORD0804,01-02-2025 04:27,Overnight,Delivered,81,FedEx,TRK743F67A6,5,Delhi,No
+ORD0425,20-10-2024 18:40,Express,Delivered,175,Blue Dart,TRK2ECB4715,2,Bangalore,Yes
+ORD0057,06-06-2024 06:09,Standard,In Transit,340,Blue Dart,TRKD0E7F491,3,Pune,Yes
+ORD0919,11-08-2025 07:51,Standard,Delivered,460,Amazon Shipping,TRK8B5F249F,4,Hyderabad,Yes
+ORD0411,14-12-2024 18:46,Overnight,Out for Delivery,225,Amazon Shipping,TRKD84F943E,5,Bangalore,No
+ORD0137,22-05-2024 13:06,Overnight,Out for Delivery,128,Amazon Shipping,TRK59BCA80F,5,Mumbai,No
+ORD0077,10-02-2024 20:40,Express,Pending,361,FedEx,TRK12435159,4,Bangalore,No
+ORD0725,19-11-2024 12:34,Express,Out for Delivery,87,FedEx,TRK24F2C2DC,6,Kolkata,Yes
+ORD0666,29-12-2024 00:22,Next Day,Delivered,386,Blue Dart,TRKF4E93B1F,4,Bangalore,No
+ORD0979,27-02-2025 17:14,Next Day,In Transit,386,Blue Dart,TRKDD4FAA30,6,Hyderabad,No
+ORD0728,13-08-2024 00:29,Next Day,Out for Delivery,84,FedEx,TRK96B82333,7,Kolkata,Yes
+ORD0335,17-09-2025 05:35,Next Day,Delivered,404,Delhivery,TRK06372ED1,6,Kolkata,Yes
+ORD0794,24-08-2024 13:58,Next Day,In Transit,185,FedEx,TRK0E87402F,6,Bangalore,No
+ORD0432,21-01-2025 16:29,Express,In Transit,251,Amazon Shipping,TRK4619308D,4,Delhi,No
+ORD0538,09-04-2025 17:21,Standard,Pending,352,FedEx,TRK6BA722BE,3,Chennai,No
+ORD0579,28-03-2025 04:28,Standard,Delivered,466,Delhivery,TRK5208B882,3,Hyderabad,No
+ORD0833,18-05-2025 17:25,Standard,Out for Delivery,488,Blue Dart,TRKFEF68FA5,2,Delhi,No
+ORD0163,27-06-2024 18:58,Express,Delivered,447,DTDC,TRK345DA0E5,7,Mumbai,Yes
+ORD0650,26-02-2025 11:57,Overnight,Pending,137,DTDC,TRK35D4A6CF,7,Bangalore,No
+ORD0706,09-12-2024 13:57,Express,Delivered,98,FedEx,TRK54FA6920,4,Chennai,No
+ORD0223,03-10-2025 23:36,Express,In Transit,397,DTDC,TRKCC1DA05E,2,Kolkata,Yes
+ORD0295,05-02-2024 08:27,Express,Pending,115,DTDC,TRKF3FF5501,3,Hyderabad,Yes
+ORD0978,08-12-2023 18:27,Standard,In Transit,77,FedEx,TRKE5D3CE5C,4,Bangalore,No
+ORD0068,07-04-2024 11:13,Overnight,In Transit,81,Blue Dart,TRKB6D9025B,4,Kolkata,No
+ORD0195,14-04-2025 07:51,Standard,Pending,193,DTDC,TRKD1E222E1,2,Pune,Yes
+ORD0756,25-10-2023 00:07,Express,Delivered,487,Amazon Shipping,TRKA484105F,7,Kolkata,No
+ORD0026,21-12-2024 19:46,Overnight,Out for Delivery,52,DTDC,TRK7014C306,3,Mumbai,Yes
+ORD0930,07-05-2024 01:58,Standard,Pending,297,Delhivery,TRKB2046D8C,7,Kolkata,Yes
+ORD0242,17-01-2024 09:37,Overnight,In Transit,116,FedEx,TRK672B9875,5,Hyderabad,Yes
+ORD0502,08-04-2025 08:31,Overnight,Out for Delivery,181,FedEx,TRK504A6781,5,Mumbai,No
+ORD0131,10-06-2024 12:22,Overnight,Pending,165,DTDC,TRK59C6DCF5,4,Bangalore,Yes
+ORD0296,12-02-2025 00:54,Standard,In Transit,249,FedEx,TRK381A8245,5,Mumbai,No
+ORD0913,03-08-2024 14:46,Express,In Transit,458,Amazon Shipping,TRK68E71ABB,7,Pune,Yes
+ORD0622,29-11-2024 16:47,Express,Pending,412,Delhivery,TRK1FD1D728,3,Mumbai,No
+ORD0061,15-02-2024 21:35,Standard,In Transit,180,Blue Dart,TRK9B40ED02,7,Delhi,Yes
+ORD0448,17-03-2024 06:04,Next Day,Out for Delivery,308,Blue Dart,TRKA0C2576D,4,Pune,No
+ORD0485,29-03-2024 21:46,Express,Delivered,475,Blue Dart,TRK1C4A965D,6,Pune,Yes
+ORD0227,07-10-2023 20:53,Standard,Delivered,125,FedEx,TRKE19AD5E5,4,Kolkata,Yes
+ORD0581,19-03-2025 19:36,Overnight,Out for Delivery,286,Delhivery,TRKC58CB57E,4,Pune,Yes
+ORD0087,28-09-2025 12:14,Standard,Pending,394,Blue Dart,TRK02E80DF0,3,Mumbai,No
+ORD0877,10-04-2024 20:56,Overnight,Delivered,73,Delhivery,TRKBE56A773,7,Bangalore,No
+ORD0195,06-12-2023 02:14,Overnight,In Transit,250,DTDC,TRK07557D69,4,Bangalore,Yes
+ORD0844,10-03-2024 18:18,Next Day,Delivered,179,Blue Dart,TRKBAC8C364,3,Hyderabad,Yes
+ORD0647,22-08-2024 22:39,Next Day,In Transit,134,FedEx,TRK83844E98,5,Hyderabad,Yes
+ORD0327,22-08-2024 19:02,Next Day,Delivered,483,Amazon Shipping,TRK95571F6B,5,Kolkata,No
+ORD0685,09-04-2025 12:30,Standard,Delivered,358,Blue Dart,TRK5E035AFE,3,Kolkata,No
+ORD0224,16-05-2025 16:55,Standard,Delivered,351,Delhivery,TRK836E19E0,2,Hyderabad,No
+ORD0217,26-02-2025 21:44,Express,Out for Delivery,313,FedEx,TRKEE4EA74F,7,Chennai,No
+ORD0906,01-09-2025 05:19,Overnight,Pending,239,Amazon Shipping,TRKC6E15B03,5,Mumbai,No
+ORD0170,04-11-2024 03:13,Overnight,Pending,384,Delhivery,TRK82B99290,3,Bangalore,No
+ORD0823,12-03-2024 10:34,Express,In Transit,144,DTDC,TRKF41A79DF,5,Bangalore,No
+ORD0877,10-04-2025 16:19,Overnight,Delivered,221,DTDC,TRKBB30C05E,7,Chennai,Yes
+ORD0341,15-09-2025 11:50,Next Day,Out for Delivery,303,Blue Dart,TRK4E626AF5,4,Pune,Yes
+ORD0838,17-01-2025 13:39,Overnight,Delivered,453,FedEx,TRKC57A0585,5,Kolkata,No
+ORD0368,16-06-2024 23:06,Overnight,Pending,217,FedEx,TRKFF5F5F44,2,Mumbai,Yes
+ORD0723,20-10-2024 12:25,Next Day,Out for Delivery,128,Blue Dart,TRK9254E16B,6,Pune,No
+ORD0755,26-11-2023 05:35,Overnight,In Transit,95,Delhivery,TRKAEAA7C55,6,Delhi,Yes
+ORD0995,23-11-2024 18:01,Overnight,Delivered,424,DTDC,TRKA4F0E85A,4,Bangalore,No
+ORD0940,19-09-2025 21:31,Overnight,In Transit,282,Blue Dart,TRK2A357592,3,Chennai,No
+ORD0424,19-07-2025 11:55,Overnight,Delivered,195,Blue Dart,TRK24BB30C4,5,Bangalore,Yes
+ORD0059,14-08-2024 02:47,Next Day,Delivered,329,Delhivery,TRKA83945EB,3,Pune,No
+ORD0159,08-05-2024 04:43,Express,Delivered,58,Amazon Shipping,TRKDAB27DDF,3,Bangalore,Yes
+ORD0319,20-07-2024 10:31,Express,In Transit,135,Amazon Shipping,TRK26F07FB5,7,Bangalore,Yes
+ORD0090,14-09-2025 16:25,Overnight,Pending,118,Amazon Shipping,TRK71F9CEE3,4,Mumbai,No
+ORD0825,27-02-2025 23:36,Overnight,In Transit,358,Delhivery,TRKD470B778,6,Chennai,Yes
+ORD0676,04-04-2024 13:52,Overnight,Pending,256,FedEx,TRK79AFEF8F,7,Kolkata,Yes
+ORD0052,30-10-2023 19:50,Express,Out for Delivery,205,FedEx,TRK0258FB95,5,Chennai,No
+ORD0623,19-03-2025 16:52,Express,Pending,400,Delhivery,TRK3E55F825,7,Kolkata,No
+ORD0216,03-01-2025 04:12,Next Day,In Transit,499,DTDC,TRK0A3BFE3F,7,Mumbai,No
+ORD0344,24-01-2025 00:53,Express,Out for Delivery,453,FedEx,TRK900659AD,3,Kolkata,No
+ORD0812,02-11-2023 09:43,Next Day,Pending,339,Blue Dart,TRK74BCA194,3,Pune,Yes
+ORD0336,18-08-2024 23:51,Express,Pending,175,DTDC,TRK0F20C136,7,Pune,No
+ORD0944,24-11-2023 04:59,Express,Pending,78,DTDC,TRK9DE85E30,5,Delhi,Yes
+ORD0800,22-10-2023 03:50,Express,Out for Delivery,376,DTDC,TRKD397A17D,5,Chennai,No
+ORD0108,26-09-2024 15:39,Overnight,Delivered,202,Amazon Shipping,TRKC1A7B6DC,7,Hyderabad,No
+ORD0090,08-02-2025 18:55,Standard,Pending,495,Amazon Shipping,TRK0644AB67,5,Delhi,No
+ORD0776,24-05-2024 08:44,Next Day,In Transit,189,DTDC,TRKAF0B8ECF,6,Bangalore,Yes
+ORD0773,23-11-2023 11:16,Overnight,Delivered,316,FedEx,TRK3F029F7C,6,Hyderabad,No
+ORD0428,01-05-2025 08:42,Express,Out for Delivery,189,Delhivery,TRKE3C89E4D,6,Kolkata,Yes
+ORD0713,15-11-2023 01:31,Express,Delivered,328,Blue Dart,TRK035F4095,6,Mumbai,Yes
+ORD0405,11-09-2025 09:06,Express,Out for Delivery,290,FedEx,TRKBBC9F421,6,Mumbai,Yes
+ORD0661,14-06-2025 23:29,Next Day,Pending,358,Blue Dart,TRK74D1B4CC,7,Kolkata,Yes
+ORD0094,09-12-2024 11:45,Express,In Transit,459,Delhivery,TRK2E54E185,2,Chennai,Yes
+ORD0099,16-11-2023 07:34,Overnight,In Transit,65,Delhivery,TRK61AFAD42,7,Delhi,Yes
+ORD0594,10-09-2025 03:39,Overnight,In Transit,160,Delhivery,TRK361574A0,3,Delhi,No
+ORD0653,01-08-2024 14:25,Express,Delivered,199,Delhivery,TRK3126416E,6,Kolkata,Yes
+ORD0082,03-11-2023 09:25,Next Day,Delivered,143,Blue Dart,TRK2BB702F8,2,Kolkata,No
+ORD0496,19-06-2024 02:54,Standard,Delivered,143,Amazon Shipping,TRK8AECA21C,4,Kolkata,Yes
+ORD0920,26-02-2024 12:30,Standard,Pending,298,DTDC,TRKE7C231EB,5,Kolkata,Yes
+ORD0008,10-01-2024 13:46,Standard,Delivered,385,Amazon Shipping,TRK50077D53,7,Pune,Yes
+ORD0975,01-03-2024 01:15,Next Day,Out for Delivery,481,Blue Dart,TRK6FFB0586,3,Bangalore,No
+ORD0543,22-10-2023 23:35,Overnight,In Transit,451,Amazon Shipping,TRKD27881E3,5,Mumbai,No
+ORD0936,30-03-2025 21:08,Overnight,Out for Delivery,418,FedEx,TRKF5090E51,4,Chennai,Yes
+ORD0117,07-12-2023 18:15,Standard,Pending,55,Blue Dart,TRK7DB57EE2,5,Delhi,Yes
+ORD0928,05-11-2024 02:37,Overnight,Delivered,73,Amazon Shipping,TRK06743ECC,3,Hyderabad,Yes
+ORD0882,12-07-2024 08:39,Express,Out for Delivery,371,Amazon Shipping,TRKF3321419,7,Mumbai,Yes
+ORD0858,01-05-2024 08:07,Express,Delivered,244,Delhivery,TRKD76CED8A,2,Bangalore,Yes
+ORD0183,07-01-2024 03:54,Standard,In Transit,121,DTDC,TRKC91F07AE,3,Hyderabad,No
+ORD0394,23-10-2024 07:00,Overnight,In Transit,385,Delhivery,TRKB7E89139,3,Mumbai,Yes
+ORD0115,29-11-2024 07:51,Next Day,Pending,338,DTDC,TRK9C958A6D,7,Bangalore,Yes
+ORD0542,25-02-2025 12:41,Express,In Transit,247,FedEx,TRK2EE5D419,7,Mumbai,Yes
+ORD0768,21-12-2023 08:44,Next Day,Pending,308,Delhivery,TRKD11424EC,2,Pune,No
+ORD0946,07-04-2025 08:01,Next Day,In Transit,356,Delhivery,TRK616B662C,3,Bangalore,Yes
+ORD0342,11-09-2025 00:33,Next Day,Out for Delivery,436,Blue Dart,TRK83F14F5D,5,Chennai,Yes
+ORD0799,12-03-2024 09:21,Express,In Transit,70,Amazon Shipping,TRK2624335D,6,Bangalore,Yes
+ORD0495,04-06-2025 18:56,Overnight,In Transit,378,Delhivery,TRK92D383D7,4,Hyderabad,Yes
+ORD0370,23-01-2025 00:49,Standard,Out for Delivery,449,Delhivery,TRK657F0888,2,Hyderabad,No
+ORD0029,20-12-2023 03:51,Overnight,Out for Delivery,51,Amazon Shipping,TRKBDE62AA4,4,Kolkata,No
+ORD0168,16-05-2025 23:38,Overnight,Pending,300,FedEx,TRK39E33962,2,Delhi,No
+ORD0517,11-08-2025 06:09,Next Day,Pending,362,FedEx,TRKAF37F58F,2,Hyderabad,Yes
+ORD0573,09-07-2024 03:37,Express,Delivered,383,FedEx,TRKAB9B734E,5,Bangalore,No
+ORD0851,07-12-2023 19:12,Overnight,In Transit,214,DTDC,TRK3D8D8612,7,Mumbai,Yes
+ORD0510,12-11-2023 04:09,Next Day,In Transit,282,Amazon Shipping,TRKE2A54DC5,5,Delhi,Yes
+ORD0562,03-05-2024 08:14,Standard,Delivered,483,Amazon Shipping,TRK216F753F,3,Delhi,Yes
+ORD0370,08-01-2025 04:28,Standard,In Transit,82,Blue Dart,TRKFFCED1C5,4,Mumbai,No
+ORD0917,26-10-2023 15:03,Next Day,Delivered,87,Amazon Shipping,TRK1A9AF27C,6,Mumbai,No
+ORD0031,04-10-2023 08:50,Overnight,Delivered,255,DTDC,TRK1EB007F2,2,Mumbai,No
+ORD0654,14-11-2023 21:45,Overnight,Pending,460,Delhivery,TRKFD084B1E,7,Mumbai,No
+ORD0051,27-08-2025 20:04,Next Day,Out for Delivery,326,DTDC,TRKA5CFE3CF,5,Kolkata,No
+ORD0935,08-04-2024 22:12,Next Day,In Transit,372,Delhivery,TRK6903E8FB,3,Pune,No
+ORD0850,12-01-2024 10:37,Next Day,Delivered,207,DTDC,TRKCD926643,6,Hyderabad,Yes
+ORD0963,04-03-2025 09:27,Standard,Delivered,113,Delhivery,TRKD3879E90,4,Pune,No
+ORD0716,16-06-2024 21:47,Next Day,Pending,287,FedEx,TRKDFB73471,5,Mumbai,No
+ORD0133,31-07-2024 05:17,Next Day,Delivered,99,FedEx,TRKFCD31B43,2,Kolkata,Yes
+ORD0810,02-02-2025 06:14,Next Day,Pending,206,DTDC,TRK7A6D3137,2,Chennai,No
+ORD0777,31-07-2025 14:25,Express,In Transit,390,Blue Dart,TRKB054570A,6,Mumbai,No
+ORD0721,15-07-2024 06:15,Express,Out for Delivery,281,Amazon Shipping,TRK8EEB5C1E,3,Chennai,No
+ORD0673,09-02-2024 07:56,Overnight,In Transit,423,Blue Dart,TRK35AE12F6,2,Kolkata,No
+ORD0652,01-07-2024 23:05,Express,Out for Delivery,318,Amazon Shipping,TRK7BB71917,6,Chennai,Yes
+ORD0370,10-07-2025 04:17,Next Day,In Transit,284,Blue Dart,TRKA97FF09B,6,Kolkata,Yes
+ORD0221,02-02-2024 20:13,Overnight,Pending,400,Delhivery,TRK72FE4629,3,Hyderabad,No
+ORD0031,20-10-2024 04:13,Express,Pending,390,FedEx,TRK3228C55A,3,Hyderabad,No
+ORD0785,10-08-2024 19:28,Overnight,Out for Delivery,186,Blue Dart,TRK749CC7A2,7,Chennai,Yes
+ORD0600,25-02-2025 21:33,Express,Out for Delivery,420,FedEx,TRK82BE65D9,7,Bangalore,Yes
+ORD0728,23-05-2025 10:32,Standard,Pending,388,FedEx,TRK2EE9741A,5,Delhi,Yes
+ORD0485,29-10-2024 13:22,Overnight,In Transit,475,Blue Dart,TRK8580B56A,4,Mumbai,No
+ORD0646,18-12-2023 16:19,Standard,Delivered,260,FedEx,TRK26A30607,3,Delhi,No
+ORD0799,25-06-2025 14:29,Standard,Out for Delivery,403,Blue Dart,TRK2BA9A89A,2,Bangalore,No
+ORD0707,22-12-2024 00:56,Overnight,Out for Delivery,140,FedEx,TRKF360ED0F,3,Chennai,Yes
+ORD0819,17-04-2025 02:19,Next Day,In Transit,161,Blue Dart,TRKBC02CE0E,4,Chennai,Yes
+ORD0291,18-12-2023 22:27,Overnight,Out for Delivery,235,Delhivery,TRK8FEB985A,7,Hyderabad,No
+ORD0209,29-08-2024 22:50,Overnight,In Transit,93,Delhivery,TRK4597C346,2,Chennai,No
+ORD0272,19-09-2025 10:21,Overnight,Out for Delivery,340,DTDC,TRK8F652DE4,5,Hyderabad,No
+ORD0171,23-02-2025 16:50,Overnight,In Transit,488,DTDC,TRK0F32849B,5,Delhi,Yes
+ORD0921,05-04-2025 06:25,Standard,In Transit,369,Delhivery,TRK4B7DA0F9,2,Chennai,No
+ORD0771,07-11-2023 17:58,Express,Out for Delivery,388,FedEx,TRKE7D9A931,4,Delhi,No
+ORD0178,23-03-2025 00:39,Next Day,In Transit,215,Blue Dart,TRK73A2E437,7,Kolkata,No
+ORD0384,25-04-2024 16:15,Standard,Out for Delivery,172,Delhivery,TRK8501743F,2,Chennai,No
+ORD0829,30-08-2024 19:10,Overnight,Out for Delivery,383,Delhivery,TRK99989590,6,Delhi,No
+ORD0492,07-10-2023 19:24,Express,In Transit,74,DTDC,TRK864BBC65,5,Pune,Yes
+ORD0267,11-04-2025 18:03,Express,Delivered,63,Amazon Shipping,TRK8131AED5,2,Delhi,No
+ORD0415,24-12-2023 01:46,Express,Pending,323,FedEx,TRKD0C59950,3,Bangalore,Yes
+ORD0763,12-03-2024 20:16,Standard,Out for Delivery,373,FedEx,TRKDF575C8D,2,Chennai,No
+ORD0755,23-05-2025 05:34,Next Day,Delivered,421,Delhivery,TRKF0CDD3FD,5,Pune,No
+ORD0249,17-01-2025 22:15,Next Day,Out for Delivery,360,Delhivery,TRKABB9E8A3,3,Pune,Yes
+ORD0532,29-09-2024 07:21,Standard,Pending,223,Delhivery,TRKDD6616B6,5,Mumbai,No
+ORD0449,23-04-2025 23:21,Overnight,Delivered,102,Delhivery,TRK88FC65E1,3,Bangalore,Yes
+ORD0143,12-02-2024 11:51,Express,Delivered,262,Delhivery,TRKB73DBB2E,2,Bangalore,Yes
+ORD0192,24-04-2025 12:48,Express,Pending,454,Amazon Shipping,TRKFCFE40E1,3,Hyderabad,Yes
+ORD0116,04-12-2024 13:08,Standard,Pending,90,DTDC,TRK0CA627AC,7,Hyderabad,No
+ORD0145,18-05-2024 04:09,Standard,Pending,366,FedEx,TRKA25D7DE1,5,Kolkata,No
+ORD0518,25-09-2025 03:02,Express,Delivered,81,Delhivery,TRKCEE7FA6F,4,Mumbai,No
+ORD0859,06-08-2025 02:15,Express,Out for Delivery,250,Delhivery,TRK565F5159,7,Chennai,Yes
+ORD0863,25-04-2024 05:11,Express,In Transit,411,Amazon Shipping,TRKD029B918,5,Mumbai,No
+ORD0593,01-09-2025 00:43,Express,Out for Delivery,428,Amazon Shipping,TRK7C73EEC9,7,Pune,No
+ORD0468,12-08-2025 04:25,Next Day,Pending,159,FedEx,TRK0EC14870,7,Pune,Yes
+ORD0608,16-05-2025 12:54,Standard,Out for Delivery,210,FedEx,TRKA1999C38,5,Kolkata,No
+ORD0676,22-01-2025 18:38,Express,Pending,277,FedEx,TRK52B086F0,2,Chennai,No
+ORD0738,17-12-2024 07:50,Standard,Delivered,238,Amazon Shipping,TRK4D519639,3,Kolkata,No
+ORD0748,17-06-2025 07:25,Standard,Out for Delivery,52,DTDC,TRK463F8A9B,3,Kolkata,Yes
+ORD0999,05-03-2025 22:00,Overnight,Pending,429,Delhivery,TRK58A958DA,3,Kolkata,No
+ORD0786,17-11-2023 21:24,Next Day,Pending,267,Delhivery,TRK12DC819C,6,Chennai,Yes
+ORD0366,12-02-2025 20:00,Next Day,Pending,58,FedEx,TRK02F34597,4,Pune,Yes
+ORD0817,01-03-2025 05:51,Standard,Delivered,95,Amazon Shipping,TRK1770822F,4,Delhi,No
+ORD0170,07-06-2024 18:36,Express,Pending,209,DTDC,TRK3AA154BA,2,Kolkata,Yes
+ORD0898,16-11-2024 10:14,Overnight,Out for Delivery,348,DTDC,TRK47A8356D,2,Kolkata,No
+ORD0806,19-09-2025 23:29,Express,Out for Delivery,257,DTDC,TRKDB65BE43,3,Bangalore,Yes
+ORD0821,23-03-2025 16:59,Express,Pending,445,FedEx,TRKFA19CBCD,7,Kolkata,No
+ORD0039,04-02-2024 18:37,Next Day,Out for Delivery,446,DTDC,TRK37D157FD,5,Delhi,No
+ORD0897,03-11-2024 17:42,Overnight,In Transit,219,Delhivery,TRK50411D8F,3,Delhi,No
+ORD0961,31-07-2024 15:37,Overnight,Pending,284,Amazon Shipping,TRK831658B5,7,Mumbai,Yes
+ORD0676,15-12-2024 11:14,Overnight,In Transit,486,Blue Dart,TRK078EB651,5,Kolkata,Yes
+ORD0637,15-10-2024 17:59,Next Day,Out for Delivery,499,Blue Dart,TRK20EAF2DF,3,Pune,No
+ORD0509,05-03-2024 14:19,Standard,In Transit,80,Blue Dart,TRK44F72B79,7,Kolkata,No
+ORD0276,20-10-2024 12:34,Next Day,Delivered,80,Amazon Shipping,TRKD8644A62,4,Pune,Yes
+ORD0351,27-02-2025 23:37,Standard,In Transit,194,Blue Dart,TRK479344C7,5,Kolkata,No
+ORD0482,25-12-2024 05:51,Express,Out for Delivery,85,Blue Dart,TRK51C89525,7,Kolkata,No
+ORD0385,06-06-2024 23:40,Express,Out for Delivery,132,Amazon Shipping,TRK4AAF8183,4,Chennai,Yes
+ORD0320,13-05-2025 18:17,Next Day,In Transit,61,DTDC,TRK95F17C9D,2,Kolkata,No
+ORD0145,05-03-2025 06:23,Next Day,In Transit,154,DTDC,TRK8C8DF736,5,Mumbai,Yes
+ORD0540,22-12-2023 06:55,Next Day,Pending,146,FedEx,TRK6F4FACBD,3,Kolkata,Yes
+ORD0667,20-11-2024 02:40,Overnight,In Transit,387,Blue Dart,TRK870CCE84,7,Kolkata,Yes
+ORD0294,02-05-2024 00:07,Standard,Pending,93,FedEx,TRK49A0B9D8,2,Delhi,Yes
+ORD0849,24-07-2024 18:18,Express,Delivered,308,DTDC,TRK22F403C3,4,Bangalore,Yes
+ORD0542,10-05-2025 09:31,Overnight,In Transit,264,FedEx,TRK8C0E7F52,2,Hyderabad,Yes
+ORD0694,25-09-2024 12:29,Express,Delivered,163,FedEx,TRK08FE82B3,6,Kolkata,Yes
+ORD0749,17-09-2025 07:03,Standard,Delivered,347,Blue Dart,TRK8C339CAC,5,Chennai,No
+ORD0511,30-03-2025 15:46,Next Day,Pending,172,FedEx,TRKBAD926AF,4,Pune,No
+ORD0387,08-02-2024 22:31,Overnight,Out for Delivery,202,DTDC,TRKFF2613FF,6,Mumbai,Yes
+ORD0257,17-01-2024 15:58,Standard,Out for Delivery,462,DTDC,TRK818AD561,3,Bangalore,Yes
+ORD0111,05-04-2025 14:06,Express,Pending,369,Blue Dart,TRK4C1986B5,6,Bangalore,No
+ORD0211,09-07-2024 11:39,Standard,In Transit,148,Blue Dart,TRK7263C113,3,Hyderabad,Yes
+ORD0211,14-03-2024 20:00,Standard,Out for Delivery,385,Amazon Shipping,TRK3205BDFA,4,Bangalore,Yes
+ORD0476,01-12-2024 13:53,Express,Pending,178,Delhivery,TRK15D7F84A,5,Delhi,No
+ORD0015,28-05-2025 22:12,Next Day,Out for Delivery,417,Delhivery,TRKFF039937,4,Hyderabad,Yes
+ORD0765,28-06-2025 19:07,Overnight,Pending,273,Blue Dart,TRKA3970AF2,2,Chennai,No
+ORD0576,07-06-2025 16:45,Overnight,In Transit,282,Amazon Shipping,TRK9784EC23,5,Delhi,Yes
+ORD0179,21-09-2025 20:01,Overnight,Delivered,273,Amazon Shipping,TRK97A766EC,4,Pune,No
+ORD0941,11-12-2023 11:52,Overnight,In Transit,391,Delhivery,TRK686E9946,3,Delhi,No
+ORD0520,10-03-2025 12:58,Express,Pending,286,Delhivery,TRKD9674D81,3,Bangalore,Yes
+ORD0550,25-12-2023 19:10,Standard,Out for Delivery,475,Amazon Shipping,TRKB67549E8,4,Mumbai,No
+ORD0695,27-07-2024 11:25,Overnight,Delivered,433,Amazon Shipping,TRK78C2E176,4,Bangalore,No
+ORD0673,19-12-2023 02:15,Overnight,Pending,178,DTDC,TRKB58CEE1F,3,Delhi,Yes
+ORD0031,15-09-2025 04:28,Standard,Out for Delivery,136,DTDC,TRK20B5000E,3,Pune,No
+ORD0508,17-11-2024 04:22,Overnight,Out for Delivery,180,FedEx,TRK832919FF,2,Pune,Yes
+ORD0515,27-01-2025 12:26,Next Day,Pending,356,DTDC,TRK83DBC6A0,2,Mumbai,No
+ORD0385,22-06-2024 03:19,Standard,In Transit,266,FedEx,TRK847F5533,3,Pune,No
+ORD0926,06-04-2024 07:03,Express,Delivered,79,DTDC,TRK8F40D85A,7,Mumbai,No
+ORD0496,14-01-2025 06:22,Standard,Pending,173,DTDC,TRK43D14364,7,Pune,No
+ORD0044,05-02-2024 10:02,Express,Delivered,261,Delhivery,TRK65A6CE5A,3,Hyderabad,No
+ORD0013,14-05-2025 00:19,Next Day,In Transit,460,Delhivery,TRK158FE350,5,Bangalore,No
+ORD0493,09-12-2023 11:49,Express,Pending,226,DTDC,TRK85D3E74F,7,Delhi,Yes
+ORD0891,15-03-2024 07:02,Next Day,Pending,401,Amazon Shipping,TRKCE4FAA18,4,Mumbai,No
+ORD0697,19-01-2025 19:11,Next Day,Pending,316,Amazon Shipping,TRK2D2F8220,2,Bangalore,No
+ORD0761,21-07-2024 20:49,Standard,Out for Delivery,236,FedEx,TRK5E445D5B,7,Chennai,Yes
+ORD0881,05-03-2025 03:16,Next Day,Out for Delivery,72,Amazon Shipping,TRK6FEC6475,3,Chennai,Yes
+ORD0398,19-06-2024 23:53,Next Day,Delivered,224,Amazon Shipping,TRKA407AE0D,4,Bangalore,Yes
+ORD0713,28-10-2024 17:43,Standard,Delivered,162,Blue Dart,TRK072A69F9,6,Bangalore,No
+ORD0193,12-11-2024 13:58,Express,Out for Delivery,240,Delhivery,TRK85C1D403,6,Delhi,No
+ORD0405,14-09-2025 04:57,Next Day,Delivered,353,Blue Dart,TRKED40C2B5,2,Delhi,No
+ORD0926,27-09-2024 18:12,Next Day,Out for Delivery,335,FedEx,TRK21E4C6F4,6,Chennai,No
+ORD0539,01-03-2024 00:08,Next Day,In Transit,93,Amazon Shipping,TRKD6F57B2D,5,Delhi,Yes
+ORD0356,24-02-2025 13:13,Next Day,Delivered,183,Blue Dart,TRK3ACD6BB9,5,Kolkata,Yes
+ORD0185,25-04-2025 17:59,Standard,Pending,178,Blue Dart,TRK01C9480E,3,Mumbai,Yes
+ORD0138,29-09-2025 18:06,Overnight,Pending,350,Delhivery,TRKC75A06D4,2,Chennai,No
+ORD0209,04-12-2023 23:25,Standard,Pending,174,FedEx,TRKFB7E0AC9,7,Hyderabad,Yes
+ORD0857,04-12-2024 17:00,Overnight,Out for Delivery,165,FedEx,TRK62316966,2,Chennai,Yes
+ORD0178,21-06-2025 08:36,Standard,Pending,146,DTDC,TRKE39E26A9,5,Chennai,Yes
+ORD0657,27-06-2024 19:46,Overnight,Pending,282,DTDC,TRK51238EAE,5,Kolkata,No
+ORD0171,10-12-2023 13:00,Overnight,Delivered,50,DTDC,TRK6FFA0B57,2,Pune,Yes
+ORD0223,28-10-2023 21:40,Express,Pending,154,Delhivery,TRKD1621D55,3,Pune,Yes
+ORD0316,25-09-2024 05:51,Express,Pending,205,FedEx,TRKBD03CF44,3,Hyderabad,No
+ORD0131,31-10-2023 00:08,Express,Out for Delivery,479,FedEx,TRKB3F87FED,2,Mumbai,Yes
+ORD0014,19-08-2024 17:39,Standard,Pending,488,Amazon Shipping,TRKEC701CBD,4,Kolkata,No
+ORD0990,02-01-2024 01:08,Standard,Out for Delivery,152,Delhivery,TRKCCFB3982,7,Mumbai,Yes
+ORD0672,19-02-2024 15:46,Standard,Pending,298,Amazon Shipping,TRKE5A79371,2,Pune,Yes
+ORD0653,27-10-2023 23:17,Next Day,Pending,251,Blue Dart,TRK3934AFBB,5,Hyderabad,No
+ORD0492,11-09-2025 02:08,Standard,In Transit,131,FedEx,TRK3DE1903F,4,Kolkata,No
+ORD0345,17-05-2024 11:05,Express,In Transit,400,FedEx,TRKD4F2B713,6,Mumbai,Yes
+ORD0684,20-07-2024 00:00,Overnight,Delivered,476,Blue Dart,TRKC71C3687,5,Bangalore,Yes
+ORD0354,20-11-2024 04:41,Express,Delivered,387,Blue Dart,TRK8724701D,3,Hyderabad,No
+ORD0758,22-09-2024 20:19,Express,Pending,402,DTDC,TRK06775956,5,Chennai,Yes
+ORD0597,16-08-2024 12:16,Overnight,Delivered,466,Blue Dart,TRK2BBB9A33,2,Bangalore,No
+ORD0514,23-07-2024 14:05,Standard,Pending,454,Delhivery,TRK868FB246,3,Hyderabad,No
+ORD0338,02-09-2024 14:07,Overnight,Out for Delivery,457,Amazon Shipping,TRKEC29C51C,6,Mumbai,No
+ORD0164,13-05-2025 08:55,Express,In Transit,52,Delhivery,TRKB052B5BB,4,Mumbai,No
+ORD0602,29-12-2023 08:47,Next Day,Pending,261,DTDC,TRKD008679C,6,Mumbai,Yes
+ORD0410,11-11-2023 05:17,Standard,Pending,488,DTDC,TRK8CCCAF66,5,Chennai,No
+ORD0141,17-02-2025 06:40,Express,In Transit,410,FedEx,TRKA681841B,2,Pune,No
+ORD0673,17-09-2025 23:53,Standard,In Transit,338,DTDC,TRK643B9566,6,Pune,No
+ORD0595,29-01-2024 17:47,Express,Out for Delivery,429,DTDC,TRK6AD480AD,5,Chennai,No
+ORD0885,09-03-2024 04:48,Standard,In Transit,327,Amazon Shipping,TRKF387A0FD,5,Bangalore,No
+ORD0017,19-07-2025 15:36,Standard,Delivered,407,DTDC,TRK05395F38,6,Bangalore,No
+ORD0763,08-11-2024 18:27,Express,In Transit,156,Amazon Shipping,TRK4A486600,7,Hyderabad,No
+ORD0983,01-12-2024 01:33,Express,Pending,463,Delhivery,TRKAF4D77D2,2,Kolkata,No
+ORD0090,13-01-2025 00:01,Next Day,Delivered,262,FedEx,TRKBB0D33F4,2,Kolkata,No
+ORD0688,04-10-2023 12:30,Next Day,Delivered,411,Amazon Shipping,TRKDF5C87B9,5,Kolkata,Yes
+ORD0959,15-02-2025 20:25,Express,Delivered,392,Blue Dart,TRKFB090FE9,2,Pune,Yes
+ORD0949,23-05-2024 04:26,Express,Delivered,84,Blue Dart,TRKFE1984C1,2,Pune,No
+ORD0406,20-07-2024 20:45,Next Day,In Transit,276,Blue Dart,TRKB1F8C431,2,Delhi,No
+ORD0229,12-02-2024 21:19,Overnight,In Transit,242,DTDC,TRKA1B04A40,5,Chennai,Yes
+ORD0472,08-04-2025 12:49,Standard,Delivered,227,FedEx,TRK9709FD00,7,Pune,No
+ORD0503,28-04-2025 19:06,Express,Pending,300,FedEx,TRK0D4BADBA,2,Bangalore,No
+ORD0401,03-12-2023 09:53,Express,In Transit,88,FedEx,TRK0F4FDADE,4,Hyderabad,Yes
+ORD0605,23-03-2025 20:45,Overnight,Out for Delivery,267,Amazon Shipping,TRK4FEF43AE,7,Kolkata,No
+ORD0765,12-03-2024 23:01,Standard,Out for Delivery,314,Amazon Shipping,TRK27546638,5,Kolkata,Yes
+ORD0060,12-08-2025 15:02,Overnight,In Transit,98,Blue Dart,TRK3D2FB2FB,6,Pune,Yes
+ORD0433,18-10-2023 21:12,Express,Out for Delivery,189,FedEx,TRK4B0CF2C5,6,Mumbai,Yes
+ORD0578,08-07-2025 11:28,Standard,Out for Delivery,57,Delhivery,TRK24BE1AE3,4,Chennai,Yes
+ORD0852,04-09-2024 11:57,Next Day,Delivered,70,Delhivery,TRKFDA1F271,2,Kolkata,Yes
+ORD0990,12-04-2025 21:07,Next Day,In Transit,315,Amazon Shipping,TRKBF68179C,4,Bangalore,No
+ORD0452,22-09-2024 11:53,Express,Out for Delivery,422,FedEx,TRKC5C968EF,4,Delhi,No
+ORD0772,26-02-2025 07:59,Express,Delivered,333,Amazon Shipping,TRKD58387F3,4,Mumbai,Yes
+ORD0110,09-11-2023 13:30,Overnight,Pending,304,Delhivery,TRKE7EF2C7D,6,Delhi,Yes
+ORD0112,21-02-2025 07:58,Standard,Out for Delivery,200,Blue Dart,TRK834E4C51,7,Kolkata,No
+ORD0671,22-07-2025 07:40,Express,Out for Delivery,372,Delhivery,TRK79162BE2,2,Mumbai,Yes
+ORD0202,01-08-2025 14:41,Overnight,Delivered,345,DTDC,TRK268DA3B7,3,Hyderabad,No
+ORD0065,25-11-2023 07:12,Overnight,Pending,368,Amazon Shipping,TRK7B0C08A1,7,Pune,Yes
+ORD0747,30-05-2024 03:53,Express,In Transit,176,Amazon Shipping,TRK26A50D43,6,Hyderabad,No
+ORD0696,17-02-2024 18:50,Next Day,Pending,486,FedEx,TRK040DD91A,2,Hyderabad,No
+ORD0852,15-08-2025 23:10,Overnight,Delivered,153,DTDC,TRKBC776EBC,2,Hyderabad,Yes
+ORD0578,11-11-2023 23:13,Next Day,In Transit,323,FedEx,TRK3C8ECDFF,4,Bangalore,Yes
+ORD0022,20-09-2025 20:07,Standard,In Transit,258,Blue Dart,TRKF0A66FD4,3,Hyderabad,Yes
+ORD0649,17-02-2024 16:07,Next Day,Delivered,142,FedEx,TRKD2A5D7DC,5,Delhi,Yes
+ORD0899,25-11-2023 17:18,Next Day,Delivered,228,DTDC,TRKB4426E20,6,Mumbai,No
+ORD0121,01-04-2024 12:42,Express,Delivered,89,FedEx,TRK1488F03C,6,Chennai,Yes
+ORD0350,21-10-2023 03:33,Next Day,Pending,481,FedEx,TRKAE4741E8,5,Mumbai,Yes
+ORD0722,24-07-2025 17:20,Express,Delivered,497,Blue Dart,TRKC12F08F9,2,Delhi,No
+ORD0328,07-02-2024 00:22,Overnight,Delivered,233,Amazon Shipping,TRK500ABFA3,6,Pune,Yes
+ORD0244,15-02-2024 18:39,Standard,In Transit,263,Delhivery,TRK0017F1FC,5,Chennai,No
+ORD0543,30-09-2025 13:16,Standard,In Transit,186,Amazon Shipping,TRK74D0A8A4,5,Hyderabad,Yes
+ORD0388,01-04-2024 04:18,Overnight,Pending,82,Blue Dart,TRK60264099,5,Bangalore,No
+ORD0489,15-11-2024 00:37,Overnight,Delivered,405,DTDC,TRK2CD78779,4,Delhi,No
+ORD0365,26-09-2025 13:45,Overnight,Pending,418,DTDC,TRKA42A37FF,4,Hyderabad,Yes
+ORD0877,08-06-2024 09:28,Express,Pending,385,Amazon Shipping,TRKE4ACC870,6,Mumbai,Yes
+ORD0836,22-05-2024 18:43,Overnight,Delivered,440,Delhivery,TRK3734E605,2,Bangalore,No
+ORD0488,29-06-2024 01:21,Express,Out for Delivery,88,DTDC,TRK35823CB1,5,Chennai,No
+ORD0754,27-11-2023 17:27,Next Day,Delivered,382,DTDC,TRKE636DD91,2,Hyderabad,No
+ORD0769,07-03-2025 15:51,Standard,In Transit,308,Blue Dart,TRK5716C12C,2,Pune,Yes
+ORD0266,10-08-2025 09:10,Overnight,Delivered,140,FedEx,TRKE7230500,4,Kolkata,No
+ORD0053,01-05-2024 21:19,Overnight,Out for Delivery,242,Blue Dart,TRK5EC8E529,7,Delhi,Yes
+ORD0797,29-01-2025 21:07,Express,In Transit,203,Amazon Shipping,TRK7753F39D,4,Delhi,No
+ORD0788,11-10-2024 11:49,Next Day,Delivered,223,Delhivery,TRK14781136,4,Pune,No
+ORD0740,16-10-2024 09:15,Express,Pending,148,Amazon Shipping,TRK2801DD97,6,Mumbai,Yes
+ORD0824,06-10-2023 04:37,Overnight,In Transit,287,Delhivery,TRKC0411EC6,5,Mumbai,No
+ORD0792,09-08-2024 10:48,Next Day,Pending,426,DTDC,TRK8517DD60,5,Chennai,Yes
+ORD0976,06-09-2024 08:02,Next Day,Delivered,157,Amazon Shipping,TRKF648CFD7,4,Hyderabad,No
+ORD0481,09-02-2025 02:48,Next Day,In Transit,261,Amazon Shipping,TRKEE8A1BA9,2,Kolkata,Yes
+ORD0941,17-01-2024 20:27,Express,In Transit,420,Amazon Shipping,TRKDE00A385,4,Mumbai,Yes
+ORD0956,10-10-2024 07:09,Express,In Transit,311,Delhivery,TRK2FF23DE7,5,Delhi,No
+ORD0247,15-03-2025 11:43,Overnight,Delivered,306,DTDC,TRKA6103A72,4,Bangalore,No
+ORD0285,17-12-2023 00:33,Express,Out for Delivery,325,Amazon Shipping,TRKF47BA29D,3,Mumbai,No
+ORD0785,13-02-2025 12:02,Standard,In Transit,227,FedEx,TRK3BA5A552,3,Mumbai,Yes
+ORD0927,16-01-2025 08:21,Express,Pending,293,Blue Dart,TRK09CB7A5E,4,Hyderabad,No
+ORD0892,07-03-2024 05:54,Standard,Out for Delivery,278,Amazon Shipping,TRKA7222A50,6,Chennai,No
+ORD0454,27-02-2024 06:28,Next Day,Pending,384,Blue Dart,TRKF00178E4,2,Delhi,Yes
+ORD0799,24-09-2025 01:20,Overnight,Delivered,318,FedEx,TRKF07AE710,3,Pune,No
+ORD0929,07-09-2025 22:03,Overnight,Pending,199,Blue Dart,TRK0C227420,4,Chennai,No
+ORD0052,09-03-2025 16:27,Express,In Transit,60,Amazon Shipping,TRK8D1262CF,3,Pune,No
+ORD0558,11-03-2025 23:28,Express,Out for Delivery,252,FedEx,TRK43AB304B,7,Delhi,No
+ORD0215,07-11-2023 05:56,Next Day,In Transit,174,Delhivery,TRK284E233A,6,Bangalore,No
+ORD0043,04-09-2024 02:00,Next Day,In Transit,431,FedEx,TRK500A8B0D,3,Kolkata,Yes
+ORD0242,19-09-2024 12:07,Next Day,Out for Delivery,361,Delhivery,TRK32655C3E,6,Pune,No
+ORD0802,02-09-2024 17:29,Next Day,Out for Delivery,342,Delhivery,TRK9C37A35E,7,Mumbai,No
+ORD0827,10-09-2024 01:45,Overnight,In Transit,489,Delhivery,TRK78351BC4,3,Mumbai,Yes
+ORD0731,22-01-2024 07:45,Standard,Pending,260,Blue Dart,TRKD79D66FA,5,Chennai,Yes
+ORD0770,22-12-2023 04:15,Overnight,Out for Delivery,478,DTDC,TRKA687A1BA,4,Mumbai,No
+ORD0769,13-09-2025 09:11,Overnight,Pending,365,FedEx,TRK3B734A65,3,Delhi,No
+ORD0078,07-04-2025 13:26,Standard,Out for Delivery,319,FedEx,TRK17DB582A,2,Mumbai,No
+ORD0749,11-03-2024 18:38,Standard,Delivered,143,FedEx,TRK23302602,2,Bangalore,No
+ORD0606,13-09-2025 18:13,Standard,Pending,184,Amazon Shipping,TRKC1A4DB73,7,Bangalore,Yes
+ORD0524,05-07-2024 22:21,Standard,Pending,470,Blue Dart,TRK910F21F4,4,Bangalore,Yes
+ORD0988,31-05-2025 03:04,Next Day,Pending,370,FedEx,TRK6487818E,6,Kolkata,No
+ORD0328,29-01-2024 12:50,Express,In Transit,88,FedEx,TRKE9ABC465,4,Mumbai,Yes
+ORD0934,27-12-2024 05:36,Overnight,In Transit,158,Amazon Shipping,TRK387B3FD0,6,Delhi,No
+ORD0273,26-07-2024 23:56,Overnight,Delivered,285,Delhivery,TRK9664E8EC,2,Hyderabad,Yes
+ORD0704,04-12-2023 01:53,Express,Out for Delivery,62,Blue Dart,TRKF697197D,3,Hyderabad,Yes
+ORD0355,09-10-2024 05:33,Standard,Pending,272,FedEx,TRK08C71C1E,2,Bangalore,No
+ORD0240,17-01-2025 02:15,Express,Delivered,305,Delhivery,TRK237AE6BF,4,Chennai,No
+ORD0366,23-08-2025 22:36,Standard,In Transit,338,Amazon Shipping,TRKC95F639D,7,Delhi,No
+ORD0772,08-02-2024 04:08,Express,In Transit,52,Blue Dart,TRKF85D814F,6,Hyderabad,Yes
+ORD0366,18-12-2023 02:08,Express,Delivered,310,Amazon Shipping,TRKC44172D5,7,Bangalore,Yes
+ORD0114,07-01-2025 08:37,Next Day,Delivered,111,Blue Dart,TRKC8CD9E3D,5,Kolkata,No
+ORD0171,27-04-2024 20:21,Standard,Out for Delivery,438,Delhivery,TRK549EAA55,5,Hyderabad,Yes
+ORD0730,20-01-2025 00:57,Overnight,Delivered,168,Amazon Shipping,TRK3BE0D055,4,Delhi,Yes
+ORD0253,07-04-2024 14:51,Express,Out for Delivery,73,Blue Dart,TRKC24FFCDB,5,Bangalore,No
+ORD0834,23-02-2024 19:18,Express,In Transit,308,DTDC,TRK8EC4DC1D,4,Mumbai,Yes
+ORD0494,14-05-2025 03:47,Next Day,Out for Delivery,181,Blue Dart,TRKABC7CDD5,6,Kolkata,No
+ORD0159,02-09-2025 21:58,Overnight,Delivered,147,Blue Dart,TRK90890C73,2,Kolkata,No
+ORD0656,17-04-2025 23:54,Standard,Out for Delivery,334,FedEx,TRK4FF33EA6,7,Delhi,Yes
+ORD0605,20-05-2024 17:35,Standard,Out for Delivery,465,Delhivery,TRKB6815A21,4,Mumbai,No
+ORD0960,19-04-2024 18:05,Next Day,Delivered,221,Amazon Shipping,TRK7C844212,2,Pune,No
+ORD0121,25-08-2025 12:15,Express,In Transit,288,FedEx,TRKA65B8392,3,Mumbai,Yes
+ORD0630,01-07-2024 10:20,Next Day,Out for Delivery,197,DTDC,TRK1FF0F7CC,5,Kolkata,Yes
+ORD0582,21-01-2025 05:28,Standard,Pending,113,FedEx,TRK182E2F27,4,Pune,Yes
+ORD0031,23-11-2024 06:06,Overnight,Out for Delivery,251,Amazon Shipping,TRKAC932C32,7,Kolkata,No
+ORD0938,03-06-2024 08:13,Next Day,Out for Delivery,395,FedEx,TRK251997C1,3,Chennai,No
+ORD0800,14-06-2025 19:17,Next Day,Pending,243,Delhivery,TRK1C7D0CC7,5,Delhi,Yes
+ORD0404,14-04-2025 04:32,Standard,Out for Delivery,485,FedEx,TRKE5441B32,4,Mumbai,Yes
+ORD0007,24-10-2023 11:38,Standard,Delivered,148,FedEx,TRK7CF99CBB,6,Kolkata,Yes
+ORD0514,06-04-2024 19:33,Express,Out for Delivery,480,Blue Dart,TRK29D1283A,6,Hyderabad,No
+ORD0005,13-05-2025 19:25,Express,In Transit,446,DTDC,TRKFE3D1E8E,2,Chennai,Yes
+ORD0141,30-08-2025 13:19,Overnight,Pending,275,DTDC,TRK82F78FCD,3,Hyderabad,No
+ORD0429,24-01-2025 20:07,Overnight,Delivered,161,Delhivery,TRK2CE23BC3,5,Delhi,No
+ORD0482,31-05-2025 19:41,Standard,Pending,211,Blue Dart,TRK51792A31,4,Pune,Yes
+ORD0255,17-09-2025 19:10,Express,Pending,247,DTDC,TRK72133D93,3,Kolkata,Yes
+ORD0775,01-01-2024 14:02,Express,Delivered,157,Amazon Shipping,TRK3CA1CE2B,4,Delhi,No
+ORD0139,24-04-2024 22:54,Next Day,Delivered,317,Amazon Shipping,TRK833ABDC8,4,Delhi,Yes
+ORD0615,12-08-2024 01:54,Next Day,In Transit,198,Delhivery,TRKD1331D33,2,Mumbai,No
+ORD0635,08-12-2024 08:05,Next Day,Out for Delivery,283,DTDC,TRK008B644D,4,Hyderabad,No
+ORD0207,08-08-2025 20:31,Next Day,Pending,68,DTDC,TRKFEB79F32,6,Kolkata,Yes
+ORD0590,05-10-2024 02:02,Next Day,Delivered,358,DTDC,TRK07AD2299,4,Pune,No
+ORD0881,06-03-2025 03:28,Next Day,Pending,169,Amazon Shipping,TRK1D19638E,5,Mumbai,Yes
+ORD0680,24-10-2024 05:19,Overnight,Delivered,225,FedEx,TRK11FA48BD,3,Chennai,Yes
+ORD0945,26-05-2025 08:08,Standard,Out for Delivery,464,Delhivery,TRK2F137575,7,Hyderabad,No
+ORD0990,07-01-2025 08:09,Next Day,Out for Delivery,159,Delhivery,TRK249B3978,5,Pune,Yes
+ORD0825,11-05-2025 15:59,Next Day,Pending,460,Delhivery,TRKA327454D,7,Hyderabad,No
+ORD0976,08-06-2025 07:52,Standard,Pending,213,Amazon Shipping,TRKB75BC268,5,Delhi,Yes
+ORD0421,17-05-2025 01:24,Overnight,Delivered,110,Delhivery,TRK61809DBB,4,Kolkata,No
+ORD0451,13-09-2024 19:46,Next Day,Pending,106,Blue Dart,TRK0393AFBF,5,Bangalore,No
+ORD0711,29-01-2025 07:03,Standard,In Transit,480,Amazon Shipping,TRK44785D6A,2,Delhi,No
+ORD0777,29-10-2024 17:19,Overnight,In Transit,182,Amazon Shipping,TRK84A3D2A7,7,Kolkata,Yes
+ORD0640,26-09-2024 20:49,Standard,Out for Delivery,101,DTDC,TRK2B0E41FC,7,Kolkata,No
+ORD0897,11-07-2025 11:35,Express,Pending,415,Blue Dart,TRKD4C58F77,2,Hyderabad,No
+ORD0220,13-11-2024 13:53,Next Day,In Transit,113,Amazon Shipping,TRKA12EEEC4,4,Bangalore,No
+ORD0995,09-07-2024 20:29,Standard,Pending,470,Delhivery,TRK40192974,5,Pune,No
+ORD0262,12-07-2025 15:29,Standard,Out for Delivery,433,DTDC,TRK402FC3D7,2,Mumbai,Yes
+ORD0765,16-02-2024 00:04,Overnight,Delivered,451,FedEx,TRK116558FA,4,Chennai,Yes
+ORD0153,08-04-2025 05:25,Standard,Delivered,422,FedEx,TRK2F930EE4,4,Pune,Yes
+ORD0456,18-07-2024 07:35,Next Day,In Transit,349,FedEx,TRK53194D1C,6,Hyderabad,Yes
+ORD0181,16-09-2024 06:03,Overnight,Out for Delivery,128,FedEx,TRK1720ADF4,3,Hyderabad,No
+ORD0265,14-12-2023 15:59,Next Day,In Transit,492,DTDC,TRKD8974F05,2,Pune,No
+ORD0707,14-09-2024 08:07,Next Day,Pending,373,DTDC,TRK22F8E6B1,4,Chennai,No
+ORD0521,30-01-2024 14:17,Express,Pending,84,Delhivery,TRKDE981176,7,Bangalore,Yes
+ORD0998,20-04-2025 21:20,Express,Out for Delivery,381,Amazon Shipping,TRKF9420AAB,2,Pune,No
+ORD0710,03-05-2024 02:17,Next Day,Delivered,335,DTDC,TRKCD320E8E,3,Hyderabad,No
+ORD0003,06-05-2025 07:15,Standard,Pending,198,Blue Dart,TRKE2BFA09E,7,Mumbai,No
+ORD0063,29-04-2024 10:50,Overnight,Pending,456,Delhivery,TRK4EB79848,2,Bangalore,Yes
+ORD0206,27-05-2024 04:32,Next Day,Pending,483,FedEx,TRKC22B16AB,5,Bangalore,Yes
+ORD0492,18-05-2024 14:54,Next Day,Delivered,129,FedEx,TRKAF519FE8,6,Hyderabad,No
+ORD0106,30-03-2024 01:15,Next Day,In Transit,429,DTDC,TRK79208829,2,Chennai,No
+ORD0183,29-05-2025 23:50,Next Day,In Transit,341,Amazon Shipping,TRK2EF4F5E6,2,Hyderabad,No
+ORD0216,16-07-2025 15:34,Standard,Pending,418,FedEx,TRKC5D5B057,5,Chennai,Yes
+ORD0956,21-07-2024 13:16,Next Day,Delivered,123,DTDC,TRKCC3E703A,4,Delhi,Yes
+ORD0406,23-08-2024 11:28,Express,Delivered,213,Amazon Shipping,TRK616D81C1,4,Chennai,No
+ORD0908,05-04-2024 15:18,Express,Out for Delivery,264,Delhivery,TRKBD9C48BD,4,Chennai,No
+ORD0913,26-01-2024 18:48,Express,Delivered,399,Blue Dart,TRK0F9D3F60,5,Kolkata,Yes
+ORD0401,24-09-2024 02:37,Standard,Out for Delivery,413,DTDC,TRK45E5BFBC,2,Hyderabad,Yes
+ORD0403,16-10-2024 13:16,Express,Out for Delivery,65,Amazon Shipping,TRK105CACC8,5,Delhi,Yes
+ORD0886,04-03-2025 00:38,Express,Delivered,467,FedEx,TRKB81BABFA,5,Chennai,No
+ORD0416,23-08-2024 10:36,Overnight,Delivered,216,Blue Dart,TRK30433956,7,Hyderabad,Yes
+ORD0285,13-04-2024 08:41,Standard,Pending,339,DTDC,TRKF629D137,3,Bangalore,Yes
+ORD0719,30-07-2024 10:55,Next Day,Delivered,288,Amazon Shipping,TRK84AB5C1C,7,Mumbai,No
+ORD0568,22-10-2024 08:25,Express,Delivered,220,FedEx,TRK1FAA617F,3,Delhi,Yes
+ORD0229,24-11-2024 07:26,Next Day,Pending,201,DTDC,TRK4768A180,4,Pune,No
+ORD0137,15-06-2024 10:28,Standard,Out for Delivery,111,Delhivery,TRK57DE3E16,5,Mumbai,No
+ORD0682,16-05-2024 06:23,Next Day,Delivered,236,Blue Dart,TRK4011DD8E,6,Bangalore,Yes
+ORD0576,09-05-2025 02:55,Next Day,Out for Delivery,198,Delhivery,TRK8C884653,3,Pune,Yes
+ORD0352,24-06-2024 21:12,Next Day,In Transit,212,Amazon Shipping,TRK34CA1323,5,Kolkata,Yes
+ORD0896,19-09-2025 20:41,Express,Out for Delivery,270,Delhivery,TRK96E6AC6C,2,Chennai,Yes
+ORD0343,23-06-2024 16:38,Overnight,Delivered,237,Delhivery,TRKB8F6C6B3,5,Pune,No
+ORD0712,16-08-2025 09:35,Standard,In Transit,293,Amazon Shipping,TRKC71A9136,4,Kolkata,No
+ORD0224,10-09-2024 18:39,Express,Pending,460,Blue Dart,TRK1CEEC8E5,4,Pune,No
+ORD0827,04-09-2025 09:41,Standard,Delivered,369,FedEx,TRK7C05355A,5,Hyderabad,Yes
+ORD0115,16-02-2024 07:24,Overnight,Pending,440,Delhivery,TRK8B58D5E1,5,Bangalore,No
+ORD0079,28-10-2024 03:39,Express,Pending,444,DTDC,TRK5CA42080,3,Delhi,Yes
+ORD0131,19-12-2024 15:45,Overnight,Pending,70,Amazon Shipping,TRK6C98FDA6,2,Mumbai,Yes
+ORD0277,15-07-2024 14:42,Standard,In Transit,348,FedEx,TRKCF810C27,2,Kolkata,No
+ORD0045,21-04-2024 11:58,Overnight,In Transit,279,DTDC,TRKB517E5F1,6,Hyderabad,Yes
+ORD0829,12-07-2024 03:33,Next Day,Delivered,299,Amazon Shipping,TRKB7AFC774,3,Mumbai,Yes
+ORD0534,02-08-2024 13:13,Overnight,Delivered,218,Amazon Shipping,TRK3DAE0105,2,Kolkata,Yes
+ORD0275,20-03-2025 10:08,Express,In Transit,194,Delhivery,TRKAE05E6A5,4,Mumbai,Yes
+ORD0712,04-03-2025 07:45,Standard,Out for Delivery,242,Blue Dart,TRKFF96055F,4,Hyderabad,No
+ORD0830,06-02-2025 12:52,Standard,In Transit,104,Blue Dart,TRKBE6EA0C9,2,Mumbai,No
+ORD0719,10-07-2025 15:45,Overnight,Pending,61,Blue Dart,TRKA8A5AC5B,7,Mumbai,Yes
+ORD0935,18-02-2025 02:38,Next Day,Pending,474,FedEx,TRK88A301CE,4,Delhi,Yes
+ORD0153,25-05-2024 17:12,Overnight,In Transit,253,Blue Dart,TRK53FAEDE3,2,Chennai,No
+ORD0637,17-08-2024 00:17,Overnight,Out for Delivery,356,Delhivery,TRK84EAD874,3,Chennai,Yes
+ORD0883,05-02-2024 16:45,Express,Delivered,175,Blue Dart,TRK5170BA50,2,Hyderabad,No
+ORD0763,18-01-2024 19:36,Overnight,Pending,401,DTDC,TRK427C6504,5,Hyderabad,Yes
+ORD0778,05-12-2024 09:17,Next Day,Out for Delivery,301,Amazon Shipping,TRK823DDCC6,7,Mumbai,Yes
+ORD0024,20-08-2025 05:34,Overnight,Delivered,205,Blue Dart,TRK0A2949B1,6,Kolkata,No
+ORD0298,02-04-2024 14:41,Standard,Pending,188,DTDC,TRK6E249D0F,2,Kolkata,No
+ORD0148,02-03-2025 16:51,Overnight,In Transit,456,Blue Dart,TRKF94B1750,3,Pune,Yes
+ORD0024,27-09-2024 10:10,Express,Out for Delivery,422,Amazon Shipping,TRK55B5AFCF,5,Chennai,No
+ORD0097,19-02-2024 01:37,Next Day,Delivered,161,Amazon Shipping,TRKF2793FB8,4,Pune,No
+ORD0502,17-11-2023 03:07,Overnight,Pending,110,Amazon Shipping,TRK21376FA3,7,Mumbai,No
+ORD0876,05-08-2024 18:11,Express,In Transit,209,Delhivery,TRK0DCEDA84,6,Delhi,No
+ORD0278,18-01-2025 11:15,Overnight,In Transit,395,FedEx,TRK72777D3B,6,Kolkata,No
+ORD0579,27-09-2025 12:40,Standard,In Transit,57,FedEx,TRK3CC6D929,6,Chennai,No
+ORD0391,01-02-2025 15:00,Express,In Transit,239,Amazon Shipping,TRK5CF35708,5,Pune,Yes
+ORD0975,14-09-2024 02:51,Next Day,In Transit,121,Blue Dart,TRK52B73B0A,5,Kolkata,Yes
+ORD0085,04-05-2024 05:42,Next Day,Out for Delivery,168,DTDC,TRKB45B0F80,2,Kolkata,Yes
+ORD0628,13-04-2025 09:59,Overnight,Out for Delivery,375,FedEx,TRK95762655,6,Pune,Yes
+ORD0165,24-08-2024 11:10,Standard,Delivered,490,FedEx,TRKDA6811EC,5,Mumbai,Yes
+ORD0431,25-06-2025 13:20,Overnight,Out for Delivery,494,Delhivery,TRK9249CAE2,3,Hyderabad,No
+ORD0677,25-05-2025 03:24,Overnight,Out for Delivery,282,Blue Dart,TRKC53CE2D5,4,Hyderabad,Yes
+ORD0285,23-11-2024 13:32,Overnight,In Transit,368,Delhivery,TRK92E60FF0,2,Hyderabad,Yes
+ORD0191,02-04-2025 06:01,Standard,Pending,479,FedEx,TRKB4A59442,5,Pune,Yes
+ORD0910,13-11-2023 20:00,Next Day,Pending,431,DTDC,TRK0D858551,5,Chennai,Yes
+ORD0770,03-03-2025 19:11,Standard,Delivered,388,Delhivery,TRK597DCB8A,4,Mumbai,Yes
+ORD0522,06-07-2025 20:01,Express,Pending,483,Amazon Shipping,TRKAB28B812,3,Chennai,Yes
+ORD0812,29-11-2023 05:20,Next Day,Pending,414,FedEx,TRK7C50834A,6,Pune,No
+ORD0660,26-02-2024 00:34,Express,Out for Delivery,122,Blue Dart,TRK3053F044,4,Delhi,Yes
+ORD0964,08-04-2025 08:34,Express,In Transit,185,Blue Dart,TRKD96B0C06,4,Pune,No
+ORD0489,02-10-2024 14:03,Express,Pending,283,DTDC,TRK804E6401,4,Chennai,No
+ORD0050,08-05-2025 06:33,Standard,Out for Delivery,145,Delhivery,TRK4E28C263,2,Bangalore,No
+ORD0443,18-08-2025 12:17,Express,Pending,147,Amazon Shipping,TRK533D26B6,3,Kolkata,No
+ORD0729,12-04-2025 11:03,Next Day,Out for Delivery,140,Delhivery,TRKA128AB07,7,Pune,No
+ORD0474,08-09-2024 17:52,Express,Out for Delivery,389,Amazon Shipping,TRKC4FA1525,6,Bangalore,No
+ORD0771,07-04-2024 21:03,Standard,Pending,345,Blue Dart,TRK63A1963A,7,Kolkata,Yes
+ORD0539,24-03-2025 23:41,Express,In Transit,380,Delhivery,TRK7D357DDD,3,Bangalore,No
+ORD0418,15-05-2025 00:02,Next Day,Pending,353,DTDC,TRK055D1D4C,5,Hyderabad,No
+ORD0661,14-09-2024 09:12,Standard,Pending,160,FedEx,TRK3E66B577,7,Mumbai,Yes
+ORD0891,24-03-2025 04:55,Overnight,Out for Delivery,449,DTDC,TRK5C4FC34B,6,Delhi,Yes
+ORD0118,21-06-2025 10:17,Overnight,Pending,138,Blue Dart,TRK8B9B87E3,7,Bangalore,Yes
+ORD0090,17-12-2023 06:10,Overnight,Pending,159,FedEx,TRK92C1449C,5,Kolkata,No
+ORD0141,06-05-2025 10:25,Express,Pending,475,DTDC,TRK39A94D27,4,Pune,No
+ORD0696,16-06-2024 06:53,Standard,Pending,333,Blue Dart,TRK2280DC27,3,Mumbai,Yes
+ORD0564,21-07-2024 12:15,Standard,Delivered,453,Delhivery,TRK8C7142C7,2,Hyderabad,No
+ORD0183,19-02-2024 14:18,Next Day,Pending,355,Delhivery,TRK74F2E3E4,5,Delhi,No
+ORD0088,06-12-2024 04:22,Next Day,Out for Delivery,350,DTDC,TRK8EC55CF4,2,Bangalore,Yes
+ORD0579,08-04-2025 04:02,Next Day,Pending,100,Delhivery,TRK790AFE4F,7,Kolkata,Yes
+ORD0002,29-09-2024 15:58,Overnight,Out for Delivery,313,FedEx,TRKE3F42D4F,3,Bangalore,Yes
+ORD0675,18-06-2024 22:47,Next Day,Out for Delivery,498,Amazon Shipping,TRK79985A04,5,Chennai,No
+ORD0721,30-09-2024 23:59,Express,Out for Delivery,467,Amazon Shipping,TRKA579BCC0,3,Pune,Yes
+ORD0973,22-03-2024 20:55,Standard,Pending,113,Amazon Shipping,TRKA3974436,5,Delhi,No
+ORD0066,28-09-2024 11:55,Express,Out for Delivery,155,Blue Dart,TRK77CF028F,4,Delhi,No
+ORD0475,21-04-2025 17:45,Next Day,Pending,304,FedEx,TRK05E2BE81,3,Bangalore,Yes
+ORD0398,03-01-2025 01:13,Next Day,Out for Delivery,74,Blue Dart,TRK0A9096F7,7,Mumbai,Yes
+ORD0307,24-05-2024 00:29,Next Day,Delivered,181,Delhivery,TRKCF968C87,5,Chennai,Yes
+ORD0645,03-06-2024 16:51,Express,Delivered,453,FedEx,TRK4E12AD34,2,Hyderabad,Yes
+ORD0493,26-10-2023 00:16,Next Day,Pending,412,FedEx,TRKA1DF4C2C,6,Pune,No
+ORD0853,04-01-2025 12:13,Overnight,Pending,127,Delhivery,TRKA2D41199,5,Mumbai,Yes
+ORD0297,06-07-2025 17:52,Overnight,Pending,266,Amazon Shipping,TRK98B4A3C4,7,Pune,Yes
+ORD0802,11-03-2024 19:50,Standard,In Transit,128,DTDC,TRK83621FE8,3,Chennai,No
+ORD0733,15-02-2024 17:24,Overnight,Out for Delivery,322,FedEx,TRKC4212473,7,Hyderabad,No
+ORD0502,10-10-2023 01:27,Overnight,Delivered,292,Amazon Shipping,TRK8D5C7B47,2,Hyderabad,Yes
+ORD0678,14-04-2024 14:25,Express,In Transit,384,Amazon Shipping,TRKDD84511B,4,Pune,No
+ORD0862,31-10-2024 05:51,Overnight,Pending,433,Delhivery,TRKCC92ACE7,3,Hyderabad,No
+ORD0091,31-12-2024 05:35,Express,Pending,393,Blue Dart,TRK4EF94470,2,Pune,No
+ORD0181,12-04-2024 08:07,Overnight,Pending,407,DTDC,TRK5F452F73,4,Delhi,Yes
+ORD0598,09-02-2025 14:17,Standard,Out for Delivery,251,FedEx,TRKA236F21F,3,Mumbai,Yes
+ORD0668,09-04-2024 17:20,Express,Pending,124,Delhivery,TRKD1C0F707,2,Bangalore,Yes
+ORD0399,30-08-2024 14:38,Standard,Pending,311,FedEx,TRK3F40F362,7,Pune,Yes
+ORD0893,06-02-2025 21:50,Standard,Delivered,154,DTDC,TRKC3B24FAE,3,Pune,No
+ORD0767,04-07-2024 21:33,Express,Pending,236,Blue Dart,TRK03DDBEA5,5,Hyderabad,Yes
+ORD0784,18-04-2024 19:53,Overnight,Pending,275,FedEx,TRK5336D99C,5,Hyderabad,Yes
+ORD0343,15-02-2024 17:04,Overnight,Delivered,292,Delhivery,TRKAFC0C900,3,Hyderabad,No
+ORD0624,30-11-2024 14:02,Standard,Out for Delivery,199,Amazon Shipping,TRK2AEC230D,3,Pune,No
+ORD0010,05-08-2025 06:25,Express,In Transit,161,Delhivery,TRK5328F703,3,Delhi,No
+ORD0522,07-05-2024 02:53,Express,Pending,467,DTDC,TRK3F60EE52,5,Mumbai,Yes
+ORD0066,01-02-2025 08:11,Next Day,Out for Delivery,88,DTDC,TRK180E536D,5,Chennai,Yes
+ORD0710,01-03-2024 22:42,Standard,Out for Delivery,138,DTDC,TRK07798BA4,2,Hyderabad,No
+ORD0816,17-10-2023 09:14,Standard,Pending,273,DTDC,TRK3B24DBA9,4,Kolkata,Yes
+ORD0159,28-11-2023 05:29,Overnight,Out for Delivery,116,Amazon Shipping,TRK2753706E,4,Kolkata,No
+ORD0685,14-07-2024 07:13,Next Day,In Transit,52,Blue Dart,TRK962E5DB0,3,Kolkata,Yes
+ORD0623,03-04-2024 14:36,Express,Out for Delivery,123,Amazon Shipping,TRKC4DC5118,5,Kolkata,No
+ORD0107,22-07-2024 04:12,Express,Out for Delivery,461,Amazon Shipping,TRKECF2EE6F,7,Chennai,No
+ORD0497,24-02-2025 10:48,Next Day,Out for Delivery,485,FedEx,TRK3A4F7BDA,4,Chennai,No
+ORD0693,23-12-2023 08:17,Overnight,Delivered,282,Blue Dart,TRK6D78FC2E,6,Delhi,Yes
+ORD0777,10-08-2024 18:52,Standard,Out for Delivery,421,Delhivery,TRK70A768EA,6,Kolkata,Yes
+ORD0958,19-07-2024 13:32,Next Day,Out for Delivery,256,DTDC,TRKB1327ACE,4,Pune,Yes
+ORD0766,12-05-2025 11:14,Overnight,Delivered,383,Delhivery,TRKD50C7DDD,4,Kolkata,Yes
+ORD0112,14-08-2024 19:42,Next Day,Pending,354,FedEx,TRKB4293FB4,4,Bangalore,No
+ORD0446,11-09-2025 06:07,Express,Pending,322,Amazon Shipping,TRK1C6904DF,5,Chennai,Yes
+ORD0850,03-03-2024 14:27,Overnight,Pending,440,DTDC,TRK1AAFF68A,3,Delhi,Yes
+ORD0308,19-07-2025 15:35,Next Day,Out for Delivery,430,Amazon Shipping,TRKF3186476,5,Delhi,Yes
+ORD0976,22-06-2025 17:23,Express,In Transit,456,FedEx,TRKBC839637,3,Kolkata,Yes
+ORD0631,21-02-2024 17:21,Overnight,Delivered,142,Blue Dart,TRKD6F10330,5,Bangalore,Yes
+ORD0563,08-08-2024 14:53,Next Day,In Transit,197,DTDC,TRKC6809CC9,2,Bangalore,Yes
+ORD0119,01-07-2025 15:32,Overnight,Delivered,213,Delhivery,TRKA98F2DF4,4,Chennai,Yes
+ORD0770,17-05-2025 20:04,Standard,Pending,492,Amazon Shipping,TRK1B9E1029,5,Delhi,Yes
+ORD0277,25-10-2023 06:15,Next Day,Pending,170,FedEx,TRKBD78ED9D,5,Mumbai,No
+ORD0595,03-11-2023 02:26,Standard,Pending,434,DTDC,TRK9B276296,5,Hyderabad,Yes
+ORD0399,30-08-2024 03:29,Overnight,In Transit,364,FedEx,TRK314D15C9,7,Kolkata,No
+ORD0537,08-03-2024 12:17,Overnight,Out for Delivery,385,DTDC,TRK9FE8E2FD,5,Mumbai,Yes
+ORD0116,14-06-2024 19:48,Overnight,Out for Delivery,185,Amazon Shipping,TRKA877DAC9,5,Mumbai,No
+ORD0249,18-07-2025 17:08,Overnight,In Transit,223,FedEx,TRKC3D87764,4,Chennai,No
+ORD0495,02-03-2025 06:34,Express,Pending,377,Blue Dart,TRK1BCBACFD,2,Delhi,Yes
+ORD0520,30-04-2025 16:34,Next Day,Pending,239,FedEx,TRK8E65F279,2,Pune,Yes
+ORD0951,26-06-2024 16:54,Next Day,Out for Delivery,241,FedEx,TRK1CC27FAB,6,Pune,Yes
+ORD0130,30-08-2025 21:44,Express,Delivered,377,Delhivery,TRK34045A2F,2,Bangalore,Yes
+ORD0328,22-10-2024 22:36,Overnight,Delivered,274,Blue Dart,TRK3AB94027,5,Bangalore,No
+ORD0292,29-10-2024 06:02,Overnight,Delivered,342,Blue Dart,TRKA75750E8,4,Bangalore,Yes
+ORD0298,18-09-2024 09:14,Express,Pending,102,Blue Dart,TRK6E51018F,3,Kolkata,Yes
+ORD0253,11-07-2024 03:41,Next Day,Out for Delivery,171,Blue Dart,TRK8F1C8FBB,4,Pune,Yes
+ORD0898,18-01-2024 02:29,Overnight,Pending,210,Amazon Shipping,TRK3B05D756,7,Kolkata,Yes
+ORD0585,05-02-2024 12:15,Express,In Transit,423,Delhivery,TRK47B2810F,6,Chennai,Yes
+ORD0538,26-02-2024 22:42,Next Day,Out for Delivery,374,FedEx,TRK3D9375DF,6,Hyderabad,Yes
+ORD0797,28-10-2023 04:29,Next Day,In Transit,288,FedEx,TRKED865F49,3,Mumbai,No
+ORD0467,11-08-2024 03:52,Express,Pending,482,FedEx,TRK59D9617E,5,Mumbai,No
+ORD0674,27-09-2025 13:13,Next Day,Out for Delivery,221,Delhivery,TRK7FA9F77D,2,Hyderabad,No
+ORD0285,15-04-2024 14:59,Standard,Pending,410,Blue Dart,TRKDCE143A9,6,Chennai,Yes
+ORD0968,27-08-2024 05:52,Standard,Delivered,58,FedEx,TRK1308A256,6,Delhi,Yes
+ORD0707,29-02-2024 22:38,Next Day,Out for Delivery,125,FedEx,TRK8615487F,6,Delhi,No
+ORD0297,19-03-2024 14:53,Express,Delivered,220,Amazon Shipping,TRKD43AD2EF,4,Hyderabad,Yes
+ORD0756,22-07-2025 22:53,Next Day,Pending,111,Delhivery,TRK12AB8919,5,Chennai,No
+ORD0209,25-05-2025 18:39,Next Day,In Transit,192,DTDC,TRKF842DF31,6,Mumbai,No
+ORD0687,11-12-2024 06:59,Overnight,Delivered,303,DTDC,TRK435FAFC0,7,Bangalore,Yes
+ORD0708,25-04-2024 11:57,Standard,Out for Delivery,150,FedEx,TRK9502E483,4,Kolkata,No
+ORD0146,10-10-2023 01:11,Express,Out for Delivery,67,FedEx,TRK4158FFF5,7,Hyderabad,Yes
+ORD0358,02-09-2025 13:34,Express,Delivered,259,Amazon Shipping,TRK2092EA07,5,Chennai,Yes
+ORD0067,04-08-2024 22:48,Standard,Out for Delivery,248,Amazon Shipping,TRK8BDA7FD5,3,Kolkata,No
+ORD0801,28-04-2025 05:48,Express,Pending,492,Amazon Shipping,TRKF132A253,4,Delhi,No
+ORD0583,06-06-2025 16:28,Express,Delivered,197,Amazon Shipping,TRK9F5E9F0A,3,Bangalore,Yes
+ORD0229,13-09-2024 06:50,Standard,Pending,173,Delhivery,TRKF3FE179A,5,Hyderabad,Yes
+ORD0580,09-02-2024 13:37,Overnight,In Transit,67,FedEx,TRKC3BA93BD,6,Bangalore,Yes
+ORD0882,02-12-2024 12:35,Standard,Pending,276,Blue Dart,TRK66E64C7D,3,Kolkata,No
+ORD0436,26-10-2024 08:36,Next Day,Delivered,254,FedEx,TRKFCCC32B3,5,Bangalore,No
+ORD0578,17-11-2024 09:54,Next Day,In Transit,426,DTDC,TRK66592B68,4,Mumbai,Yes
+ORD0327,31-05-2025 13:17,Next Day,Pending,387,Blue Dart,TRK9C7D0E6D,4,Mumbai,No
+ORD0041,02-03-2024 22:04,Overnight,Delivered,63,Amazon Shipping,TRKAAC6781B,4,Pune,No
+ORD0542,21-01-2024 04:31,Express,In Transit,225,FedEx,TRKF2C4C52F,6,Bangalore,No
+ORD0804,13-12-2023 19:26,Express,Delivered,319,Delhivery,TRKD94D6494,3,Bangalore,Yes
+ORD0017,07-08-2025 14:48,Standard,Out for Delivery,80,FedEx,TRK101B6D38,7,Pune,No
+ORD0594,26-07-2025 05:29,Standard,Pending,244,Delhivery,TRK71527D77,6,Hyderabad,Yes
+ORD0439,11-12-2023 15:59,Standard,Delivered,225,DTDC,TRKA05365DE,7,Chennai,No
+ORD0092,05-12-2024 12:31,Overnight,Delivered,410,DTDC,TRK80E0C1F3,5,Hyderabad,No
+ORD0047,30-05-2025 15:23,Standard,Out for Delivery,221,Amazon Shipping,TRKEC5BB65F,4,Mumbai,Yes
+ORD0134,27-10-2023 06:58,Next Day,Delivered,257,Amazon Shipping,TRKC7AD5F90,6,Hyderabad,Yes
+ORD0950,13-04-2025 08:00,Next Day,Out for Delivery,360,DTDC,TRKB70F53BC,6,Delhi,No
+ORD0448,16-02-2025 10:46,Overnight,Delivered,397,Blue Dart,TRK7C46635F,7,Chennai,Yes
+ORD0576,06-09-2024 02:01,Next Day,Out for Delivery,299,Blue Dart,TRK07F15E45,3,Bangalore,No
+ORD0334,14-07-2025 02:14,Standard,Pending,69,Amazon Shipping,TRK25B0499A,7,Delhi,Yes
+ORD0358,13-02-2024 13:26,Overnight,In Transit,183,DTDC,TRK8251EC3E,7,Hyderabad,No
+ORD0412,10-03-2025 18:12,Express,Delivered,444,Delhivery,TRK0B547460,7,Mumbai,No
+ORD0366,30-04-2024 20:26,Standard,Out for Delivery,409,Amazon Shipping,TRKF863120B,6,Pune,No
+ORD0508,17-11-2023 14:44,Express,Out for Delivery,103,DTDC,TRKE7B1065C,2,Hyderabad,No
+ORD0113,02-11-2024 09:56,Next Day,Delivered,339,Amazon Shipping,TRK66525FDE,6,Chennai,Yes
+ORD0076,25-08-2024 05:10,Standard,Delivered,253,FedEx,TRKA503B7F7,6,Kolkata,Yes
+ORD0229,05-10-2024 12:23,Express,Out for Delivery,244,Amazon Shipping,TRK3A06E653,2,Hyderabad,Yes
+ORD0563,07-12-2024 18:44,Overnight,Delivered,101,FedEx,TRK95DE1B3A,4,Bangalore,No
+ORD0950,21-08-2024 22:03,Next Day,In Transit,239,FedEx,TRKE8941B3B,3,Mumbai,Yes
+ORD0887,15-07-2024 15:45,Express,Pending,105,Blue Dart,TRK384885C1,5,Chennai,No
+ORD0405,07-09-2025 09:21,Express,Out for Delivery,305,Amazon Shipping,TRKF1C1379C,4,Chennai,No
+ORD0373,08-03-2025 18:48,Standard,Pending,111,FedEx,TRKC25498D1,3,Hyderabad,Yes
+ORD0092,30-08-2025 17:16,Next Day,Delivered,267,Delhivery,TRK5807A823,4,Delhi,No
+ORD0961,01-12-2024 12:46,Overnight,Out for Delivery,279,Delhivery,TRKC03B18A3,5,Bangalore,Yes
+ORD0869,16-03-2024 07:41,Overnight,Delivered,239,Blue Dart,TRK65565ACA,5,Bangalore,No
+ORD0992,10-02-2025 21:27,Express,Pending,428,Amazon Shipping,TRKBA7658F0,4,Hyderabad,No
+ORD0264,13-10-2023 00:58,Standard,In Transit,423,FedEx,TRK3E564710,6,Mumbai,No
+ORD0610,07-05-2025 22:09,Next Day,Pending,119,Delhivery,TRK6A163318,6,Delhi,Yes
+ORD0455,25-11-2024 19:48,Next Day,Out for Delivery,426,Blue Dart,TRKACA5E703,4,Delhi,No
+ORD0687,31-07-2025 00:03,Standard,Pending,194,Delhivery,TRK081CD38A,4,Chennai,No
+ORD0866,20-09-2024 06:14,Standard,In Transit,272,Delhivery,TRKF460D9CF,3,Bangalore,Yes
+ORD0290,19-01-2025 17:36,Overnight,Out for Delivery,224,FedEx,TRK73DC790C,2,Kolkata,Yes
+ORD0147,25-07-2025 21:45,Express,Delivered,156,Amazon Shipping,TRKF9123F7C,4,Mumbai,No
+ORD0353,12-05-2025 20:07,Standard,Out for Delivery,189,Blue Dart,TRK8970C612,7,Bangalore,Yes
+ORD0888,23-11-2024 14:59,Overnight,Delivered,238,FedEx,TRK4A55B3E2,6,Kolkata,Yes
+ORD0523,28-08-2025 12:44,Express,Delivered,274,Blue Dart,TRK098F1971,5,Mumbai,Yes
+ORD0401,08-03-2024 15:35,Express,Out for Delivery,66,Blue Dart,TRK0850183C,7,Kolkata,Yes
+ORD0501,08-07-2025 20:27,Standard,In Transit,127,FedEx,TRK1198B7C8,5,Delhi,No
+ORD0254,19-09-2024 17:41,Express,Pending,114,FedEx,TRKA71922E9,5,Hyderabad,No
+ORD0450,19-07-2024 18:34,Next Day,Out for Delivery,309,Amazon Shipping,TRK93AEA8F0,2,Kolkata,No
+ORD0781,28-04-2024 21:18,Next Day,Pending,435,DTDC,TRKC3685B90,6,Hyderabad,Yes
+ORD1000,16-09-2024 17:32,Overnight,Out for Delivery,360,Amazon Shipping,TRK8774EC07,3,Pune,Yes
+ORD0207,21-03-2025 19:40,Next Day,Out for Delivery,376,FedEx,TRK78F09CAD,3,Pune,No
+ORD0419,30-06-2024 08:08,Overnight,Delivered,401,DTDC,TRKC81DE697,3,Chennai,No
+ORD0920,25-05-2024 01:26,Express,In Transit,66,Blue Dart,TRKEC3B91E8,2,Chennai,Yes
+ORD0924,12-01-2024 09:12,Express,Delivered,297,FedEx,TRK2B0956DF,6,Mumbai,No
+ORD0250,26-10-2023 02:55,Standard,In Transit,333,Amazon Shipping,TRKEE2CD10B,3,Delhi,Yes
+ORD0105,10-01-2025 15:21,Overnight,Delivered,312,Delhivery,TRK08FF17D2,2,Chennai,No
+ORD0287,10-07-2025 17:50,Standard,In Transit,177,FedEx,TRKC0FE1B2F,3,Kolkata,Yes
+ORD0890,06-10-2023 13:43,Express,Out for Delivery,149,Delhivery,TRKF64DD57E,2,Bangalore,No
+ORD0794,02-05-2024 03:39,Express,Pending,328,Delhivery,TRK02555E10,4,Chennai,Yes
+ORD0267,29-12-2024 14:13,Overnight,Delivered,61,FedEx,TRKBFB5BBEA,5,Mumbai,No
+ORD0867,06-02-2025 07:08,Express,Pending,230,Delhivery,TRK2AB67C17,4,Chennai,Yes
+ORD0974,13-10-2024 23:02,Next Day,In Transit,464,Blue Dart,TRK8B95CCF6,4,Pune,No
+ORD0566,22-01-2025 03:44,Express,In Transit,222,Delhivery,TRKB83D1EE7,7,Pune,Yes
+ORD0890,19-04-2025 18:06,Standard,In Transit,222,Delhivery,TRK076E486F,5,Delhi,Yes
+ORD0062,13-06-2024 15:16,Overnight,Delivered,89,DTDC,TRKF8FF08D7,5,Pune,No
+ORD0946,21-02-2025 07:04,Standard,Pending,119,Amazon Shipping,TRK006A7EF5,6,Mumbai,Yes
+ORD0578,25-10-2023 22:09,Next Day,Out for Delivery,144,FedEx,TRK16952D96,6,Chennai,No
+ORD0956,02-04-2025 12:26,Standard,In Transit,264,Amazon Shipping,TRK40CE3D6B,2,Pune,No
+ORD0571,18-08-2024 07:54,Express,Delivered,198,Delhivery,TRK9A4D6998,5,Delhi,No
+ORD0201,20-03-2024 04:39,Next Day,Delivered,193,Blue Dart,TRKB979B394,6,Mumbai,Yes
+ORD0634,14-07-2025 05:13,Express,Delivered,76,DTDC,TRK2674D4B7,7,Hyderabad,No
+ORD0182,05-06-2025 21:16,Standard,Pending,53,Blue Dart,TRK8BAD5E9A,7,Bangalore,No
+ORD0293,25-08-2025 11:15,Overnight,Pending,369,Amazon Shipping,TRK247F60A9,7,Kolkata,Yes
+ORD0065,08-06-2024 02:40,Express,Pending,166,Amazon Shipping,TRK7F3F7A94,2,Bangalore,Yes
+ORD0157,06-12-2024 07:03,Express,In Transit,119,Amazon Shipping,TRKF867ACFE,5,Hyderabad,Yes
+ORD0988,22-02-2024 01:06,Overnight,Delivered,107,DTDC,TRK30D16BCC,6,Hyderabad,Yes
+ORD0564,23-01-2025 04:22,Overnight,Pending,444,DTDC,TRK79C75B87,4,Delhi,Yes
+ORD0519,26-02-2025 07:22,Next Day,Out for Delivery,234,Amazon Shipping,TRKE2D61A31,4,Chennai,Yes
+ORD0059,14-05-2024 12:46,Express,Out for Delivery,435,FedEx,TRK9D9A2E61,3,Chennai,No
+ORD0614,11-10-2023 05:06,Express,Pending,481,DTDC,TRKEC22D43D,4,Hyderabad,No
+ORD0664,09-07-2025 22:56,Overnight,Out for Delivery,328,Blue Dart,TRKF3088A32,6,Chennai,No
+ORD0040,17-12-2023 23:07,Next Day,Pending,66,Amazon Shipping,TRKE10D0581,6,Mumbai,Yes
+ORD0119,06-09-2025 13:51,Express,Delivered,372,Delhivery,TRK4809FC2E,3,Pune,No
+ORD0602,21-12-2024 18:41,Standard,Out for Delivery,148,Blue Dart,TRK7FB09FAD,3,Mumbai,No
+ORD0690,04-12-2024 13:43,Next Day,Out for Delivery,59,Delhivery,TRKCF76567E,2,Mumbai,No
+ORD0416,08-03-2025 12:09,Standard,In Transit,156,DTDC,TRKCAA48ADA,3,Mumbai,No
+ORD0171,06-12-2023 22:18,Next Day,Delivered,401,Amazon Shipping,TRK9702EEF4,3,Mumbai,No
+ORD0762,17-02-2025 03:49,Express,Pending,254,Blue Dart,TRKAB4CE018,3,Mumbai,No
+ORD0097,10-12-2023 05:03,Standard,In Transit,147,Delhivery,TRKC24CD155,2,Mumbai,No
+ORD0088,10-03-2024 05:46,Next Day,Delivered,358,Amazon Shipping,TRK905F69AC,4,Bangalore,No
+ORD0944,01-05-2024 06:19,Overnight,Delivered,221,Delhivery,TRK85361ED9,6,Hyderabad,No
+ORD0030,15-04-2024 12:20,Standard,Delivered,52,DTDC,TRKA481E750,5,Pune,No
+ORD0818,01-08-2024 17:37,Overnight,In Transit,460,FedEx,TRK1A24EECE,3,Bangalore,No
+ORD0090,29-11-2023 23:23,Next Day,In Transit,235,Blue Dart,TRK10901382,4,Mumbai,Yes
+ORD0668,19-09-2024 22:12,Express,In Transit,462,Amazon Shipping,TRK7EED1DE0,5,Chennai,Yes
+ORD0056,10-01-2024 01:22,Next Day,Out for Delivery,430,FedEx,TRK8D19E0BC,2,Delhi,No
+ORD0596,10-08-2024 02:21,Express,Out for Delivery,278,FedEx,TRKB3B4BABB,5,Bangalore,Yes
+ORD0681,02-10-2024 12:39,Standard,Out for Delivery,291,Delhivery,TRK7114B5E2,5,Bangalore,Yes
+ORD0155,27-04-2024 02:05,Next Day,Pending,405,DTDC,TRKFFF84E15,3,Chennai,Yes
+ORD0324,28-10-2024 23:59,Next Day,Delivered,255,Amazon Shipping,TRK18607001,3,Mumbai,No
+ORD0995,23-07-2025 15:10,Overnight,Delivered,97,Delhivery,TRK6ABCC05F,4,Delhi,No
+ORD0119,07-11-2023 06:05,Overnight,Out for Delivery,236,DTDC,TRK8BBC06D8,5,Chennai,Yes
+ORD0077,28-03-2025 00:55,Express,Pending,88,FedEx,TRKBA7F6F17,7,Bangalore,Yes
+ORD0588,28-10-2024 01:13,Next Day,Pending,355,DTDC,TRKADF08719,4,Bangalore,Yes
+ORD0556,12-08-2025 13:11,Next Day,Delivered,148,DTDC,TRK78A18CD2,2,Mumbai,Yes
+ORD0956,22-10-2023 01:15,Next Day,Delivered,286,Delhivery,TRK5D72A07C,5,Mumbai,Yes
+ORD0666,27-07-2024 04:00,Standard,Delivered,394,Blue Dart,TRKEC7FABB9,5,Delhi,Yes
+ORD0878,29-02-2024 21:10,Standard,Pending,133,Delhivery,TRKE34A1179,3,Bangalore,No
+ORD0602,15-01-2024 19:51,Overnight,Pending,182,Delhivery,TRK1DFA3091,2,Mumbai,Yes
+ORD0682,22-05-2024 00:01,Overnight,Out for Delivery,488,Blue Dart,TRKEBDAEDB8,5,Hyderabad,Yes
+ORD0727,26-06-2025 02:33,Express,Out for Delivery,88,Delhivery,TRKC60DB215,5,Pune,No
+ORD0211,20-11-2023 08:29,Express,Out for Delivery,388,Delhivery,TRK878CD11F,2,Bangalore,No
+ORD0325,07-01-2024 14:22,Next Day,Pending,123,DTDC,TRK9BDF5943,6,Delhi,Yes
+ORD0235,20-10-2024 10:12,Next Day,Out for Delivery,114,Delhivery,TRK213A3492,2,Chennai,No
+ORD0410,26-03-2024 15:09,Express,Out for Delivery,100,DTDC,TRKD758E143,6,Delhi,Yes
+ORD0286,08-03-2024 08:11,Next Day,Pending,213,Blue Dart,TRK69400AF9,2,Pune,No
+ORD0294,04-01-2025 06:04,Overnight,Out for Delivery,146,Blue Dart,TRK8A68211D,2,Chennai,No
+ORD0595,22-06-2025 10:00,Standard,Pending,67,DTDC,TRK0BBBBF23,7,Pune,No
+ORD0106,14-05-2025 07:09,Express,Pending,384,Delhivery,TRK5653356C,3,Hyderabad,No
+ORD0657,15-09-2024 17:15,Express,Delivered,437,Delhivery,TRK209CE8D5,5,Kolkata,Yes
+ORD0655,28-12-2024 08:16,Next Day,Out for Delivery,281,FedEx,TRK70A3C38B,2,Mumbai,Yes
+ORD0015,15-01-2025 23:46,Standard,Out for Delivery,374,DTDC,TRK9D198D85,7,Bangalore,No
+ORD0314,10-11-2024 07:40,Express,In Transit,186,Blue Dart,TRKD62091A9,4,Hyderabad,No
+ORD0255,26-04-2024 19:46,Next Day,Delivered,98,FedEx,TRK4E01B07A,6,Pune,No
+ORD0160,19-01-2024 13:05,Express,Delivered,390,FedEx,TRKD8E8D038,4,Mumbai,No
+ORD0005,27-05-2024 12:46,Express,Pending,59,Delhivery,TRKD605D2E8,7,Mumbai,No
+ORD0637,10-07-2025 14:40,Next Day,Out for Delivery,379,Delhivery,TRK36EC1307,7,Kolkata,No
+ORD0174,12-04-2025 23:01,Standard,Out for Delivery,420,DTDC,TRKA8D2EEE3,2,Kolkata,No
+ORD0495,02-04-2025 16:01,Express,Delivered,321,DTDC,TRK9C437ECB,5,Hyderabad,Yes
+ORD0400,10-02-2025 18:12,Standard,Pending,155,Amazon Shipping,TRKFC4FF3C1,6,Hyderabad,Yes
+ORD0295,27-08-2024 16:01,Next Day,Delivered,96,Amazon Shipping,TRK3570784E,4,Pune,No
+ORD0037,06-06-2025 05:53,Next Day,In Transit,428,FedEx,TRKD2C181FB,6,Hyderabad,Yes
+ORD0523,04-11-2024 21:00,Standard,Pending,307,Blue Dart,TRK927B67E6,2,Pune,Yes
+ORD0154,10-03-2024 16:31,Standard,Pending,348,DTDC,TRKB5829C27,6,Delhi,Yes
+ORD0798,19-07-2025 17:27,Express,In Transit,91,Blue Dart,TRK7C7A16FB,4,Chennai,No
+ORD0511,28-04-2024 10:58,Overnight,Delivered,472,Blue Dart,TRKC1856717,6,Pune,No
+ORD0966,01-10-2024 04:42,Standard,Pending,139,FedEx,TRKC5AECD16,7,Mumbai,No
+ORD0095,29-06-2025 22:38,Overnight,In Transit,304,FedEx,TRK3A5FE0C6,3,Delhi,Yes
+ORD0324,27-09-2025 20:58,Next Day,In Transit,408,FedEx,TRKEA58CF5E,4,Delhi,Yes
+ORD0693,09-10-2024 16:33,Express,Delivered,361,DTDC,TRK4CA2FC7B,3,Mumbai,No
+ORD0609,17-07-2024 04:35,Next Day,Out for Delivery,107,DTDC,TRKB3EC054F,7,Kolkata,No
+ORD0068,28-04-2024 05:32,Overnight,In Transit,225,Delhivery,TRK724A82DF,7,Bangalore,Yes
+ORD0680,29-11-2024 13:31,Express,Delivered,492,Amazon Shipping,TRKFCB4BA90,4,Bangalore,No
+ORD0507,20-12-2024 14:23,Express,Pending,201,Blue Dart,TRK9D3D1B60,5,Delhi,No
+ORD0600,24-10-2024 04:39,Next Day,In Transit,163,Amazon Shipping,TRKB761682D,7,Hyderabad,Yes
+ORD0433,25-02-2024 09:53,Standard,In Transit,348,Blue Dart,TRKDD1D2B62,2,Delhi,No
+ORD0107,20-09-2024 23:56,Standard,In Transit,385,Blue Dart,TRKC41FF453,2,Mumbai,Yes
+ORD0487,15-08-2024 07:39,Express,Out for Delivery,441,Delhivery,TRK6CFF0404,3,Pune,No
+ORD0415,15-01-2024 12:03,Overnight,Out for Delivery,414,Delhivery,TRKB40CFF06,3,Delhi,Yes
+ORD0843,19-10-2024 00:29,Express,In Transit,166,Blue Dart,TRKE0F2A94A,2,Kolkata,No
+ORD0805,11-09-2024 05:43,Overnight,Pending,80,Amazon Shipping,TRK93585DA7,4,Delhi,Yes
+ORD0255,11-07-2025 17:01,Standard,Out for Delivery,337,FedEx,TRK9C8AD9CD,6,Delhi,No
+ORD0633,15-06-2024 05:03,Standard,In Transit,107,FedEx,TRK0BF831EB,7,Kolkata,Yes
+ORD0144,06-09-2025 20:03,Standard,Delivered,366,Amazon Shipping,TRK00AF4F52,3,Chennai,Yes
+ORD0382,07-03-2025 03:47,Express,Delivered,279,Amazon Shipping,TRK52ABFCB6,4,Bangalore,Yes
+ORD0554,08-11-2023 10:35,Express,Pending,376,DTDC,TRK8B225C7C,7,Chennai,Yes
+ORD0557,04-08-2024 09:04,Standard,In Transit,456,Blue Dart,TRK6E3FBA61,5,Mumbai,No
+ORD0589,17-01-2024 20:11,Next Day,In Transit,206,DTDC,TRKFECAD5C3,4,Bangalore,Yes
+ORD0451,28-11-2023 01:09,Standard,Delivered,214,Blue Dart,TRKEF1BEF87,4,Bangalore,Yes
+ORD0875,10-04-2025 09:42,Overnight,Delivered,391,Delhivery,TRK6CE458C2,6,Mumbai,Yes
+ORD0579,31-12-2023 15:17,Express,Out for Delivery,79,Blue Dart,TRK603B8314,7,Kolkata,No
+ORD0504,28-02-2024 16:20,Express,Out for Delivery,313,FedEx,TRKA1330E47,7,Bangalore,Yes
+ORD0476,09-06-2024 16:39,Overnight,Pending,444,DTDC,TRK0931B3D8,2,Bangalore,Yes
+ORD0222,10-02-2025 22:10,Standard,Pending,445,Delhivery,TRK47E8F60E,5,Chennai,No
+ORD0698,21-09-2024 10:59,Standard,Pending,159,Blue Dart,TRK119676BF,2,Mumbai,Yes
+ORD0736,13-11-2024 19:17,Standard,Delivered,352,DTDC,TRKA21A3DAE,4,Hyderabad,Yes
+ORD0027,23-06-2025 09:58,Express,Pending,155,Delhivery,TRKD2EE8975,3,Bangalore,Yes
+ORD0236,18-12-2023 17:01,Next Day,Delivered,288,Delhivery,TRK2FF6BDCC,3,Chennai,Yes
+ORD0029,30-11-2023 01:13,Standard,In Transit,500,Delhivery,TRK665D4DD4,2,Bangalore,No
+ORD0530,22-06-2024 08:21,Standard,Pending,123,Delhivery,TRK1D84FDA0,5,Delhi,No
+ORD0460,07-03-2025 19:09,Overnight,In Transit,202,FedEx,TRK7D28E343,6,Bangalore,No
+ORD0250,17-03-2024 08:54,Overnight,Out for Delivery,81,FedEx,TRK396EE97E,4,Pune,Yes
+ORD0590,22-10-2023 15:12,Standard,Out for Delivery,416,Blue Dart,TRKAE269EEA,5,Pune,No
+ORD0640,08-04-2025 20:38,Standard,In Transit,62,FedEx,TRK8DD4D2A0,3,Hyderabad,Yes
+ORD0637,14-02-2025 19:26,Next Day,Delivered,483,Blue Dart,TRK0E95D25A,4,Hyderabad,No
+ORD0012,15-02-2024 12:13,Standard,Pending,326,DTDC,TRKC00C28F4,4,Bangalore,No
+ORD0335,05-11-2024 02:30,Next Day,Delivered,472,FedEx,TRK40AA04F2,4,Bangalore,Yes
+ORD0035,06-11-2024 18:10,Overnight,Delivered,375,DTDC,TRKBC385DFA,2,Bangalore,No
+ORD0430,07-09-2024 07:45,Overnight,Delivered,338,Blue Dart,TRK5DB6B068,2,Mumbai,No
+ORD0662,18-05-2024 18:55,Overnight,In Transit,68,Delhivery,TRKD8F2B9EF,2,Delhi,No
+ORD0885,01-03-2024 05:22,Standard,Out for Delivery,497,Delhivery,TRK99268B03,4,Hyderabad,Yes
+ORD0397,16-11-2024 06:41,Next Day,Delivered,342,Delhivery,TRKD0EA86C3,4,Pune,No
+ORD0977,29-01-2024 14:32,Overnight,Out for Delivery,315,DTDC,TRK054AEAAB,2,Mumbai,Yes
+ORD0042,11-08-2024 18:11,Standard,Delivered,199,FedEx,TRK99387419,4,Pune,No
+ORD0258,22-02-2024 22:18,Next Day,Pending,320,Blue Dart,TRK3F04D9E8,4,Hyderabad,No
+ORD0360,31-08-2025 14:39,Overnight,Pending,59,DTDC,TRKEB438100,6,Kolkata,Yes
+ORD0881,08-11-2023 06:55,Next Day,Pending,118,DTDC,TRK62B61D08,5,Chennai,Yes
+ORD0086,09-11-2024 05:44,Standard,Pending,358,DTDC,TRK0922A877,7,Mumbai,Yes
+ORD0520,14-05-2025 09:05,Express,Delivered,455,FedEx,TRK4AE74EEF,4,Delhi,No
+ORD0062,12-08-2024 03:07,Standard,Out for Delivery,339,DTDC,TRK169F1D4E,6,Mumbai,No
+ORD0247,24-02-2024 01:46,Overnight,Delivered,274,Delhivery,TRKE2566731,5,Bangalore,Yes
+ORD0648,24-08-2025 04:59,Overnight,Pending,461,FedEx,TRK72A76D46,7,Hyderabad,No
+ORD0900,06-07-2025 20:39,Standard,Delivered,403,Blue Dart,TRKABD5069E,3,Hyderabad,Yes
+ORD0125,31-03-2024 11:37,Next Day,Pending,291,Delhivery,TRKFD67BC0B,3,Bangalore,No
+ORD0987,25-01-2025 05:17,Standard,Pending,311,DTDC,TRK991F6C6F,4,Bangalore,No
+ORD0608,12-07-2024 22:52,Overnight,Out for Delivery,439,Amazon Shipping,TRK3E9B1671,6,Pune,Yes
+ORD0258,09-05-2025 20:24,Overnight,Delivered,390,Amazon Shipping,TRK4460880B,3,Delhi,Yes
+ORD0888,01-07-2025 13:52,Express,Pending,373,Blue Dart,TRKD20C291C,4,Hyderabad,No
+ORD0786,19-03-2025 19:21,Express,Pending,433,DTDC,TRK22257D13,6,Mumbai,No
+ORD0938,06-12-2023 00:02,Overnight,Delivered,52,Amazon Shipping,TRK9C855172,7,Bangalore,No
+ORD0348,12-06-2025 00:24,Overnight,Pending,170,Amazon Shipping,TRKAFC2A6CA,3,Hyderabad,No
+ORD0574,03-08-2025 00:37,Next Day,Delivered,379,FedEx,TRKE75FDAD5,3,Chennai,No
+ORD0683,21-11-2023 23:33,Next Day,Pending,461,DTDC,TRK34DB117C,6,Chennai,Yes
+ORD0464,29-09-2024 17:36,Standard,Out for Delivery,177,DTDC,TRK6C4D327B,3,Bangalore,Yes
+ORD0577,13-10-2024 22:55,Next Day,Delivered,266,Blue Dart,TRK721B8624,6,Kolkata,No
+ORD0314,25-02-2025 09:46,Next Day,Pending,271,FedEx,TRK204D7330,7,Chennai,Yes
+ORD0709,21-02-2025 21:25,Standard,Delivered,357,Blue Dart,TRK6D897FD3,4,Delhi,No
+ORD0859,26-02-2025 02:53,Express,Out for Delivery,345,Amazon Shipping,TRKC8CE04A6,3,Mumbai,No
+ORD0446,27-08-2024 22:36,Next Day,Delivered,321,DTDC,TRK704990C9,5,Pune,No
+ORD0327,16-02-2025 09:45,Standard,Delivered,371,DTDC,TRK39336303,7,Chennai,Yes
+ORD0816,26-11-2023 17:23,Next Day,Pending,73,DTDC,TRK3A194928,4,Pune,No
+ORD0489,05-02-2024 13:56,Standard,Out for Delivery,67,DTDC,TRK709E90B2,5,Pune,No
+ORD0968,29-05-2024 04:54,Express,Out for Delivery,433,Delhivery,TRK9FC868D8,7,Mumbai,No
+ORD0378,19-02-2024 12:10,Overnight,Out for Delivery,68,Amazon Shipping,TRKD0BF2FBC,7,Kolkata,No
+ORD0470,09-09-2025 02:00,Express,Out for Delivery,249,Blue Dart,TRK2785C3F6,5,Bangalore,No
+ORD0957,30-07-2025 07:22,Overnight,Out for Delivery,222,DTDC,TRKEA602D94,7,Hyderabad,No
+ORD0400,27-08-2024 15:49,Next Day,In Transit,173,DTDC,TRK822098B8,7,Bangalore,Yes
+ORD0004,31-05-2025 08:47,Overnight,Delivered,339,DTDC,TRK7436B0BD,3,Pune,Yes
+ORD0703,11-06-2024 02:08,Express,Pending,425,FedEx,TRK0E7422D5,3,Kolkata,Yes
+ORD0487,01-10-2024 21:04,Overnight,Pending,80,Amazon Shipping,TRK240FA8BD,6,Bangalore,Yes
+ORD0754,26-04-2025 02:25,Next Day,Pending,61,Blue Dart,TRK6B44FB42,5,Chennai,Yes
+ORD0807,21-08-2024 22:38,Express,Pending,272,DTDC,TRKB183D4D9,4,Kolkata,Yes
+ORD0657,15-02-2024 16:26,Overnight,In Transit,404,DTDC,TRKAA9168C0,2,Mumbai,No
+ORD0618,16-09-2025 07:18,Standard,Pending,231,Blue Dart,TRKB3B2E011,5,Chennai,No
+ORD0698,20-11-2023 13:19,Overnight,In Transit,192,FedEx,TRK40ADBB86,2,Chennai,No
+ORD0578,10-06-2025 20:49,Standard,Pending,148,FedEx,TRKA9F8A26F,6,Bangalore,Yes
+ORD0876,02-11-2023 10:24,Next Day,In Transit,225,Amazon Shipping,TRKDDC55922,3,Bangalore,Yes
+ORD0102,26-01-2024 14:23,Standard,Out for Delivery,268,Amazon Shipping,TRKFB78DCA8,5,Kolkata,Yes
+ORD0492,06-02-2025 23:49,Express,In Transit,77,FedEx,TRKC6C72B0A,7,Mumbai,Yes
+ORD0537,12-04-2025 14:58,Express,In Transit,436,DTDC,TRK97F6DBA7,7,Kolkata,Yes
+ORD0145,14-04-2025 14:58,Next Day,Out for Delivery,168,Blue Dart,TRK123F0C69,5,Kolkata,Yes
+ORD0777,10-06-2025 10:04,Overnight,Delivered,332,Delhivery,TRK9735AB9C,2,Hyderabad,No
+ORD0689,13-11-2024 08:43,Overnight,Delivered,110,Blue Dart,TRK609C7B92,6,Pune,No
+ORD0431,26-09-2025 19:27,Standard,In Transit,84,Delhivery,TRKCA72BD1E,6,Delhi,No
+ORD0614,15-12-2024 01:03,Overnight,Pending,232,Amazon Shipping,TRK960FA264,4,Mumbai,Yes
+ORD0670,12-05-2025 06:29,Standard,In Transit,473,Blue Dart,TRK6C840F55,6,Pune,Yes
+ORD0377,21-05-2025 08:47,Next Day,Pending,398,FedEx,TRK55924D10,7,Kolkata,No
+ORD0158,25-12-2023 16:18,Overnight,In Transit,335,Blue Dart,TRK798C282D,7,Chennai,No
+ORD0902,14-04-2025 14:50,Overnight,In Transit,321,Amazon Shipping,TRK122C8D53,4,Chennai,Yes
+ORD0486,20-07-2025 12:16,Next Day,In Transit,206,Amazon Shipping,TRKD39BC457,7,Pune,No
+ORD0055,16-08-2025 06:29,Express,Delivered,467,Blue Dart,TRK71E495B6,5,Chennai,Yes
+ORD0701,09-03-2024 20:19,Next Day,In Transit,466,Delhivery,TRK9B67C637,5,Delhi,No
+ORD0048,07-05-2025 07:31,Overnight,In Transit,130,FedEx,TRKFDD36007,5,Kolkata,Yes
+ORD0285,14-10-2023 09:31,Overnight,In Transit,403,FedEx,TRK08622BCB,3,Chennai,No
+ORD0781,05-03-2025 11:37,Next Day,In Transit,425,Amazon Shipping,TRK2D8664EF,7,Kolkata,No
+ORD0882,25-03-2024 12:33,Standard,In Transit,487,Amazon Shipping,TRK47BC1EFA,5,Chennai,Yes
+ORD0519,10-07-2025 04:23,Next Day,Out for Delivery,304,Amazon Shipping,TRK236C2665,5,Kolkata,Yes
+ORD0054,09-08-2024 04:22,Standard,Pending,244,Blue Dart,TRK6A286720,6,Chennai,No
+ORD0322,12-11-2024 03:55,Overnight,Delivered,430,DTDC,TRK9FA91F27,5,Delhi,Yes
+ORD0682,30-12-2024 11:19,Standard,In Transit,59,DTDC,TRK8CCE79BE,2,Bangalore,Yes
+ORD0722,16-06-2025 02:16,Next Day,Delivered,340,Delhivery,TRK96B83709,3,Kolkata,No
+ORD0256,22-01-2024 08:26,Express,Pending,78,Blue Dart,TRK1E9B7CA9,5,Bangalore,No
+ORD0542,03-07-2025 10:09,Overnight,Pending,163,DTDC,TRKF7932488,4,Mumbai,Yes
+ORD0597,25-01-2024 07:48,Overnight,In Transit,82,Delhivery,TRKECBF1762,2,Mumbai,No
+ORD0524,24-12-2023 21:23,Overnight,Pending,276,Blue Dart,TRK4B2F37A7,2,Pune,Yes
+ORD0489,07-12-2023 17:11,Standard,Delivered,390,FedEx,TRK0F6D06E9,4,Kolkata,Yes
+ORD0095,07-03-2024 23:53,Overnight,Pending,64,FedEx,TRK53A7C3D6,3,Mumbai,Yes
+ORD0967,09-02-2024 15:05,Next Day,In Transit,282,Blue Dart,TRK629FA933,3,Pune,No
+ORD0831,20-03-2024 08:17,Standard,Delivered,480,Delhivery,TRK2768A277,2,Hyderabad,No
+ORD0580,17-04-2025 22:10,Next Day,In Transit,89,Amazon Shipping,TRK34DD0843,6,Pune,Yes
+ORD0942,22-12-2024 02:50,Overnight,Delivered,50,FedEx,TRKDE7CE992,2,Delhi,No
+ORD0343,12-04-2024 12:41,Next Day,Pending,77,Blue Dart,TRK1C4635A8,7,Bangalore,Yes
+ORD1000,01-12-2024 17:03,Express,Out for Delivery,327,Delhivery,TRK4199E0A1,4,Pune,No
+ORD0086,15-07-2025 10:26,Standard,Delivered,205,DTDC,TRKE697A31C,2,Mumbai,No
+ORD0765,07-03-2025 07:04,Standard,Delivered,342,DTDC,TRK5F872267,6,Pune,No
+ORD0060,17-10-2023 02:40,Next Day,Pending,357,Blue Dart,TRK535249D4,7,Pune,No
+ORD0816,18-12-2023 04:29,Next Day,Pending,263,Delhivery,TRK3D5E56E1,4,Bangalore,No
+ORD0386,01-03-2025 18:54,Overnight,Pending,229,Delhivery,TRK1C24DBDF,4,Delhi,Yes
+ORD0318,30-06-2025 23:38,Overnight,Delivered,248,Amazon Shipping,TRK3A478279,4,Hyderabad,No
+ORD0776,28-08-2025 01:03,Next Day,Out for Delivery,486,DTDC,TRK3ECB0471,2,Hyderabad,Yes
+ORD0511,26-03-2024 07:05,Standard,Delivered,203,Amazon Shipping,TRK14F392DF,6,Pune,Yes
+ORD0392,14-02-2024 19:16,Overnight,Delivered,88,Amazon Shipping,TRK646B0A7A,5,Hyderabad,No
+ORD0363,02-03-2024 16:03,Standard,In Transit,255,FedEx,TRKC39B8BED,7,Kolkata,No
+ORD0871,04-05-2024 00:50,Standard,Out for Delivery,188,DTDC,TRK12CC0F87,2,Bangalore,No
+ORD0765,02-11-2023 00:32,Overnight,In Transit,433,FedEx,TRK3858635B,5,Pune,Yes
+ORD0543,25-11-2024 03:14,Standard,Out for Delivery,484,Delhivery,TRK122AD7F6,2,Bangalore,Yes
+ORD0233,24-10-2023 13:58,Next Day,In Transit,260,Amazon Shipping,TRK14AF0B75,4,Kolkata,No
+ORD0045,07-04-2025 07:30,Express,Out for Delivery,82,FedEx,TRKA46696A6,7,Kolkata,Yes
+ORD0302,07-04-2025 04:15,Standard,Pending,245,Amazon Shipping,TRK5BE8AB90,2,Chennai,Yes
+ORD0046,27-12-2024 20:37,Standard,Out for Delivery,162,FedEx,TRK0E1C3E39,4,Kolkata,No
+ORD0158,25-09-2024 00:25,Express,Pending,250,FedEx,TRKA6A55F79,7,Mumbai,Yes
+ORD0321,24-02-2024 20:35,Standard,Pending,451,Delhivery,TRKFA4FA57A,4,Mumbai,Yes
+ORD0816,11-05-2024 17:19,Next Day,Delivered,91,FedEx,TRK0A478943,4,Pune,Yes
+ORD0728,10-08-2024 06:50,Standard,Delivered,279,FedEx,TRKF05B8B70,6,Bangalore,Yes
+ORD0520,20-11-2023 05:02,Overnight,Out for Delivery,283,FedEx,TRKAD2BD6A4,2,Kolkata,No
+ORD0944,08-01-2025 16:07,Next Day,Delivered,271,FedEx,TRK86E38F99,5,Delhi,Yes
+ORD0619,20-02-2024 07:52,Express,In Transit,333,Blue Dart,TRK2DF7911F,4,Kolkata,Yes
+ORD0266,28-01-2024 07:13,Standard,In Transit,106,DTDC,TRKAA706ECC,3,Chennai,Yes
+ORD0764,02-03-2024 17:11,Next Day,In Transit,150,FedEx,TRKD02949FD,5,Bangalore,Yes
+ORD0917,17-04-2024 04:45,Standard,In Transit,401,Delhivery,TRK5FF86892,4,Kolkata,No
+ORD0828,04-09-2024 02:46,Next Day,Pending,352,Amazon Shipping,TRK2F618E1F,6,Mumbai,Yes
+ORD0181,04-08-2024 13:16,Express,Out for Delivery,436,FedEx,TRKCCF0D545,3,Mumbai,Yes
+ORD0425,24-07-2025 15:17,Standard,Delivered,126,DTDC,TRK36D22DDB,5,Pune,Yes
+ORD0812,16-12-2023 14:45,Next Day,In Transit,417,Delhivery,TRKFE94D3BE,7,Hyderabad,No
+ORD0736,23-05-2025 12:23,Next Day,Delivered,165,DTDC,TRK02A1F045,4,Kolkata,No
+ORD0907,20-05-2025 21:47,Standard,Out for Delivery,113,FedEx,TRKEF458125,5,Chennai,Yes
+ORD0447,22-05-2024 14:22,Next Day,In Transit,343,FedEx,TRKEC968C09,4,Kolkata,No
+ORD0946,28-09-2024 13:08,Express,Pending,488,Delhivery,TRK4B34E966,3,Pune,No
+ORD0250,01-11-2023 20:54,Next Day,In Transit,123,Delhivery,TRK1DAAA15F,6,Delhi,Yes
+ORD0335,06-05-2024 19:28,Overnight,Delivered,462,Amazon Shipping,TRKC8654B7E,2,Chennai,No
+ORD0019,29-01-2025 09:02,Next Day,Pending,469,Blue Dart,TRKC811F926,7,Pune,No
+ORD0934,17-02-2024 10:13,Express,Out for Delivery,110,Delhivery,TRK4E994DBD,2,Hyderabad,Yes
+ORD0448,02-03-2025 10:35,Overnight,Out for Delivery,313,DTDC,TRK5AE2D281,3,Pune,Yes
+ORD0978,14-09-2024 08:57,Standard,Out for Delivery,270,Delhivery,TRK71E930F9,3,Hyderabad,No
+ORD0857,26-02-2024 14:21,Next Day,Delivered,412,Amazon Shipping,TRKE871707B,6,Hyderabad,No
+ORD0909,03-08-2024 10:28,Next Day,Out for Delivery,339,Blue Dart,TRKCCA8DF9A,5,Bangalore,Yes
+ORD0292,29-11-2024 11:52,Next Day,Delivered,375,DTDC,TRKE0E93126,7,Kolkata,Yes
+ORD0060,20-01-2024 22:23,Next Day,Delivered,114,FedEx,TRKF54B5A44,7,Kolkata,Yes
+ORD0164,06-01-2024 16:47,Next Day,Out for Delivery,238,Delhivery,TRK0D0F6336,3,Mumbai,Yes
+ORD0329,02-01-2024 20:49,Standard,Delivered,369,Amazon Shipping,TRK3C721864,4,Chennai,No
+ORD0306,07-01-2024 03:52,Express,Delivered,327,DTDC,TRK2EA71C2A,3,Chennai,No
+ORD0025,25-11-2023 00:08,Express,In Transit,306,DTDC,TRK8114777D,2,Chennai,Yes
+ORD0353,09-04-2025 19:27,Express,In Transit,56,DTDC,TRKD8690D78,7,Delhi,No
+ORD0075,13-05-2025 02:36,Overnight,Delivered,109,Blue Dart,TRKD1692054,4,Delhi,No
+ORD0480,04-09-2025 14:42,Standard,Pending,333,Amazon Shipping,TRK4B63A96B,5,Hyderabad,No
+ORD0014,12-03-2025 23:09,Overnight,Delivered,156,Amazon Shipping,TRKB1FCE5D9,7,Hyderabad,Yes
+ORD0899,09-01-2024 13:46,Overnight,Delivered,312,Delhivery,TRK4D185E32,4,Hyderabad,Yes
+ORD0842,13-02-2025 06:54,Standard,In Transit,61,Delhivery,TRK02C70F80,5,Bangalore,Yes
+ORD0282,25-01-2024 04:41,Overnight,Delivered,219,FedEx,TRKCB422354,6,Kolkata,Yes
+ORD0222,14-05-2024 07:28,Next Day,Pending,408,Amazon Shipping,TRK78762FA7,3,Pune,No
+ORD0576,04-04-2025 02:25,Overnight,Pending,165,Amazon Shipping,TRK9F4060AD,5,Pune,Yes
+ORD0044,07-07-2025 12:12,Express,Out for Delivery,141,Blue Dart,TRK59D73D25,6,Mumbai,No
+ORD0053,01-11-2024 19:39,Next Day,In Transit,260,Delhivery,TRKA44E8F64,5,Mumbai,Yes
+ORD0309,13-04-2025 04:47,Express,Pending,155,Amazon Shipping,TRKE8DC63C1,4,Kolkata,Yes
+ORD0141,06-11-2023 08:44,Overnight,Delivered,340,Blue Dart,TRKE40AD177,5,Chennai,No
+ORD0891,25-04-2024 02:26,Next Day,Out for Delivery,156,FedEx,TRK36F19A22,4,Hyderabad,Yes
+ORD0087,27-11-2023 03:06,Overnight,Out for Delivery,404,Amazon Shipping,TRK8046462D,4,Bangalore,No
+ORD0566,25-08-2025 11:07,Overnight,Delivered,436,Amazon Shipping,TRK939FB1E5,6,Bangalore,Yes
+ORD0939,11-08-2025 19:20,Next Day,In Transit,454,Delhivery,TRK6EC9B593,6,Chennai,No
+ORD0899,17-09-2024 08:05,Express,In Transit,394,Delhivery,TRKF2AB6952,3,Delhi,Yes
+ORD0288,09-11-2024 02:14,Express,In Transit,466,Blue Dart,TRK0EC802EB,7,Kolkata,Yes
+ORD0107,03-06-2024 03:08,Next Day,Delivered,443,Blue Dart,TRK26B55652,4,Mumbai,Yes
+ORD0508,05-12-2024 21:38,Overnight,Delivered,62,DTDC,TRKA7AE3815,3,Pune,No
+ORD0952,30-04-2025 03:50,Next Day,Out for Delivery,289,Delhivery,TRKFA1C51DE,5,Hyderabad,Yes
+ORD0399,07-12-2023 18:07,Express,Pending,211,FedEx,TRK70AA47AF,7,Kolkata,No
+ORD0976,28-12-2024 12:33,Express,Pending,307,Delhivery,TRK0ACA57F5,4,Delhi,No

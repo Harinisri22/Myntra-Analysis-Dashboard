@@ -1,0 +1,1001 @@
+﻿CategoryID,CategoryName,Description,Season,Trend,PopularColor,AvgPriceRange,TargetAudience,LaunchYear,Rating
+CAT0001,Women,Casual wear,Summer,Low,Green,Medium,Adults,2012,2.5
+CAT0002,Women,Casual wear,Summer,Low,Yellow,Low,Youth,2011,4.8
+CAT0003,Footwear,Casual wear,Winter,Low,White,Low,Adults,2021,3.9
+CAT0004,Casual,Casual wear,All Season,High,Yellow,High,Youth,2022,3.4
+CAT0005,Kids,Casual wear,All Season,Medium,Green,Medium,Adults,2022,1.6
+CAT0006,Sportswear,Casual wear,Summer,High,Yellow,Low,Kids,2023,1.6
+CAT0007,Sportswear,Casual wear,Monsoon,High,Black,Premium,Youth,2024,1.2
+CAT0008,Ethnic,Casual wear,Summer,Low,Green,High,Adults,2021,4.5
+CAT0009,Women,Casual wear,Summer,Low,Red,High,Youth,2023,3.4
+CAT0010,Footwear,Casual wear,Summer,Medium,Green,Premium,Kids,2012,3.8
+CAT0011,Sportswear,Casual wear,Monsoon,High,Black,High,Youth,2019,1.1
+CAT0012,Kids,Casual wear,Winter,High,Yellow,Premium,Kids,2024,4.9
+CAT0013,Casual,Casual wear,Winter,Low,Green,Low,Adults,2023,4.3
+CAT0014,Men,Casual wear,Monsoon,Medium,Green,Low,Adults,2024,1.8
+CAT0015,Winter,Casual wear,Monsoon,High,Black,Premium,Unisex,2024,1.7
+CAT0016,Formal,Casual wear,Winter,Medium,Red,Medium,Kids,2021,1.7
+CAT0017,Winter,Casual wear,All Season,Low,Yellow,High,Adults,2012,2.2
+CAT0018,Casual,Casual wear,All Season,High,Pink,Low,Youth,2012,3.1
+CAT0019,Kids,Casual wear,All Season,Low,Blue,Premium,Unisex,2019,2.7
+CAT0020,Formal,Casual wear,Monsoon,Low,Pink,Low,Youth,2020,2.2
+CAT0021,Casual,Casual wear,Monsoon,Low,Green,Low,Kids,2016,3.4
+CAT0022,Kids,Casual wear,All Season,High,Black,High,Adults,2018,1.6
+CAT0023,Women,Casual wear,Monsoon,Low,White,Medium,Adults,2015,2.2
+CAT0024,Kids,Casual wear,Summer,Low,Green,Premium,Youth,2011,2.5
+CAT0025,Sportswear,Casual wear,Monsoon,High,Blue,Medium,Youth,2011,2.8
+CAT0026,Formal,Casual wear,Summer,Low,Pink,Medium,Adults,2020,4.1
+CAT0027,Formal,Casual wear,Winter,Medium,White,Premium,Adults,2024,1.8
+CAT0028,Casual,Casual wear,Winter,Low,Green,Premium,Kids,2017,3.1
+CAT0029,Casual,Casual wear,All Season,High,Red,Medium,Youth,2015,3.4
+CAT0030,Men,Casual wear,Winter,Low,Red,Low,Youth,2021,1.2
+CAT0031,Men,Casual wear,Winter,High,Blue,High,Youth,2018,3.4
+CAT0032,Footwear,Casual wear,Monsoon,Low,Yellow,Medium,Adults,2021,1.7
+CAT0033,Winter,Casual wear,All Season,High,Pink,Premium,Unisex,2013,1.3
+CAT0034,Women,Casual wear,Summer,Low,Yellow,High,Unisex,2016,4.8
+CAT0035,Formal,Casual wear,Summer,Low,Black,Low,Youth,2016,4.9
+CAT0036,Sportswear,Casual wear,Summer,High,Red,Medium,Unisex,2012,4.2
+CAT0037,Ethnic,Casual wear,Winter,Medium,Yellow,Medium,Youth,2017,2.2
+CAT0038,Casual,Casual wear,Summer,High,Black,Low,Youth,2024,1.4
+CAT0039,Footwear,Casual wear,Winter,Medium,Yellow,Premium,Adults,2023,3.7
+CAT0040,Ethnic,Casual wear,Summer,High,Yellow,Low,Unisex,2014,2.8
+CAT0041,Formal,Casual wear,Monsoon,Medium,Black,Premium,Adults,2013,1.5
+CAT0042,Accessories,Casual wear,Winter,High,White,Low,Kids,2010,3
+CAT0043,Men,Casual wear,All Season,Low,Pink,Medium,Youth,2018,1.1
+CAT0044,Women,Casual wear,Winter,High,White,Low,Adults,2016,4.6
+CAT0045,Women,Casual wear,Winter,Low,White,Low,Youth,2016,2
+CAT0046,Winter,Casual wear,Monsoon,Medium,Red,High,Adults,2014,3.7
+CAT0047,Ethnic,Casual wear,Winter,Low,Black,High,Unisex,2015,2.2
+CAT0048,Women,Casual wear,Summer,Medium,White,Low,Youth,2018,3.1
+CAT0049,Footwear,Casual wear,Monsoon,High,Green,Low,Adults,2015,3.2
+CAT0050,Accessories,Casual wear,Winter,Medium,Pink,High,Youth,2020,1.7
+CAT0051,Casual,Casual wear,Monsoon,Low,Blue,Medium,Kids,2011,4.9
+CAT0052,Women,Casual wear,Winter,Medium,Green,Medium,Kids,2013,4.1
+CAT0053,Accessories,Casual wear,All Season,Medium,Pink,Low,Youth,2020,4.8
+CAT0054,Ethnic,Casual wear,Monsoon,High,Blue,High,Adults,2020,4.6
+CAT0055,Accessories,Casual wear,Winter,Low,Yellow,Premium,Youth,2011,3.4
+CAT0056,Women,Casual wear,Winter,Low,Blue,High,Adults,2016,4.7
+CAT0057,Kids,Casual wear,Summer,Medium,Green,Low,Kids,2013,1.4
+CAT0058,Footwear,Casual wear,Summer,Medium,Pink,Premium,Adults,2024,1.8
+CAT0059,Footwear,Casual wear,Winter,High,Yellow,Low,Adults,2021,1.2
+CAT0060,Sportswear,Casual wear,All Season,Low,Pink,Medium,Kids,2012,2.3
+CAT0061,Women,Casual wear,All Season,High,Pink,Premium,Adults,2013,2.6
+CAT0062,Formal,Casual wear,Monsoon,Medium,Pink,Medium,Adults,2010,2.1
+CAT0063,Footwear,Casual wear,All Season,Medium,Green,Low,Kids,2015,4.3
+CAT0064,Casual,Casual wear,All Season,Low,Pink,High,Youth,2011,2.4
+CAT0065,Accessories,Casual wear,Winter,Low,Green,Low,Youth,2019,2.1
+CAT0066,Ethnic,Casual wear,Monsoon,Low,Pink,High,Unisex,2019,3.2
+CAT0067,Casual,Casual wear,Summer,Medium,White,Medium,Kids,2010,1.6
+CAT0068,Ethnic,Casual wear,Summer,Low,Pink,Medium,Kids,2016,4.2
+CAT0069,Women,Casual wear,Monsoon,Low,Green,Low,Kids,2018,1.3
+CAT0070,Accessories,Casual wear,All Season,Medium,Yellow,High,Adults,2013,4.9
+CAT0071,Ethnic,Casual wear,All Season,Low,Black,Medium,Kids,2016,4.1
+CAT0072,Casual,Casual wear,Summer,Medium,Green,Medium,Unisex,2022,1.8
+CAT0073,Winter,Casual wear,Monsoon,Medium,Yellow,Premium,Adults,2018,1
+CAT0074,Formal,Casual wear,Winter,Low,Blue,High,Kids,2011,4.3
+CAT0075,Footwear,Casual wear,Monsoon,High,Pink,Medium,Adults,2010,3.8
+CAT0076,Men,Casual wear,Winter,Medium,White,Low,Unisex,2016,3.9
+CAT0077,Winter,Casual wear,Winter,Low,Black,Premium,Unisex,2016,4.1
+CAT0078,Footwear,Casual wear,Winter,Low,Black,Low,Youth,2022,1.3
+CAT0079,Ethnic,Casual wear,Winter,High,Pink,Premium,Youth,2018,2.4
+CAT0080,Footwear,Casual wear,Summer,Medium,Red,Premium,Kids,2022,1.5
+CAT0081,Formal,Casual wear,All Season,Low,Yellow,Medium,Unisex,2017,4.5
+CAT0082,Accessories,Casual wear,Winter,Low,Green,Premium,Adults,2014,3.5
+CAT0083,Formal,Casual wear,Summer,Low,Green,Medium,Kids,2015,2.3
+CAT0084,Sportswear,Casual wear,Summer,High,Red,Medium,Unisex,2021,1.3
+CAT0085,Kids,Casual wear,Winter,High,Yellow,Premium,Kids,2018,2.2
+CAT0086,Formal,Casual wear,All Season,High,Red,Premium,Unisex,2024,2.3
+CAT0087,Winter,Casual wear,Summer,Low,Yellow,Premium,Youth,2015,3.9
+CAT0088,Accessories,Casual wear,All Season,Medium,White,Medium,Unisex,2013,3.6
+CAT0089,Accessories,Casual wear,All Season,Medium,Blue,Premium,Kids,2020,4.5
+CAT0090,Ethnic,Casual wear,Winter,Medium,Red,Low,Unisex,2019,2.9
+CAT0091,Winter,Casual wear,Summer,High,Black,Premium,Adults,2023,1.5
+CAT0092,Formal,Casual wear,Winter,High,Green,Premium,Kids,2013,3.9
+CAT0093,Formal,Casual wear,Monsoon,Medium,Pink,Premium,Kids,2022,4
+CAT0094,Ethnic,Casual wear,Monsoon,High,Yellow,Low,Youth,2015,3.2
+CAT0095,Footwear,Casual wear,Summer,Low,Blue,Low,Adults,2013,4.1
+CAT0096,Men,Casual wear,Winter,High,Red,Premium,Youth,2019,3
+CAT0097,Footwear,Casual wear,All Season,Low,Green,High,Adults,2019,3.1
+CAT0098,Winter,Casual wear,Summer,High,Green,Low,Youth,2024,2.7
+CAT0099,Accessories,Casual wear,All Season,Medium,Black,Medium,Youth,2019,1.1
+CAT0100,Footwear,Casual wear,Summer,Low,Pink,High,Youth,2022,1.4
+CAT0101,Winter,Casual wear,Summer,Medium,White,Premium,Kids,2011,1.1
+CAT0102,Casual,Casual wear,Monsoon,High,Pink,Premium,Unisex,2011,3.5
+CAT0103,Ethnic,Casual wear,Monsoon,Low,Pink,Premium,Adults,2016,2.3
+CAT0104,Kids,Casual wear,Monsoon,Low,Pink,Premium,Unisex,2016,3
+CAT0105,Winter,Casual wear,Monsoon,Medium,Pink,Medium,Youth,2014,4.6
+CAT0106,Formal,Casual wear,Winter,Medium,White,Premium,Kids,2010,2
+CAT0107,Formal,Casual wear,Monsoon,High,Yellow,Medium,Kids,2022,2.6
+CAT0108,Accessories,Casual wear,Monsoon,Medium,White,High,Youth,2018,4
+CAT0109,Footwear,Casual wear,Summer,High,Black,Premium,Unisex,2018,1.9
+CAT0110,Footwear,Casual wear,All Season,Low,Black,Premium,Unisex,2022,1.3
+CAT0111,Men,Casual wear,Summer,Medium,Red,Premium,Adults,2014,2.2
+CAT0112,Winter,Casual wear,Monsoon,Medium,White,High,Unisex,2021,1.6
+CAT0113,Casual,Casual wear,Monsoon,Medium,Black,Premium,Kids,2014,4.7
+CAT0114,Accessories,Casual wear,Winter,High,Black,Medium,Kids,2011,4.2
+CAT0115,Casual,Casual wear,Winter,High,Red,Premium,Kids,2021,3.5
+CAT0116,Winter,Casual wear,Monsoon,High,Pink,Medium,Kids,2013,4.5
+CAT0117,Sportswear,Casual wear,Winter,Medium,Blue,Medium,Kids,2010,4.2
+CAT0118,Men,Casual wear,Monsoon,Low,Red,Premium,Youth,2023,1.7
+CAT0119,Men,Casual wear,Monsoon,Medium,Yellow,Premium,Kids,2012,4.6
+CAT0120,Men,Casual wear,Monsoon,Medium,Blue,Low,Unisex,2017,3.2
+CAT0121,Women,Casual wear,Summer,High,Red,High,Youth,2013,4.2
+CAT0122,Women,Casual wear,All Season,Low,White,Medium,Unisex,2017,4.6
+CAT0123,Formal,Casual wear,Monsoon,Low,Yellow,High,Youth,2019,2.3
+CAT0124,Women,Casual wear,Winter,Low,Red,High,Youth,2012,1.4
+CAT0125,Footwear,Casual wear,Winter,Low,Blue,Medium,Youth,2016,1.9
+CAT0126,Formal,Casual wear,All Season,Medium,Blue,Medium,Kids,2021,2.7
+CAT0127,Accessories,Casual wear,All Season,High,Black,Medium,Kids,2022,4.3
+CAT0128,Winter,Casual wear,Winter,Medium,Blue,Medium,Adults,2024,4.4
+CAT0129,Accessories,Casual wear,Winter,High,Blue,Medium,Kids,2019,1
+CAT0130,Winter,Casual wear,Monsoon,Medium,Blue,Premium,Kids,2021,3
+CAT0131,Ethnic,Casual wear,Monsoon,Low,White,Premium,Unisex,2011,2.7
+CAT0132,Winter,Casual wear,Summer,Medium,Black,High,Kids,2010,1.9
+CAT0133,Women,Casual wear,Winter,Low,Pink,Low,Kids,2019,1.5
+CAT0134,Men,Casual wear,Winter,Medium,White,Premium,Kids,2012,2.4
+CAT0135,Winter,Casual wear,All Season,Low,Pink,Premium,Youth,2017,4.8
+CAT0136,Sportswear,Casual wear,All Season,Medium,Green,Low,Adults,2015,2.3
+CAT0137,Ethnic,Casual wear,All Season,Medium,Black,Premium,Youth,2017,3.1
+CAT0138,Women,Casual wear,Monsoon,Medium,Green,Low,Unisex,2023,3.8
+CAT0139,Casual,Casual wear,Summer,Low,Pink,Premium,Unisex,2010,2.5
+CAT0140,Footwear,Casual wear,Monsoon,Low,Pink,Premium,Unisex,2022,4.9
+CAT0141,Men,Casual wear,Winter,Medium,White,Medium,Kids,2017,4.8
+CAT0142,Formal,Casual wear,Summer,High,Black,Medium,Adults,2014,2
+CAT0143,Casual,Casual wear,Summer,Low,Yellow,Low,Adults,2023,3
+CAT0144,Women,Casual wear,All Season,High,Black,Medium,Unisex,2024,2.2
+CAT0145,Accessories,Casual wear,Monsoon,Medium,Pink,Premium,Unisex,2013,2.1
+CAT0146,Formal,Casual wear,Winter,Medium,Red,Medium,Youth,2014,1.1
+CAT0147,Ethnic,Casual wear,Monsoon,Low,Green,Low,Kids,2021,3.4
+CAT0148,Accessories,Casual wear,All Season,High,Yellow,Premium,Kids,2015,3
+CAT0149,Casual,Casual wear,All Season,Medium,Green,Medium,Adults,2019,1.2
+CAT0150,Ethnic,Casual wear,Winter,Medium,Blue,High,Unisex,2021,2.1
+CAT0151,Ethnic,Casual wear,All Season,Low,Pink,Medium,Unisex,2010,4.6
+CAT0152,Kids,Casual wear,Monsoon,High,Pink,Premium,Youth,2018,2
+CAT0153,Formal,Casual wear,Summer,Low,Red,Premium,Adults,2011,1.6
+CAT0154,Formal,Casual wear,Monsoon,Medium,White,Premium,Youth,2023,3
+CAT0155,Sportswear,Casual wear,All Season,Medium,Black,Premium,Youth,2019,4.9
+CAT0156,Women,Casual wear,Winter,Low,Black,High,Adults,2021,2
+CAT0157,Women,Casual wear,All Season,High,Pink,Low,Unisex,2012,3.7
+CAT0158,Accessories,Casual wear,Summer,High,Green,Low,Kids,2015,4
+CAT0159,Sportswear,Casual wear,All Season,High,Red,Premium,Adults,2012,2
+CAT0160,Kids,Casual wear,Summer,Low,Pink,Premium,Adults,2017,3.9
+CAT0161,Winter,Casual wear,Winter,High,Yellow,High,Unisex,2014,2.5
+CAT0162,Men,Casual wear,All Season,Medium,Black,Medium,Youth,2017,3.5
+CAT0163,Sportswear,Casual wear,Monsoon,Low,Yellow,High,Unisex,2023,3.5
+CAT0164,Accessories,Casual wear,Winter,Medium,Pink,Premium,Youth,2013,3.1
+CAT0165,Ethnic,Casual wear,Monsoon,Low,Green,High,Youth,2023,1.4
+CAT0166,Ethnic,Casual wear,Monsoon,High,White,Low,Unisex,2023,4.3
+CAT0167,Accessories,Casual wear,Winter,Low,Pink,High,Adults,2020,2.3
+CAT0168,Footwear,Casual wear,Monsoon,Low,Pink,Medium,Youth,2024,1.7
+CAT0169,Men,Casual wear,Monsoon,Medium,Blue,High,Adults,2011,1.2
+CAT0170,Accessories,Casual wear,Monsoon,Low,Yellow,Medium,Adults,2012,3.4
+CAT0171,Casual,Casual wear,Monsoon,Low,White,High,Adults,2014,3.7
+CAT0172,Formal,Casual wear,Monsoon,Low,Pink,High,Youth,2017,1.1
+CAT0173,Women,Casual wear,Winter,High,Pink,Premium,Kids,2011,3
+CAT0174,Ethnic,Casual wear,Summer,Medium,White,Low,Unisex,2015,1.9
+CAT0175,Accessories,Casual wear,All Season,Low,Green,Low,Adults,2017,3.6
+CAT0176,Men,Casual wear,Monsoon,Low,Red,Low,Unisex,2024,1.7
+CAT0177,Accessories,Casual wear,All Season,High,Red,Low,Youth,2014,3.8
+CAT0178,Formal,Casual wear,Summer,High,Red,Medium,Unisex,2017,2.5
+CAT0179,Sportswear,Casual wear,All Season,Low,Black,Medium,Unisex,2020,4.7
+CAT0180,Women,Casual wear,All Season,Low,Yellow,High,Youth,2021,1.6
+CAT0181,Sportswear,Casual wear,Winter,Medium,Yellow,Medium,Kids,2011,2.4
+CAT0182,Sportswear,Casual wear,Monsoon,High,Yellow,High,Adults,2011,1.5
+CAT0183,Formal,Casual wear,Summer,Low,Red,Low,Youth,2022,4.7
+CAT0184,Sportswear,Casual wear,Winter,High,Pink,Medium,Youth,2023,4.5
+CAT0185,Casual,Casual wear,Winter,Low,Red,Medium,Kids,2022,2
+CAT0186,Kids,Casual wear,Summer,Medium,Pink,Medium,Adults,2018,3.6
+CAT0187,Accessories,Casual wear,Winter,High,Black,Low,Adults,2010,4.3
+CAT0188,Sportswear,Casual wear,Winter,Low,Green,Low,Adults,2014,3.2
+CAT0189,Men,Casual wear,Winter,Low,Yellow,Low,Youth,2017,3.1
+CAT0190,Formal,Casual wear,Monsoon,Low,White,Low,Unisex,2018,2
+CAT0191,Footwear,Casual wear,Summer,Low,Pink,High,Unisex,2020,1.4
+CAT0192,Men,Casual wear,Summer,Medium,Pink,Premium,Unisex,2020,4.6
+CAT0193,Women,Casual wear,All Season,Low,Yellow,Low,Youth,2015,4.6
+CAT0194,Winter,Casual wear,Winter,High,Red,High,Kids,2016,3.5
+CAT0195,Winter,Casual wear,Monsoon,Medium,White,Premium,Youth,2022,2.4
+CAT0196,Women,Casual wear,Winter,Medium,Yellow,Medium,Unisex,2015,2.4
+CAT0197,Formal,Casual wear,All Season,Medium,Black,Low,Kids,2016,3.9
+CAT0198,Sportswear,Casual wear,Monsoon,Medium,Red,Premium,Youth,2011,4.6
+CAT0199,Women,Casual wear,Summer,Medium,Blue,High,Adults,2018,4.5
+CAT0200,Men,Casual wear,Monsoon,Low,Blue,Premium,Kids,2023,4.1
+CAT0201,Ethnic,Casual wear,Summer,Medium,White,High,Kids,2011,3.6
+CAT0202,Winter,Casual wear,Winter,High,Black,Premium,Adults,2023,1.3
+CAT0203,Women,Casual wear,Monsoon,Low,Green,Low,Kids,2019,1.6
+CAT0204,Footwear,Casual wear,All Season,Low,Pink,Low,Kids,2010,4.6
+CAT0205,Kids,Casual wear,Monsoon,Low,Pink,High,Kids,2015,3.4
+CAT0206,Men,Casual wear,Winter,High,White,Premium,Youth,2012,1
+CAT0207,Men,Casual wear,Summer,Low,White,Medium,Unisex,2016,1.4
+CAT0208,Formal,Casual wear,Monsoon,High,Green,High,Kids,2022,3.7
+CAT0209,Winter,Casual wear,Summer,High,Red,Medium,Youth,2020,1
+CAT0210,Women,Casual wear,Monsoon,Medium,Black,Premium,Unisex,2019,1.6
+CAT0211,Formal,Casual wear,All Season,Medium,Red,Low,Kids,2016,3.2
+CAT0212,Women,Casual wear,Monsoon,Low,Black,Premium,Kids,2010,3.8
+CAT0213,Footwear,Casual wear,All Season,Low,Blue,Low,Adults,2014,3.6
+CAT0214,Footwear,Casual wear,Winter,Medium,Green,High,Youth,2010,1.9
+CAT0215,Formal,Casual wear,All Season,High,Red,Premium,Adults,2018,3.8
+CAT0216,Casual,Casual wear,Monsoon,High,Yellow,Low,Unisex,2010,1.9
+CAT0217,Formal,Casual wear,Summer,Medium,White,Premium,Unisex,2021,2.3
+CAT0218,Ethnic,Casual wear,Monsoon,High,Yellow,Low,Kids,2012,4
+CAT0219,Winter,Casual wear,All Season,Low,Green,Low,Unisex,2023,3.6
+CAT0220,Women,Casual wear,Winter,Medium,White,Premium,Youth,2016,4.4
+CAT0221,Accessories,Casual wear,Monsoon,High,Green,Medium,Youth,2018,3.6
+CAT0222,Women,Casual wear,Winter,Medium,Green,Medium,Adults,2011,3.3
+CAT0223,Kids,Casual wear,Monsoon,High,Red,Medium,Youth,2012,1.4
+CAT0224,Formal,Casual wear,All Season,Low,Pink,Premium,Kids,2023,2.5
+CAT0225,Sportswear,Casual wear,Winter,Medium,Blue,Premium,Unisex,2020,2.1
+CAT0226,Accessories,Casual wear,Monsoon,Low,Blue,High,Youth,2014,2
+CAT0227,Formal,Casual wear,All Season,High,Blue,High,Kids,2011,4.9
+CAT0228,Women,Casual wear,All Season,Medium,White,Low,Unisex,2024,2.6
+CAT0229,Winter,Casual wear,Winter,Medium,White,Premium,Adults,2010,4.6
+CAT0230,Formal,Casual wear,Summer,Medium,Black,Low,Adults,2010,3.5
+CAT0231,Footwear,Casual wear,All Season,Medium,White,Medium,Kids,2015,4.2
+CAT0232,Accessories,Casual wear,All Season,Medium,Pink,High,Youth,2022,3
+CAT0233,Sportswear,Casual wear,Summer,Medium,Blue,Premium,Kids,2014,3.3
+CAT0234,Winter,Casual wear,Winter,Medium,Blue,Medium,Kids,2014,3
+CAT0235,Ethnic,Casual wear,Winter,Low,Black,Low,Kids,2018,1.8
+CAT0236,Ethnic,Casual wear,Monsoon,High,Black,Low,Unisex,2018,3.9
+CAT0237,Sportswear,Casual wear,Summer,Medium,Green,Medium,Adults,2015,2.1
+CAT0238,Formal,Casual wear,Winter,High,Red,Medium,Youth,2014,1.1
+CAT0239,Women,Casual wear,Summer,Low,Green,Medium,Unisex,2012,3.6
+CAT0240,Kids,Casual wear,Winter,Low,Pink,Medium,Unisex,2010,1.7
+CAT0241,Ethnic,Casual wear,Monsoon,Low,Black,Medium,Unisex,2019,4.8
+CAT0242,Accessories,Casual wear,All Season,High,White,Medium,Kids,2022,4.8
+CAT0243,Formal,Casual wear,Winter,Medium,Black,Premium,Unisex,2022,4.7
+CAT0244,Accessories,Casual wear,All Season,Low,White,Premium,Adults,2023,2.5
+CAT0245,Footwear,Casual wear,Winter,Medium,Blue,Premium,Kids,2018,1.1
+CAT0246,Women,Casual wear,Summer,Medium,Blue,Medium,Kids,2017,4.7
+CAT0247,Casual,Casual wear,Winter,Medium,Blue,Medium,Unisex,2024,2.7
+CAT0248,Sportswear,Casual wear,Summer,Medium,Blue,Premium,Kids,2013,4.9
+CAT0249,Ethnic,Casual wear,Summer,Medium,Red,Low,Kids,2024,4.9
+CAT0250,Women,Casual wear,Monsoon,High,Red,Low,Kids,2024,4.4
+CAT0251,Formal,Casual wear,Winter,Low,Yellow,Premium,Youth,2024,2.2
+CAT0252,Women,Casual wear,Summer,Medium,Red,Medium,Unisex,2011,2.5
+CAT0253,Accessories,Casual wear,Winter,Medium,Blue,Low,Adults,2016,4.4
+CAT0254,Winter,Casual wear,All Season,High,Blue,Premium,Youth,2020,2.3
+CAT0255,Casual,Casual wear,Winter,Low,Red,High,Unisex,2010,1.7
+CAT0256,Winter,Casual wear,Monsoon,High,White,Premium,Adults,2020,3.2
+CAT0257,Women,Casual wear,Monsoon,High,White,Low,Unisex,2023,4.7
+CAT0258,Formal,Casual wear,Summer,Low,Yellow,High,Kids,2021,3.8
+CAT0259,Men,Casual wear,Monsoon,High,Green,Medium,Youth,2022,3.3
+CAT0260,Winter,Casual wear,Monsoon,High,Blue,High,Kids,2023,1.4
+CAT0261,Kids,Casual wear,All Season,Low,Yellow,Medium,Adults,2011,3.5
+CAT0262,Formal,Casual wear,Summer,Medium,Red,Low,Adults,2024,5
+CAT0263,Men,Casual wear,Monsoon,Medium,White,Premium,Unisex,2014,1.6
+CAT0264,Men,Casual wear,Winter,Medium,Green,Low,Kids,2014,3.1
+CAT0265,Women,Casual wear,Monsoon,Medium,Yellow,Premium,Unisex,2015,4.5
+CAT0266,Kids,Casual wear,All Season,Low,Yellow,High,Kids,2022,4
+CAT0267,Women,Casual wear,All Season,High,Yellow,Medium,Kids,2015,3.8
+CAT0268,Women,Casual wear,Summer,Medium,Black,High,Kids,2017,3.8
+CAT0269,Winter,Casual wear,All Season,High,Black,Premium,Kids,2017,2.4
+CAT0270,Men,Casual wear,Monsoon,Low,Yellow,High,Youth,2011,2.2
+CAT0271,Ethnic,Casual wear,Monsoon,Low,Pink,Medium,Youth,2012,4.2
+CAT0272,Winter,Casual wear,All Season,High,Red,Low,Adults,2022,4.2
+CAT0273,Sportswear,Casual wear,Monsoon,Medium,White,Low,Adults,2020,4.5
+CAT0274,Formal,Casual wear,Monsoon,Medium,Yellow,Low,Adults,2018,4.7
+CAT0275,Sportswear,Casual wear,All Season,Medium,Black,High,Adults,2011,3
+CAT0276,Men,Casual wear,Winter,Medium,White,Premium,Youth,2014,3
+CAT0277,Accessories,Casual wear,All Season,High,White,High,Unisex,2013,4.2
+CAT0278,Women,Casual wear,Winter,High,Yellow,Medium,Unisex,2011,3.6
+CAT0279,Sportswear,Casual wear,Monsoon,Low,Blue,High,Kids,2023,3.8
+CAT0280,Kids,Casual wear,Winter,Medium,White,Medium,Youth,2013,4.2
+CAT0281,Kids,Casual wear,Winter,Medium,Blue,High,Kids,2017,4.6
+CAT0282,Casual,Casual wear,Winter,Low,Blue,Low,Kids,2016,2.4
+CAT0283,Formal,Casual wear,All Season,Medium,Pink,Low,Adults,2015,2.5
+CAT0284,Women,Casual wear,All Season,Medium,Black,High,Adults,2024,1.4
+CAT0285,Casual,Casual wear,Winter,High,Yellow,Low,Youth,2018,3.3
+CAT0286,Kids,Casual wear,Monsoon,High,Red,High,Adults,2015,1.1
+CAT0287,Casual,Casual wear,Monsoon,High,Green,Medium,Kids,2012,2.9
+CAT0288,Accessories,Casual wear,Summer,Low,Black,Medium,Adults,2012,3.2
+CAT0289,Winter,Casual wear,Monsoon,Low,Blue,Low,Youth,2010,2.1
+CAT0290,Winter,Casual wear,Monsoon,Low,Red,Premium,Youth,2017,3.4
+CAT0291,Casual,Casual wear,Monsoon,Low,Green,Premium,Adults,2022,1.1
+CAT0292,Ethnic,Casual wear,Monsoon,Medium,Blue,Low,Adults,2017,1.1
+CAT0293,Ethnic,Casual wear,All Season,Medium,Red,High,Adults,2015,4.3
+CAT0294,Sportswear,Casual wear,Monsoon,Medium,Red,High,Youth,2015,2.4
+CAT0295,Footwear,Casual wear,All Season,High,Green,Premium,Adults,2012,1.5
+CAT0296,Women,Casual wear,Summer,Medium,Yellow,Premium,Adults,2023,3.1
+CAT0297,Kids,Casual wear,Monsoon,Low,Black,High,Adults,2022,4.1
+CAT0298,Kids,Casual wear,All Season,Low,Yellow,Premium,Kids,2017,1.9
+CAT0299,Men,Casual wear,Summer,Medium,White,Premium,Adults,2013,3.5
+CAT0300,Winter,Casual wear,Monsoon,High,Blue,High,Unisex,2019,1.3
+CAT0301,Formal,Casual wear,Monsoon,Low,Blue,Low,Unisex,2012,1.2
+CAT0302,Accessories,Casual wear,Monsoon,Medium,Green,Low,Unisex,2010,3.1
+CAT0303,Winter,Casual wear,Winter,Medium,White,High,Youth,2016,3.2
+CAT0304,Casual,Casual wear,All Season,Low,Green,Low,Adults,2011,3.5
+CAT0305,Ethnic,Casual wear,Monsoon,Medium,White,High,Adults,2013,3.9
+CAT0306,Winter,Casual wear,All Season,Low,Blue,Low,Youth,2012,4.9
+CAT0307,Sportswear,Casual wear,All Season,Low,Yellow,Medium,Adults,2015,3.1
+CAT0308,Winter,Casual wear,Monsoon,High,Yellow,High,Kids,2018,2.3
+CAT0309,Casual,Casual wear,All Season,Low,White,High,Unisex,2023,4.2
+CAT0310,Men,Casual wear,Monsoon,Medium,Black,Low,Unisex,2019,2.1
+CAT0311,Accessories,Casual wear,Summer,Low,Yellow,High,Adults,2021,2.8
+CAT0312,Men,Casual wear,All Season,High,White,Premium,Adults,2023,1.3
+CAT0313,Footwear,Casual wear,Summer,Low,Black,Low,Adults,2010,1.1
+CAT0314,Formal,Casual wear,Monsoon,Medium,Red,Premium,Adults,2016,4.9
+CAT0315,Casual,Casual wear,All Season,Low,Black,Low,Adults,2018,4.3
+CAT0316,Footwear,Casual wear,Monsoon,Low,Yellow,Premium,Kids,2012,3.8
+CAT0317,Formal,Casual wear,Monsoon,Low,Green,High,Unisex,2013,2.6
+CAT0318,Footwear,Casual wear,Monsoon,Low,Green,Medium,Kids,2022,1.7
+CAT0319,Accessories,Casual wear,Winter,Low,Black,Premium,Kids,2017,1.6
+CAT0320,Sportswear,Casual wear,Monsoon,Medium,Blue,Premium,Unisex,2023,2
+CAT0321,Sportswear,Casual wear,Winter,Medium,Blue,High,Youth,2015,3.2
+CAT0322,Formal,Casual wear,Monsoon,Low,Yellow,Medium,Adults,2023,3.9
+CAT0323,Casual,Casual wear,Monsoon,Low,Black,High,Adults,2011,3.6
+CAT0324,Winter,Casual wear,Winter,High,Blue,Medium,Adults,2010,2.1
+CAT0325,Women,Casual wear,All Season,Medium,Black,Premium,Youth,2020,4.8
+CAT0326,Kids,Casual wear,Summer,Low,Red,Premium,Unisex,2017,4
+CAT0327,Footwear,Casual wear,Monsoon,Medium,Green,Low,Youth,2020,3.2
+CAT0328,Winter,Casual wear,Winter,Low,Black,Low,Adults,2016,3.4
+CAT0329,Kids,Casual wear,Summer,Medium,Pink,Premium,Adults,2024,2.7
+CAT0330,Accessories,Casual wear,Summer,High,Green,Low,Kids,2014,2
+CAT0331,Formal,Casual wear,All Season,High,Pink,Premium,Kids,2013,2.4
+CAT0332,Women,Casual wear,Monsoon,High,Black,Premium,Kids,2021,4
+CAT0333,Kids,Casual wear,Summer,Low,Green,High,Adults,2012,1.1
+CAT0334,Winter,Casual wear,All Season,Medium,White,High,Youth,2016,1.5
+CAT0335,Women,Casual wear,Winter,High,Yellow,High,Adults,2010,1.2
+CAT0336,Accessories,Casual wear,All Season,High,Yellow,High,Kids,2014,1.2
+CAT0337,Winter,Casual wear,Summer,Medium,Black,High,Adults,2010,4.4
+CAT0338,Women,Casual wear,All Season,Medium,Red,Premium,Kids,2021,3.8
+CAT0339,Women,Casual wear,Monsoon,Medium,White,Medium,Adults,2012,2.9
+CAT0340,Formal,Casual wear,Winter,Medium,Black,High,Unisex,2021,1.4
+CAT0341,Casual,Casual wear,All Season,Low,Pink,Medium,Adults,2020,3
+CAT0342,Winter,Casual wear,Summer,Low,Yellow,High,Youth,2024,2.9
+CAT0343,Winter,Casual wear,Summer,High,Pink,Medium,Adults,2012,1.7
+CAT0344,Sportswear,Casual wear,All Season,High,Black,Medium,Unisex,2011,2.7
+CAT0345,Casual,Casual wear,All Season,High,Yellow,Medium,Unisex,2017,2.6
+CAT0346,Winter,Casual wear,Summer,Low,Yellow,High,Youth,2016,3.5
+CAT0347,Accessories,Casual wear,Summer,Low,Red,Low,Youth,2016,3.5
+CAT0348,Sportswear,Casual wear,Summer,Low,Blue,Low,Unisex,2010,1.2
+CAT0349,Accessories,Casual wear,All Season,High,Pink,Medium,Unisex,2015,2.5
+CAT0350,Ethnic,Casual wear,All Season,Medium,Yellow,Low,Adults,2020,3.5
+CAT0351,Sportswear,Casual wear,Summer,High,White,Premium,Adults,2021,3
+CAT0352,Footwear,Casual wear,Summer,High,Green,Premium,Unisex,2018,4.4
+CAT0353,Ethnic,Casual wear,Winter,High,Yellow,High,Adults,2014,3.6
+CAT0354,Footwear,Casual wear,Summer,High,Pink,Premium,Youth,2013,1.7
+CAT0355,Footwear,Casual wear,Summer,High,White,Low,Unisex,2019,1.3
+CAT0356,Men,Casual wear,Winter,Low,Blue,Premium,Unisex,2013,3.6
+CAT0357,Casual,Casual wear,Winter,High,Red,High,Adults,2023,1.1
+CAT0358,Winter,Casual wear,Monsoon,Low,White,High,Adults,2014,3.3
+CAT0359,Kids,Casual wear,Winter,Medium,Green,High,Youth,2018,4.8
+CAT0360,Winter,Casual wear,Winter,Low,Black,Premium,Unisex,2010,3.3
+CAT0361,Sportswear,Casual wear,All Season,Low,Green,Premium,Unisex,2012,2.6
+CAT0362,Accessories,Casual wear,All Season,High,Pink,Premium,Adults,2023,3.6
+CAT0363,Footwear,Casual wear,Monsoon,Low,Red,Premium,Youth,2018,2.8
+CAT0364,Ethnic,Casual wear,All Season,Low,White,Medium,Unisex,2013,3.2
+CAT0365,Accessories,Casual wear,Winter,Medium,Black,Low,Unisex,2023,4.8
+CAT0366,Sportswear,Casual wear,Summer,Low,Black,Medium,Youth,2014,2.5
+CAT0367,Ethnic,Casual wear,Summer,High,Red,Medium,Unisex,2013,4.8
+CAT0368,Sportswear,Casual wear,Monsoon,High,Red,Medium,Youth,2021,4.6
+CAT0369,Formal,Casual wear,Winter,Low,White,Medium,Unisex,2024,1.8
+CAT0370,Footwear,Casual wear,Monsoon,Medium,Yellow,Premium,Kids,2014,1.3
+CAT0371,Accessories,Casual wear,Monsoon,Low,Yellow,Premium,Youth,2022,1.4
+CAT0372,Formal,Casual wear,Monsoon,High,Green,High,Unisex,2010,1.1
+CAT0373,Winter,Casual wear,Winter,Low,Red,Low,Kids,2018,1.4
+CAT0374,Winter,Casual wear,All Season,Medium,Red,Medium,Kids,2013,3.7
+CAT0375,Ethnic,Casual wear,Winter,Medium,White,High,Kids,2022,1.3
+CAT0376,Formal,Casual wear,All Season,Medium,Red,High,Adults,2012,2.3
+CAT0377,Casual,Casual wear,All Season,High,White,Low,Youth,2023,4.4
+CAT0378,Women,Casual wear,Summer,High,Yellow,Medium,Adults,2011,1.1
+CAT0379,Kids,Casual wear,Summer,High,White,Premium,Kids,2010,4.3
+CAT0380,Winter,Casual wear,All Season,Low,Yellow,Low,Youth,2018,2.1
+CAT0381,Casual,Casual wear,All Season,High,Blue,High,Kids,2010,1.5
+CAT0382,Casual,Casual wear,All Season,High,Blue,Low,Adults,2013,3.8
+CAT0383,Footwear,Casual wear,Monsoon,Medium,Green,Premium,Youth,2015,3.5
+CAT0384,Ethnic,Casual wear,All Season,Low,Red,Medium,Kids,2020,4.5
+CAT0385,Women,Casual wear,Summer,High,Yellow,Premium,Unisex,2018,3.9
+CAT0386,Formal,Casual wear,Summer,Low,Blue,Medium,Youth,2017,4.2
+CAT0387,Ethnic,Casual wear,Monsoon,Low,Pink,Low,Youth,2013,2.1
+CAT0388,Footwear,Casual wear,All Season,Medium,Blue,Low,Kids,2024,1.7
+CAT0389,Casual,Casual wear,Summer,High,Pink,High,Youth,2013,4
+CAT0390,Winter,Casual wear,Winter,Low,Pink,Premium,Youth,2014,4.2
+CAT0391,Kids,Casual wear,Winter,Low,Pink,Premium,Kids,2016,5
+CAT0392,Kids,Casual wear,Summer,Low,Black,High,Youth,2011,2.7
+CAT0393,Ethnic,Casual wear,Winter,High,Green,Premium,Kids,2010,2.5
+CAT0394,Accessories,Casual wear,All Season,Medium,Red,High,Unisex,2016,4.1
+CAT0395,Kids,Casual wear,All Season,High,Pink,High,Adults,2021,2.4
+CAT0396,Women,Casual wear,Summer,Medium,Red,Premium,Adults,2021,4.7
+CAT0397,Ethnic,Casual wear,Monsoon,Medium,Blue,Low,Youth,2014,4.4
+CAT0398,Formal,Casual wear,Monsoon,Medium,Blue,Medium,Youth,2012,2.7
+CAT0399,Ethnic,Casual wear,All Season,Low,White,Premium,Youth,2010,4
+CAT0400,Women,Casual wear,Monsoon,Low,Blue,High,Unisex,2010,4
+CAT0401,Accessories,Casual wear,All Season,Medium,Pink,Low,Adults,2019,1.4
+CAT0402,Casual,Casual wear,Winter,Low,Yellow,Medium,Adults,2014,4.6
+CAT0403,Accessories,Casual wear,Monsoon,Medium,Red,Low,Adults,2016,3
+CAT0404,Accessories,Casual wear,All Season,Medium,Yellow,Low,Kids,2014,4.3
+CAT0405,Footwear,Casual wear,All Season,Low,White,Medium,Unisex,2011,2.3
+CAT0406,Kids,Casual wear,Monsoon,High,Yellow,High,Unisex,2022,4.6
+CAT0407,Sportswear,Casual wear,All Season,Medium,Yellow,Medium,Kids,2015,2.6
+CAT0408,Winter,Casual wear,Winter,Medium,Green,Medium,Unisex,2015,1
+CAT0409,Accessories,Casual wear,All Season,Low,Pink,Medium,Kids,2016,4.6
+CAT0410,Accessories,Casual wear,All Season,Medium,Blue,Medium,Adults,2020,1.4
+CAT0411,Casual,Casual wear,Summer,Low,Yellow,Medium,Unisex,2022,2.3
+CAT0412,Accessories,Casual wear,Summer,Medium,Black,Premium,Adults,2020,4.8
+CAT0413,Accessories,Casual wear,Winter,Medium,Black,Medium,Unisex,2022,4.8
+CAT0414,Ethnic,Casual wear,Summer,Medium,White,Premium,Unisex,2018,3.3
+CAT0415,Casual,Casual wear,All Season,Low,Blue,High,Youth,2011,3.5
+CAT0416,Footwear,Casual wear,Monsoon,High,Black,Low,Unisex,2022,2.8
+CAT0417,Sportswear,Casual wear,All Season,High,Blue,Low,Kids,2013,2.2
+CAT0418,Casual,Casual wear,Winter,Medium,Green,Premium,Unisex,2022,2.3
+CAT0419,Winter,Casual wear,Winter,Medium,Blue,Premium,Youth,2014,3.7
+CAT0420,Ethnic,Casual wear,Summer,High,Pink,Medium,Kids,2014,4
+CAT0421,Sportswear,Casual wear,All Season,High,White,Premium,Kids,2017,4.2
+CAT0422,Women,Casual wear,All Season,Low,Black,Premium,Kids,2011,4.2
+CAT0423,Accessories,Casual wear,Summer,Low,Blue,Low,Kids,2020,1.4
+CAT0424,Women,Casual wear,Winter,Low,Red,Medium,Adults,2015,3
+CAT0425,Casual,Casual wear,All Season,Medium,Red,Premium,Adults,2012,1.2
+CAT0426,Ethnic,Casual wear,All Season,High,Black,Medium,Unisex,2019,3.2
+CAT0427,Ethnic,Casual wear,All Season,High,Black,Medium,Adults,2014,2.8
+CAT0428,Women,Casual wear,Summer,Low,Red,High,Kids,2013,4.6
+CAT0429,Formal,Casual wear,Summer,Medium,Black,Premium,Kids,2019,2.4
+CAT0430,Ethnic,Casual wear,All Season,Low,Blue,High,Kids,2023,1.5
+CAT0431,Formal,Casual wear,Winter,Low,Black,High,Youth,2020,1.6
+CAT0432,Kids,Casual wear,Monsoon,High,Red,High,Youth,2012,4
+CAT0433,Sportswear,Casual wear,Winter,Low,Yellow,Premium,Adults,2019,3.5
+CAT0434,Ethnic,Casual wear,All Season,High,Yellow,Medium,Adults,2017,1.4
+CAT0435,Accessories,Casual wear,Winter,High,Green,Premium,Youth,2023,1.3
+CAT0436,Sportswear,Casual wear,Summer,Medium,Red,Medium,Unisex,2018,3.8
+CAT0437,Casual,Casual wear,All Season,Medium,Black,Premium,Unisex,2021,1.3
+CAT0438,Formal,Casual wear,All Season,High,Blue,Low,Adults,2014,4.3
+CAT0439,Men,Casual wear,Monsoon,High,White,High,Adults,2022,3.8
+CAT0440,Formal,Casual wear,All Season,Low,White,Low,Youth,2014,1.3
+CAT0441,Casual,Casual wear,Monsoon,Low,Pink,Low,Unisex,2018,1.3
+CAT0442,Footwear,Casual wear,All Season,High,Black,Medium,Kids,2023,4.9
+CAT0443,Men,Casual wear,All Season,Medium,Green,Low,Unisex,2023,2.5
+CAT0444,Women,Casual wear,Winter,High,Pink,High,Unisex,2012,2.5
+CAT0445,Winter,Casual wear,Winter,High,Pink,Medium,Youth,2019,4.3
+CAT0446,Sportswear,Casual wear,Monsoon,Low,White,Medium,Kids,2021,4.8
+CAT0447,Accessories,Casual wear,Monsoon,Low,Green,Low,Adults,2022,4.9
+CAT0448,Ethnic,Casual wear,Summer,Medium,Pink,Medium,Adults,2013,4
+CAT0449,Kids,Casual wear,Monsoon,High,Pink,Premium,Unisex,2012,2.5
+CAT0450,Winter,Casual wear,Monsoon,Low,Yellow,Premium,Unisex,2011,1.3
+CAT0451,Women,Casual wear,All Season,Low,Black,High,Kids,2017,4.1
+CAT0452,Formal,Casual wear,Monsoon,Low,Blue,Low,Unisex,2020,3.2
+CAT0453,Sportswear,Casual wear,Summer,Low,Yellow,Medium,Unisex,2023,2.7
+CAT0454,Footwear,Casual wear,All Season,Medium,Green,High,Kids,2018,4.6
+CAT0455,Winter,Casual wear,Winter,Low,Pink,Premium,Kids,2024,1.4
+CAT0456,Men,Casual wear,Summer,High,Black,Premium,Youth,2011,3
+CAT0457,Kids,Casual wear,All Season,Medium,Blue,Premium,Adults,2021,1
+CAT0458,Kids,Casual wear,Monsoon,High,Pink,High,Youth,2020,2.9
+CAT0459,Sportswear,Casual wear,Monsoon,High,Green,Medium,Youth,2016,1.2
+CAT0460,Accessories,Casual wear,Winter,Medium,Black,Low,Youth,2010,1.5
+CAT0461,Footwear,Casual wear,All Season,High,Red,Medium,Unisex,2010,1.5
+CAT0462,Men,Casual wear,Monsoon,High,Pink,Premium,Adults,2017,3.6
+CAT0463,Women,Casual wear,Winter,Medium,Blue,Low,Youth,2015,4
+CAT0464,Sportswear,Casual wear,Monsoon,High,Yellow,Medium,Adults,2011,3.3
+CAT0465,Casual,Casual wear,Summer,Low,Black,Medium,Unisex,2015,4.8
+CAT0466,Footwear,Casual wear,Winter,Medium,White,Premium,Adults,2011,2.5
+CAT0467,Women,Casual wear,Winter,High,White,Premium,Kids,2016,2.1
+CAT0468,Sportswear,Casual wear,Winter,High,Green,Low,Adults,2018,4.5
+CAT0469,Winter,Casual wear,Monsoon,Low,Blue,High,Adults,2018,1.9
+CAT0470,Winter,Casual wear,Winter,Low,Yellow,High,Youth,2022,4.9
+CAT0471,Footwear,Casual wear,All Season,Medium,Blue,Medium,Unisex,2020,1
+CAT0472,Winter,Casual wear,Summer,Low,Blue,High,Kids,2012,4.9
+CAT0473,Ethnic,Casual wear,All Season,Medium,White,Medium,Unisex,2022,1.2
+CAT0474,Women,Casual wear,Summer,Low,Blue,Low,Kids,2013,4.6
+CAT0475,Men,Casual wear,Summer,Medium,White,High,Unisex,2016,3.1
+CAT0476,Ethnic,Casual wear,Summer,Low,White,Medium,Kids,2011,5
+CAT0477,Accessories,Casual wear,Summer,Low,Red,Medium,Kids,2016,1.3
+CAT0478,Winter,Casual wear,Summer,Medium,Black,Premium,Adults,2010,3.2
+CAT0479,Footwear,Casual wear,Summer,Medium,Blue,Premium,Youth,2014,4.9
+CAT0480,Kids,Casual wear,Summer,High,Black,Medium,Youth,2012,3.1
+CAT0481,Formal,Casual wear,Monsoon,Low,White,High,Adults,2015,3.5
+CAT0482,Kids,Casual wear,Monsoon,Low,Blue,Low,Kids,2022,3.8
+CAT0483,Ethnic,Casual wear,Monsoon,Low,Blue,High,Youth,2017,2.8
+CAT0484,Formal,Casual wear,Monsoon,High,Yellow,Medium,Kids,2012,3.5
+CAT0485,Accessories,Casual wear,Summer,Low,Black,Low,Adults,2021,3.3
+CAT0486,Casual,Casual wear,Summer,High,Pink,Low,Adults,2010,4.6
+CAT0487,Formal,Casual wear,Monsoon,Medium,Red,Medium,Youth,2018,1.2
+CAT0488,Ethnic,Casual wear,Winter,Medium,Red,Premium,Kids,2014,2.1
+CAT0489,Women,Casual wear,Monsoon,High,White,Low,Adults,2013,4.8
+CAT0490,Casual,Casual wear,Summer,Medium,Blue,Premium,Kids,2022,4.6
+CAT0491,Accessories,Casual wear,Monsoon,High,White,Premium,Youth,2015,2.8
+CAT0492,Footwear,Casual wear,Monsoon,Low,Pink,High,Adults,2017,3.5
+CAT0493,Sportswear,Casual wear,All Season,High,Black,Medium,Adults,2010,2.1
+CAT0494,Ethnic,Casual wear,Summer,High,White,High,Youth,2015,1.8
+CAT0495,Men,Casual wear,All Season,Low,Black,High,Youth,2013,2.9
+CAT0496,Casual,Casual wear,Winter,Medium,Yellow,Low,Adults,2021,2.4
+CAT0497,Accessories,Casual wear,Summer,High,Red,Premium,Kids,2017,3.3
+CAT0498,Women,Casual wear,Summer,Low,Red,Premium,Youth,2019,1.3
+CAT0499,Winter,Casual wear,Summer,Medium,Black,Medium,Adults,2014,4.9
+CAT0500,Accessories,Casual wear,Monsoon,Medium,Black,High,Kids,2017,4.9
+CAT0501,Accessories,Casual wear,Winter,High,Red,Medium,Youth,2012,3.8
+CAT0502,Women,Casual wear,Winter,Medium,Yellow,High,Unisex,2011,3.1
+CAT0503,Casual,Casual wear,Monsoon,High,Yellow,High,Unisex,2014,2.2
+CAT0504,Women,Casual wear,Summer,High,Pink,High,Youth,2013,4.3
+CAT0505,Sportswear,Casual wear,Winter,High,Black,Medium,Kids,2016,3.7
+CAT0506,Casual,Casual wear,Summer,Low,Green,High,Adults,2010,1.7
+CAT0507,Ethnic,Casual wear,All Season,Low,Black,Medium,Youth,2017,4.6
+CAT0508,Women,Casual wear,Winter,High,Blue,Low,Adults,2012,4.3
+CAT0509,Footwear,Casual wear,All Season,Medium,Black,Low,Kids,2024,4.8
+CAT0510,Women,Casual wear,Summer,High,Red,Premium,Adults,2011,3.9
+CAT0511,Sportswear,Casual wear,Summer,High,Yellow,Low,Adults,2024,3.5
+CAT0512,Winter,Casual wear,All Season,Low,Yellow,Premium,Youth,2016,2.7
+CAT0513,Ethnic,Casual wear,Winter,Medium,Red,Medium,Kids,2014,4.7
+CAT0514,Formal,Casual wear,Winter,High,White,Medium,Kids,2017,4.5
+CAT0515,Ethnic,Casual wear,All Season,High,Blue,High,Unisex,2012,1.2
+CAT0516,Ethnic,Casual wear,Winter,Low,Pink,Medium,Youth,2016,1.1
+CAT0517,Sportswear,Casual wear,All Season,Low,Pink,Premium,Kids,2024,2.5
+CAT0518,Winter,Casual wear,Monsoon,Medium,Green,Medium,Youth,2015,4.2
+CAT0519,Winter,Casual wear,Winter,High,Pink,High,Youth,2022,4.9
+CAT0520,Formal,Casual wear,Monsoon,Low,Red,Medium,Youth,2013,1.6
+CAT0521,Footwear,Casual wear,Monsoon,Low,Pink,Low,Adults,2019,3.4
+CAT0522,Ethnic,Casual wear,Monsoon,High,Red,Medium,Kids,2022,2.5
+CAT0523,Sportswear,Casual wear,Summer,Low,Black,High,Adults,2019,4.9
+CAT0524,Footwear,Casual wear,All Season,Low,Green,Medium,Unisex,2010,4.4
+CAT0525,Women,Casual wear,Summer,High,White,Medium,Youth,2018,4.4
+CAT0526,Formal,Casual wear,Summer,Medium,White,Medium,Adults,2015,2.9
+CAT0527,Kids,Casual wear,Monsoon,High,Blue,Medium,Adults,2022,2.7
+CAT0528,Women,Casual wear,Monsoon,High,Green,Premium,Youth,2015,2.1
+CAT0529,Accessories,Casual wear,Monsoon,High,Red,Premium,Unisex,2020,1.2
+CAT0530,Sportswear,Casual wear,Winter,Low,White,High,Adults,2020,4.5
+CAT0531,Winter,Casual wear,Winter,Medium,Green,High,Adults,2012,4.3
+CAT0532,Men,Casual wear,All Season,Low,Blue,Medium,Kids,2024,5
+CAT0533,Winter,Casual wear,Winter,Low,White,Low,Unisex,2012,5
+CAT0534,Sportswear,Casual wear,Summer,High,Green,High,Adults,2020,3.2
+CAT0535,Women,Casual wear,Monsoon,Medium,Blue,High,Adults,2013,4.1
+CAT0536,Women,Casual wear,Monsoon,Medium,Pink,Low,Youth,2010,4.8
+CAT0537,Ethnic,Casual wear,All Season,Low,Yellow,Medium,Unisex,2017,4.4
+CAT0538,Ethnic,Casual wear,Monsoon,Low,Yellow,Low,Unisex,2022,2
+CAT0539,Winter,Casual wear,Winter,High,Yellow,Low,Youth,2014,2.8
+CAT0540,Men,Casual wear,Monsoon,Medium,Blue,Low,Kids,2012,1.5
+CAT0541,Ethnic,Casual wear,Winter,Low,Blue,Low,Kids,2019,4.8
+CAT0542,Winter,Casual wear,All Season,Low,Blue,Premium,Adults,2019,3.4
+CAT0543,Ethnic,Casual wear,Winter,High,Blue,High,Adults,2013,1.9
+CAT0544,Ethnic,Casual wear,Monsoon,Low,Green,High,Adults,2011,3.7
+CAT0545,Men,Casual wear,All Season,Low,White,Premium,Adults,2010,3.5
+CAT0546,Sportswear,Casual wear,Summer,Medium,Blue,High,Unisex,2013,2.4
+CAT0547,Women,Casual wear,Summer,High,Red,High,Youth,2017,1.5
+CAT0548,Women,Casual wear,Monsoon,Medium,Yellow,Premium,Kids,2011,3.7
+CAT0549,Casual,Casual wear,All Season,High,Green,Premium,Kids,2012,3.1
+CAT0550,Formal,Casual wear,Summer,Medium,Yellow,Premium,Kids,2013,4.1
+CAT0551,Accessories,Casual wear,Summer,High,Pink,Low,Youth,2020,3.1
+CAT0552,Sportswear,Casual wear,All Season,Low,Red,Low,Unisex,2023,4.4
+CAT0553,Casual,Casual wear,All Season,Low,Black,Premium,Adults,2017,3.2
+CAT0554,Accessories,Casual wear,Summer,Medium,Pink,Low,Adults,2011,3.2
+CAT0555,Formal,Casual wear,Winter,High,Red,Medium,Adults,2010,4.5
+CAT0556,Ethnic,Casual wear,Summer,Low,Yellow,Medium,Adults,2023,2.6
+CAT0557,Winter,Casual wear,Monsoon,Medium,Black,Low,Youth,2016,1.5
+CAT0558,Casual,Casual wear,All Season,Low,Green,High,Unisex,2024,1.1
+CAT0559,Men,Casual wear,All Season,High,Yellow,Medium,Adults,2019,4
+CAT0560,Winter,Casual wear,Summer,High,White,Low,Kids,2023,3.5
+CAT0561,Casual,Casual wear,Monsoon,Medium,Green,Premium,Unisex,2019,3.8
+CAT0562,Winter,Casual wear,All Season,High,Red,High,Unisex,2012,1.9
+CAT0563,Winter,Casual wear,All Season,High,Yellow,High,Adults,2010,1.5
+CAT0564,Formal,Casual wear,Monsoon,Medium,Blue,High,Kids,2014,1.1
+CAT0565,Accessories,Casual wear,All Season,Low,Black,Low,Adults,2012,2.4
+CAT0566,Accessories,Casual wear,All Season,Medium,Green,Premium,Youth,2013,3.4
+CAT0567,Formal,Casual wear,Winter,Medium,Black,Premium,Kids,2023,2.6
+CAT0568,Men,Casual wear,Winter,High,Green,Premium,Adults,2022,2.7
+CAT0569,Casual,Casual wear,Summer,High,Red,Medium,Youth,2013,4.6
+CAT0570,Men,Casual wear,All Season,High,Green,Medium,Kids,2015,2.4
+CAT0571,Formal,Casual wear,All Season,Low,Blue,Low,Adults,2015,3.1
+CAT0572,Formal,Casual wear,All Season,High,Pink,Premium,Kids,2015,4.1
+CAT0573,Kids,Casual wear,Monsoon,Low,Pink,Low,Kids,2010,2.6
+CAT0574,Ethnic,Casual wear,Summer,High,Pink,Medium,Adults,2020,3.5
+CAT0575,Footwear,Casual wear,Winter,Medium,Black,Premium,Youth,2023,4.4
+CAT0576,Men,Casual wear,All Season,High,Black,Medium,Youth,2013,4.8
+CAT0577,Accessories,Casual wear,Monsoon,Low,Black,High,Unisex,2024,1.6
+CAT0578,Ethnic,Casual wear,Monsoon,Medium,Green,Medium,Unisex,2014,4.7
+CAT0579,Casual,Casual wear,All Season,Low,Blue,Low,Kids,2018,3
+CAT0580,Winter,Casual wear,Monsoon,Medium,Black,Low,Unisex,2011,2
+CAT0581,Sportswear,Casual wear,Monsoon,Low,Green,High,Kids,2020,2.8
+CAT0582,Accessories,Casual wear,Winter,High,White,Medium,Youth,2022,4.9
+CAT0583,Winter,Casual wear,All Season,Low,Green,Medium,Youth,2020,3
+CAT0584,Formal,Casual wear,Monsoon,Medium,Yellow,Premium,Unisex,2021,2.3
+CAT0585,Men,Casual wear,Winter,Medium,Black,Medium,Unisex,2024,3.5
+CAT0586,Sportswear,Casual wear,Monsoon,High,Pink,Medium,Kids,2011,2
+CAT0587,Formal,Casual wear,Winter,Low,Green,Medium,Kids,2020,1.3
+CAT0588,Women,Casual wear,Winter,Medium,Red,High,Unisex,2022,1.5
+CAT0589,Sportswear,Casual wear,Monsoon,Medium,White,High,Unisex,2023,1.5
+CAT0590,Women,Casual wear,All Season,High,Pink,Low,Unisex,2024,1.6
+CAT0591,Footwear,Casual wear,Summer,Low,Yellow,High,Unisex,2010,1.6
+CAT0592,Kids,Casual wear,Winter,High,Green,Premium,Unisex,2012,3.6
+CAT0593,Sportswear,Casual wear,Winter,High,Yellow,High,Adults,2015,1.7
+CAT0594,Men,Casual wear,Summer,Medium,Green,Medium,Adults,2019,2.4
+CAT0595,Kids,Casual wear,All Season,High,Red,Premium,Unisex,2016,4.6
+CAT0596,Ethnic,Casual wear,All Season,Medium,Blue,Low,Adults,2021,2.9
+CAT0597,Sportswear,Casual wear,Summer,Medium,Pink,Medium,Youth,2020,3.7
+CAT0598,Men,Casual wear,Winter,High,Black,High,Kids,2012,1.7
+CAT0599,Women,Casual wear,All Season,Low,White,High,Adults,2011,1.8
+CAT0600,Men,Casual wear,Monsoon,Medium,Yellow,High,Unisex,2024,1.2
+CAT0601,Kids,Casual wear,Monsoon,Medium,Green,Medium,Adults,2024,1.7
+CAT0602,Ethnic,Casual wear,Summer,High,Red,Medium,Adults,2021,2.1
+CAT0603,Men,Casual wear,Winter,High,Green,Low,Unisex,2024,1.7
+CAT0604,Accessories,Casual wear,Summer,Low,Blue,Low,Youth,2010,1.4
+CAT0605,Women,Casual wear,All Season,Medium,Yellow,Low,Kids,2017,1.5
+CAT0606,Kids,Casual wear,Winter,Low,Black,Low,Kids,2016,2.8
+CAT0607,Women,Casual wear,Monsoon,Low,White,Medium,Unisex,2023,1.8
+CAT0608,Women,Casual wear,Summer,Medium,Blue,Low,Unisex,2013,2.5
+CAT0609,Winter,Casual wear,Winter,Medium,Pink,Medium,Kids,2021,3
+CAT0610,Ethnic,Casual wear,Monsoon,High,Blue,Premium,Adults,2021,3.8
+CAT0611,Formal,Casual wear,Monsoon,High,Blue,Low,Youth,2024,1.2
+CAT0612,Women,Casual wear,All Season,High,Blue,Low,Youth,2024,4.2
+CAT0613,Accessories,Casual wear,Winter,Medium,Green,High,Unisex,2010,3.5
+CAT0614,Women,Casual wear,Winter,High,Pink,High,Kids,2022,1.3
+CAT0615,Sportswear,Casual wear,All Season,Low,Blue,Low,Youth,2010,4.5
+CAT0616,Kids,Casual wear,Winter,Medium,Green,Premium,Kids,2024,4.7
+CAT0617,Women,Casual wear,Monsoon,Medium,Red,Low,Unisex,2016,1.2
+CAT0618,Formal,Casual wear,Monsoon,Medium,Black,Premium,Unisex,2020,2.1
+CAT0619,Kids,Casual wear,Summer,High,Black,Low,Adults,2011,4.2
+CAT0620,Ethnic,Casual wear,All Season,Low,Black,Premium,Adults,2019,4
+CAT0621,Ethnic,Casual wear,Monsoon,Low,Blue,Medium,Unisex,2024,1.7
+CAT0622,Formal,Casual wear,Summer,Medium,Yellow,Low,Youth,2014,1.8
+CAT0623,Sportswear,Casual wear,Summer,Low,Pink,Medium,Kids,2018,2.5
+CAT0624,Casual,Casual wear,Summer,Medium,Black,Medium,Unisex,2015,2.9
+CAT0625,Ethnic,Casual wear,Winter,Low,White,Low,Youth,2020,3.5
+CAT0626,Kids,Casual wear,All Season,Medium,Pink,Medium,Youth,2022,2.5
+CAT0627,Formal,Casual wear,Monsoon,High,Green,High,Youth,2018,2.9
+CAT0628,Footwear,Casual wear,All Season,Medium,Pink,Medium,Youth,2017,4
+CAT0629,Formal,Casual wear,All Season,High,Pink,Premium,Unisex,2015,1.1
+CAT0630,Women,Casual wear,All Season,Low,Black,Low,Youth,2016,2
+CAT0631,Ethnic,Casual wear,Summer,Low,White,Low,Youth,2022,3.9
+CAT0632,Winter,Casual wear,Monsoon,Low,White,Medium,Unisex,2015,4.6
+CAT0633,Sportswear,Casual wear,Summer,High,Pink,Premium,Kids,2018,3
+CAT0634,Winter,Casual wear,All Season,Low,Black,High,Unisex,2011,3.1
+CAT0635,Women,Casual wear,Winter,High,Green,High,Kids,2018,1.4
+CAT0636,Casual,Casual wear,Monsoon,Low,Blue,Low,Adults,2017,2.8
+CAT0637,Kids,Casual wear,All Season,High,Green,Medium,Adults,2011,3.1
+CAT0638,Ethnic,Casual wear,Winter,Medium,Pink,Medium,Kids,2011,2
+CAT0639,Ethnic,Casual wear,Summer,Low,Pink,Low,Unisex,2017,2.1
+CAT0640,Winter,Casual wear,Winter,Medium,Blue,Low,Unisex,2023,2.5
+CAT0641,Winter,Casual wear,All Season,Low,Pink,Medium,Adults,2021,1.1
+CAT0642,Kids,Casual wear,Summer,Medium,Black,High,Unisex,2016,2.3
+CAT0643,Winter,Casual wear,Winter,Medium,Yellow,High,Kids,2017,1.8
+CAT0644,Kids,Casual wear,Winter,Medium,White,High,Kids,2021,2.3
+CAT0645,Casual,Casual wear,Winter,High,Red,High,Kids,2024,1.5
+CAT0646,Kids,Casual wear,Winter,Low,White,High,Youth,2022,4.6
+CAT0647,Sportswear,Casual wear,All Season,Low,White,Premium,Kids,2024,3.4
+CAT0648,Ethnic,Casual wear,Summer,Low,Blue,Low,Unisex,2012,3.7
+CAT0649,Men,Casual wear,Summer,High,Green,Medium,Kids,2020,4.2
+CAT0650,Accessories,Casual wear,Winter,High,Black,High,Adults,2022,3
+CAT0651,Casual,Casual wear,Summer,Medium,Pink,Premium,Youth,2019,1.3
+CAT0652,Casual,Casual wear,Winter,Low,Black,Premium,Adults,2018,3.1
+CAT0653,Accessories,Casual wear,Summer,Medium,Yellow,Premium,Kids,2018,3.3
+CAT0654,Men,Casual wear,Summer,Low,Green,Medium,Unisex,2023,4
+CAT0655,Footwear,Casual wear,Monsoon,Low,White,Medium,Adults,2014,2.7
+CAT0656,Formal,Casual wear,Winter,Low,Blue,Medium,Adults,2021,1.5
+CAT0657,Casual,Casual wear,Summer,Medium,Blue,Premium,Kids,2018,2.1
+CAT0658,Accessories,Casual wear,Winter,High,White,High,Youth,2015,2.5
+CAT0659,Formal,Casual wear,Winter,High,Red,High,Youth,2022,3.6
+CAT0660,Winter,Casual wear,Monsoon,Medium,Pink,High,Youth,2022,3.3
+CAT0661,Sportswear,Casual wear,Winter,High,White,Low,Adults,2016,2.4
+CAT0662,Casual,Casual wear,All Season,High,Green,Medium,Adults,2020,4.9
+CAT0663,Sportswear,Casual wear,Monsoon,Medium,Green,Medium,Unisex,2018,3.4
+CAT0664,Men,Casual wear,Summer,Low,Green,Premium,Adults,2024,1.9
+CAT0665,Winter,Casual wear,Winter,High,Black,High,Unisex,2024,1.4
+CAT0666,Women,Casual wear,All Season,Medium,White,High,Youth,2024,1.6
+CAT0667,Casual,Casual wear,Monsoon,Low,Pink,Premium,Unisex,2010,2
+CAT0668,Accessories,Casual wear,Winter,Medium,White,Low,Youth,2012,1.6
+CAT0669,Casual,Casual wear,Summer,Low,Blue,Medium,Adults,2023,1.7
+CAT0670,Ethnic,Casual wear,Summer,High,White,Premium,Youth,2021,2.1
+CAT0671,Kids,Casual wear,Summer,Medium,Black,High,Youth,2011,1.7
+CAT0672,Women,Casual wear,Summer,High,Pink,High,Youth,2019,4.6
+CAT0673,Footwear,Casual wear,Monsoon,Medium,Yellow,Premium,Unisex,2016,1.3
+CAT0674,Sportswear,Casual wear,Summer,Medium,Black,Low,Youth,2020,3.1
+CAT0675,Winter,Casual wear,Summer,Low,White,Low,Youth,2015,2.6
+CAT0676,Casual,Casual wear,Summer,Medium,Pink,High,Youth,2014,4.9
+CAT0677,Formal,Casual wear,All Season,Medium,Pink,Low,Unisex,2012,1.4
+CAT0678,Casual,Casual wear,Winter,High,Black,Premium,Kids,2020,2.6
+CAT0679,Kids,Casual wear,Monsoon,Low,Pink,High,Youth,2018,4.9
+CAT0680,Casual,Casual wear,Winter,High,Blue,Low,Unisex,2018,4.5
+CAT0681,Casual,Casual wear,Summer,Medium,Red,High,Adults,2016,4.3
+CAT0682,Casual,Casual wear,Winter,High,Red,Medium,Kids,2013,2
+CAT0683,Women,Casual wear,Winter,Low,Pink,Low,Unisex,2020,1.7
+CAT0684,Casual,Casual wear,Summer,Medium,Black,Low,Kids,2011,3.7
+CAT0685,Footwear,Casual wear,All Season,Medium,Green,Medium,Adults,2011,4.7
+CAT0686,Accessories,Casual wear,Summer,High,Green,Premium,Unisex,2015,3.2
+CAT0687,Winter,Casual wear,Monsoon,Low,White,Medium,Kids,2022,3.3
+CAT0688,Sportswear,Casual wear,All Season,High,Blue,High,Adults,2022,2.1
+CAT0689,Footwear,Casual wear,All Season,Medium,Pink,High,Adults,2020,4.1
+CAT0690,Sportswear,Casual wear,All Season,Medium,Yellow,High,Kids,2017,1.7
+CAT0691,Casual,Casual wear,Summer,High,Black,Low,Kids,2023,2.3
+CAT0692,Kids,Casual wear,Winter,Medium,Black,Low,Youth,2024,2.7
+CAT0693,Men,Casual wear,Summer,Low,White,Premium,Adults,2024,3
+CAT0694,Men,Casual wear,Monsoon,Low,White,Premium,Adults,2015,2
+CAT0695,Ethnic,Casual wear,Winter,Low,Black,High,Adults,2017,1.5
+CAT0696,Casual,Casual wear,Summer,Medium,Green,Low,Adults,2023,3.4
+CAT0697,Winter,Casual wear,Winter,Low,Red,Premium,Adults,2012,2.2
+CAT0698,Winter,Casual wear,Winter,Low,Black,Premium,Kids,2010,3.3
+CAT0699,Footwear,Casual wear,All Season,High,Blue,High,Kids,2013,1.6
+CAT0700,Men,Casual wear,Winter,Low,Pink,High,Unisex,2017,2.9
+CAT0701,Formal,Casual wear,Summer,High,Black,High,Youth,2021,3.1
+CAT0702,Casual,Casual wear,Monsoon,Low,Green,Medium,Unisex,2020,1.2
+CAT0703,Ethnic,Casual wear,Monsoon,Low,Black,Low,Kids,2016,2.3
+CAT0704,Footwear,Casual wear,All Season,Medium,Pink,High,Unisex,2022,1.5
+CAT0705,Formal,Casual wear,Summer,Low,Red,Premium,Adults,2013,1.3
+CAT0706,Women,Casual wear,Monsoon,High,Red,Medium,Adults,2015,5
+CAT0707,Winter,Casual wear,Summer,Low,Red,Premium,Kids,2021,2.3
+CAT0708,Women,Casual wear,All Season,Low,Yellow,Premium,Adults,2019,4.2
+CAT0709,Kids,Casual wear,All Season,High,Red,Low,Adults,2019,2
+CAT0710,Winter,Casual wear,Winter,High,Black,Low,Adults,2010,3.7
+CAT0711,Kids,Casual wear,Monsoon,High,White,Premium,Youth,2024,4
+CAT0712,Accessories,Casual wear,Summer,High,Yellow,Premium,Unisex,2012,3.4
+CAT0713,Footwear,Casual wear,All Season,Low,Red,Medium,Kids,2012,2.9
+CAT0714,Sportswear,Casual wear,All Season,Low,White,Low,Adults,2016,2.6
+CAT0715,Ethnic,Casual wear,Winter,High,Blue,Medium,Unisex,2023,2.4
+CAT0716,Kids,Casual wear,Summer,High,Yellow,Low,Youth,2011,4.7
+CAT0717,Formal,Casual wear,Winter,Low,White,Low,Unisex,2018,4.3
+CAT0718,Ethnic,Casual wear,Monsoon,High,Black,Premium,Adults,2022,4.9
+CAT0719,Formal,Casual wear,All Season,Medium,White,Low,Unisex,2012,1.5
+CAT0720,Accessories,Casual wear,All Season,High,Pink,Low,Kids,2019,3.9
+CAT0721,Casual,Casual wear,All Season,Medium,Red,Low,Youth,2019,4.8
+CAT0722,Casual,Casual wear,Summer,Low,Blue,Premium,Adults,2021,1.7
+CAT0723,Sportswear,Casual wear,All Season,Medium,Blue,Medium,Unisex,2020,1.3
+CAT0724,Winter,Casual wear,Monsoon,Medium,Pink,Premium,Kids,2019,4
+CAT0725,Accessories,Casual wear,All Season,High,Yellow,Premium,Adults,2015,3.3
+CAT0726,Casual,Casual wear,All Season,Medium,Green,High,Unisex,2021,4.4
+CAT0727,Kids,Casual wear,Summer,Low,Red,Premium,Adults,2011,1.6
+CAT0728,Footwear,Casual wear,All Season,Medium,Pink,Low,Adults,2016,4.2
+CAT0729,Men,Casual wear,Summer,High,Yellow,Premium,Youth,2011,1.8
+CAT0730,Accessories,Casual wear,Winter,Medium,Blue,Low,Unisex,2024,1.7
+CAT0731,Ethnic,Casual wear,Monsoon,Low,White,Low,Adults,2020,1.7
+CAT0732,Formal,Casual wear,All Season,High,Red,High,Adults,2010,4.3
+CAT0733,Winter,Casual wear,Winter,Low,Red,Low,Kids,2013,3.7
+CAT0734,Men,Casual wear,Winter,High,Green,Premium,Kids,2020,3.1
+CAT0735,Ethnic,Casual wear,All Season,Low,Red,Low,Youth,2024,2.4
+CAT0736,Women,Casual wear,Monsoon,Low,Pink,High,Kids,2023,4.5
+CAT0737,Accessories,Casual wear,Winter,Low,Red,Premium,Unisex,2019,2.6
+CAT0738,Men,Casual wear,Monsoon,High,Yellow,Low,Youth,2018,4.3
+CAT0739,Accessories,Casual wear,Monsoon,High,Pink,High,Kids,2021,2.8
+CAT0740,Formal,Casual wear,All Season,Low,Yellow,Medium,Kids,2022,2.5
+CAT0741,Formal,Casual wear,All Season,Low,Pink,Low,Unisex,2011,2.9
+CAT0742,Accessories,Casual wear,Summer,Medium,Black,Medium,Adults,2022,2.2
+CAT0743,Sportswear,Casual wear,All Season,Medium,White,Low,Kids,2013,4
+CAT0744,Accessories,Casual wear,Summer,Medium,Black,High,Youth,2018,3
+CAT0745,Kids,Casual wear,All Season,Medium,Green,Medium,Kids,2012,1.9
+CAT0746,Footwear,Casual wear,All Season,Low,Red,Medium,Adults,2023,4.6
+CAT0747,Accessories,Casual wear,Winter,High,Red,Medium,Kids,2012,2.5
+CAT0748,Women,Casual wear,Summer,High,Black,Premium,Youth,2022,3.2
+CAT0749,Casual,Casual wear,Summer,Medium,Green,High,Unisex,2024,4.6
+CAT0750,Winter,Casual wear,Monsoon,Medium,Red,High,Unisex,2013,3.5
+CAT0751,Winter,Casual wear,Winter,High,White,Premium,Unisex,2018,1.5
+CAT0752,Men,Casual wear,Monsoon,Medium,Pink,Medium,Unisex,2011,4.8
+CAT0753,Casual,Casual wear,All Season,Medium,Black,Low,Youth,2020,3.5
+CAT0754,Footwear,Casual wear,All Season,Low,Blue,High,Kids,2019,2.3
+CAT0755,Accessories,Casual wear,Winter,Low,Green,Medium,Kids,2017,1.6
+CAT0756,Winter,Casual wear,Monsoon,Medium,Red,Premium,Unisex,2013,4.2
+CAT0757,Ethnic,Casual wear,Monsoon,Medium,Pink,Premium,Kids,2017,3.5
+CAT0758,Kids,Casual wear,Winter,Low,Black,Medium,Youth,2021,3.1
+CAT0759,Accessories,Casual wear,Winter,Low,Yellow,Premium,Adults,2012,4.6
+CAT0760,Kids,Casual wear,All Season,High,Red,Premium,Unisex,2012,4.2
+CAT0761,Casual,Casual wear,Monsoon,Medium,Green,High,Youth,2016,1.6
+CAT0762,Women,Casual wear,Winter,High,Red,High,Unisex,2023,2.2
+CAT0763,Women,Casual wear,All Season,Low,Green,High,Kids,2015,2
+CAT0764,Casual,Casual wear,Monsoon,Medium,Blue,Premium,Youth,2015,4
+CAT0765,Winter,Casual wear,Winter,Low,White,Medium,Kids,2015,1.1
+CAT0766,Sportswear,Casual wear,All Season,Low,Yellow,Low,Unisex,2019,3.3
+CAT0767,Accessories,Casual wear,All Season,Low,Red,Medium,Kids,2016,4
+CAT0768,Winter,Casual wear,All Season,High,Blue,Medium,Kids,2013,4.5
+CAT0769,Sportswear,Casual wear,Monsoon,Low,Green,High,Unisex,2014,2.4
+CAT0770,Formal,Casual wear,Monsoon,Low,White,Premium,Unisex,2012,4.3
+CAT0771,Kids,Casual wear,Summer,High,Black,Medium,Kids,2021,1.4
+CAT0772,Women,Casual wear,Winter,High,Yellow,Low,Youth,2011,4.4
+CAT0773,Formal,Casual wear,Summer,High,Pink,Premium,Youth,2011,1.5
+CAT0774,Accessories,Casual wear,Winter,High,Black,Premium,Kids,2013,2.6
+CAT0775,Footwear,Casual wear,Monsoon,Medium,Black,Medium,Adults,2018,4.2
+CAT0776,Kids,Casual wear,Summer,High,Black,High,Kids,2023,1.6
+CAT0777,Formal,Casual wear,All Season,Low,Green,Premium,Adults,2021,1.9
+CAT0778,Casual,Casual wear,Winter,Low,White,Premium,Unisex,2018,3.9
+CAT0779,Casual,Casual wear,Monsoon,Medium,Yellow,Medium,Youth,2017,3.9
+CAT0780,Accessories,Casual wear,Monsoon,Medium,Green,Medium,Kids,2010,3.6
+CAT0781,Men,Casual wear,Winter,Medium,Green,Premium,Youth,2021,3.8
+CAT0782,Formal,Casual wear,All Season,Medium,Blue,Premium,Kids,2019,3.2
+CAT0783,Footwear,Casual wear,Summer,Low,Green,Medium,Unisex,2024,2
+CAT0784,Casual,Casual wear,All Season,Medium,Red,Medium,Unisex,2023,2.4
+CAT0785,Ethnic,Casual wear,Winter,Medium,Blue,Premium,Adults,2018,1.7
+CAT0786,Winter,Casual wear,Monsoon,Medium,Black,High,Unisex,2013,4.6
+CAT0787,Women,Casual wear,Winter,High,Green,Low,Unisex,2019,3.3
+CAT0788,Formal,Casual wear,Monsoon,Low,White,Premium,Adults,2015,2.6
+CAT0789,Men,Casual wear,Winter,High,White,Low,Adults,2011,2.8
+CAT0790,Accessories,Casual wear,Monsoon,High,Black,Premium,Youth,2013,4.8
+CAT0791,Women,Casual wear,Winter,High,Yellow,Medium,Kids,2016,1.6
+CAT0792,Accessories,Casual wear,All Season,Medium,Yellow,Low,Kids,2011,3.3
+CAT0793,Kids,Casual wear,Summer,Medium,Pink,Premium,Youth,2018,3
+CAT0794,Formal,Casual wear,Winter,High,Pink,High,Unisex,2023,3.4
+CAT0795,Men,Casual wear,Summer,Low,Red,Premium,Unisex,2013,1.1
+CAT0796,Men,Casual wear,Winter,Medium,Black,Low,Adults,2017,4.5
+CAT0797,Ethnic,Casual wear,Monsoon,Medium,Red,Low,Youth,2014,4.7
+CAT0798,Formal,Casual wear,Monsoon,High,Green,Low,Adults,2011,3.3
+CAT0799,Footwear,Casual wear,All Season,Medium,Blue,Medium,Kids,2019,3.8
+CAT0800,Women,Casual wear,All Season,High,Blue,Low,Unisex,2021,4.7
+CAT0801,Winter,Casual wear,Winter,Medium,Pink,Low,Adults,2012,3.8
+CAT0802,Formal,Casual wear,Summer,Low,White,High,Youth,2010,1.6
+CAT0803,Sportswear,Casual wear,Winter,Low,White,Low,Adults,2017,3.3
+CAT0804,Footwear,Casual wear,Monsoon,Low,Pink,High,Unisex,2021,3.4
+CAT0805,Footwear,Casual wear,Summer,Low,Yellow,High,Adults,2014,2.7
+CAT0806,Men,Casual wear,All Season,Low,Yellow,High,Unisex,2013,3.9
+CAT0807,Winter,Casual wear,Winter,Low,Green,High,Unisex,2014,4.7
+CAT0808,Winter,Casual wear,Winter,High,White,Medium,Unisex,2014,4.7
+CAT0809,Accessories,Casual wear,Monsoon,Medium,Blue,Premium,Adults,2024,2.8
+CAT0810,Men,Casual wear,Monsoon,Low,Red,High,Youth,2020,1.5
+CAT0811,Casual,Casual wear,All Season,High,White,Premium,Adults,2019,4.9
+CAT0812,Accessories,Casual wear,Monsoon,Medium,Black,High,Youth,2011,4.4
+CAT0813,Casual,Casual wear,Summer,High,Pink,Medium,Adults,2023,1.5
+CAT0814,Men,Casual wear,Winter,High,Yellow,Medium,Youth,2010,4.7
+CAT0815,Winter,Casual wear,All Season,Low,Yellow,High,Youth,2015,4.5
+CAT0816,Footwear,Casual wear,Summer,High,Red,Premium,Youth,2017,3.1
+CAT0817,Men,Casual wear,Monsoon,Low,Black,Premium,Kids,2022,3.4
+CAT0818,Men,Casual wear,Monsoon,Low,Blue,Low,Kids,2011,2.6
+CAT0819,Footwear,Casual wear,Summer,High,Black,Medium,Unisex,2013,1.2
+CAT0820,Footwear,Casual wear,Winter,Low,Black,Medium,Unisex,2021,2.3
+CAT0821,Women,Casual wear,Monsoon,Low,Yellow,Premium,Youth,2012,4.2
+CAT0822,Kids,Casual wear,All Season,Low,Green,Medium,Unisex,2024,1
+CAT0823,Sportswear,Casual wear,Monsoon,Low,Green,High,Unisex,2022,2.3
+CAT0824,Ethnic,Casual wear,Monsoon,Low,Red,Medium,Unisex,2022,2.6
+CAT0825,Casual,Casual wear,Monsoon,Medium,Yellow,Premium,Unisex,2010,3.1
+CAT0826,Men,Casual wear,Monsoon,Low,Blue,Medium,Kids,2010,4.7
+CAT0827,Accessories,Casual wear,Winter,High,Pink,High,Youth,2022,2.4
+CAT0828,Accessories,Casual wear,Winter,High,Blue,Premium,Kids,2012,2.4
+CAT0829,Kids,Casual wear,Monsoon,Medium,White,Medium,Adults,2014,4
+CAT0830,Accessories,Casual wear,Summer,Low,Yellow,Medium,Youth,2021,2.8
+CAT0831,Sportswear,Casual wear,All Season,High,Yellow,Low,Kids,2010,1.9
+CAT0832,Winter,Casual wear,All Season,High,Pink,Low,Kids,2015,2.8
+CAT0833,Ethnic,Casual wear,All Season,High,Pink,Medium,Youth,2020,1.6
+CAT0834,Ethnic,Casual wear,Summer,Medium,White,Low,Kids,2018,1.7
+CAT0835,Winter,Casual wear,Winter,Medium,White,Medium,Adults,2010,3
+CAT0836,Ethnic,Casual wear,All Season,Low,White,Low,Adults,2016,2.7
+CAT0837,Accessories,Casual wear,All Season,High,Red,High,Youth,2017,4.7
+CAT0838,Winter,Casual wear,Summer,Low,Yellow,High,Youth,2016,2.4
+CAT0839,Casual,Casual wear,All Season,Low,Red,Medium,Unisex,2018,3.3
+CAT0840,Footwear,Casual wear,All Season,Medium,Black,Medium,Adults,2013,3.5
+CAT0841,Women,Casual wear,Monsoon,Medium,Green,Low,Youth,2020,1.1
+CAT0842,Ethnic,Casual wear,All Season,Medium,Green,Medium,Kids,2015,3.7
+CAT0843,Winter,Casual wear,Summer,Medium,Red,High,Unisex,2019,1.7
+CAT0844,Kids,Casual wear,All Season,High,Pink,Medium,Adults,2020,4.8
+CAT0845,Sportswear,Casual wear,Winter,Low,Pink,Low,Youth,2021,1.6
+CAT0846,Men,Casual wear,Winter,Low,Red,High,Youth,2015,2.7
+CAT0847,Women,Casual wear,Monsoon,Medium,Yellow,Low,Kids,2013,1.3
+CAT0848,Casual,Casual wear,Winter,High,White,High,Unisex,2019,5
+CAT0849,Kids,Casual wear,Summer,Medium,White,Low,Kids,2012,3
+CAT0850,Men,Casual wear,Monsoon,High,Pink,High,Youth,2017,3.4
+CAT0851,Men,Casual wear,Summer,Medium,Black,High,Kids,2023,1.3
+CAT0852,Women,Casual wear,Summer,Medium,Pink,Premium,Adults,2016,4
+CAT0853,Casual,Casual wear,Summer,Medium,Yellow,Low,Adults,2013,1.8
+CAT0854,Casual,Casual wear,All Season,Low,Black,Low,Youth,2013,4.6
+CAT0855,Casual,Casual wear,Monsoon,Medium,Yellow,Premium,Adults,2010,1.8
+CAT0856,Sportswear,Casual wear,Monsoon,Medium,Black,High,Adults,2018,1.8
+CAT0857,Accessories,Casual wear,Summer,Low,Green,Premium,Youth,2018,1.1
+CAT0858,Accessories,Casual wear,Winter,High,Green,Premium,Adults,2011,2.9
+CAT0859,Ethnic,Casual wear,Winter,Medium,Red,Medium,Unisex,2014,3.3
+CAT0860,Winter,Casual wear,Monsoon,Medium,White,Medium,Adults,2020,1.3
+CAT0861,Kids,Casual wear,Winter,High,Green,Medium,Unisex,2024,4.1
+CAT0862,Kids,Casual wear,Winter,Medium,Blue,Low,Adults,2015,2.8
+CAT0863,Kids,Casual wear,Summer,Medium,Yellow,Premium,Kids,2017,3.1
+CAT0864,Accessories,Casual wear,Winter,High,Blue,Medium,Adults,2010,2.8
+CAT0865,Winter,Casual wear,Monsoon,Low,White,Medium,Adults,2013,2.6
+CAT0866,Men,Casual wear,Monsoon,High,Black,Premium,Adults,2018,3.2
+CAT0867,Winter,Casual wear,All Season,Low,Black,High,Adults,2023,1.6
+CAT0868,Ethnic,Casual wear,All Season,Medium,Red,Medium,Adults,2013,1.7
+CAT0869,Men,Casual wear,All Season,High,Green,Premium,Adults,2021,4.4
+CAT0870,Footwear,Casual wear,Winter,High,Red,Premium,Unisex,2021,4.8
+CAT0871,Sportswear,Casual wear,All Season,High,Yellow,Premium,Youth,2019,2.5
+CAT0872,Ethnic,Casual wear,Monsoon,Medium,White,Low,Youth,2017,2.1
+CAT0873,Formal,Casual wear,Summer,High,White,Premium,Youth,2018,3.6
+CAT0874,Ethnic,Casual wear,Summer,High,Green,Premium,Unisex,2024,2.6
+CAT0875,Accessories,Casual wear,Monsoon,Medium,Red,Premium,Kids,2019,1.1
+CAT0876,Men,Casual wear,Winter,Medium,Pink,Premium,Youth,2021,1.6
+CAT0877,Casual,Casual wear,Summer,High,Pink,Medium,Unisex,2016,3.9
+CAT0878,Sportswear,Casual wear,All Season,High,Red,Premium,Adults,2024,3.6
+CAT0879,Formal,Casual wear,Summer,Medium,Green,Medium,Youth,2011,1.1
+CAT0880,Women,Casual wear,All Season,Low,Green,Low,Unisex,2021,1.9
+CAT0881,Casual,Casual wear,Winter,Medium,White,Premium,Youth,2022,1.9
+CAT0882,Kids,Casual wear,Monsoon,Low,Pink,Medium,Adults,2023,3.7
+CAT0883,Kids,Casual wear,Winter,Low,Blue,Premium,Kids,2014,1.1
+CAT0884,Formal,Casual wear,Monsoon,Low,Red,Low,Adults,2013,1.4
+CAT0885,Men,Casual wear,Monsoon,High,Yellow,Premium,Unisex,2018,4.2
+CAT0886,Men,Casual wear,All Season,High,Red,Premium,Unisex,2016,1.7
+CAT0887,Formal,Casual wear,Summer,Low,White,Low,Adults,2024,3.6
+CAT0888,Casual,Casual wear,Monsoon,Low,Black,Medium,Youth,2012,2
+CAT0889,Kids,Casual wear,Summer,Low,Green,Low,Adults,2023,1.4
+CAT0890,Men,Casual wear,Monsoon,Medium,Blue,Low,Youth,2016,2
+CAT0891,Kids,Casual wear,Winter,Low,Green,Medium,Unisex,2021,3.9
+CAT0892,Winter,Casual wear,Monsoon,High,Blue,High,Kids,2015,4.4
+CAT0893,Ethnic,Casual wear,Summer,Medium,Pink,Low,Kids,2017,4.3
+CAT0894,Kids,Casual wear,Summer,Low,Pink,High,Kids,2018,2.6
+CAT0895,Ethnic,Casual wear,Winter,Low,Red,Low,Youth,2019,3.7
+CAT0896,Casual,Casual wear,Summer,Medium,Black,High,Unisex,2019,1.8
+CAT0897,Sportswear,Casual wear,Monsoon,Low,White,High,Adults,2019,2.2
+CAT0898,Winter,Casual wear,All Season,Low,Black,Premium,Unisex,2022,4.6
+CAT0899,Kids,Casual wear,Winter,Low,Green,Medium,Youth,2011,1.1
+CAT0900,Men,Casual wear,All Season,Low,Pink,Low,Adults,2022,1.3
+CAT0901,Winter,Casual wear,All Season,Medium,Blue,High,Kids,2018,1.8
+CAT0902,Footwear,Casual wear,Summer,Low,Red,High,Kids,2022,1.1
+CAT0903,Women,Casual wear,Monsoon,Medium,White,High,Youth,2011,1.7
+CAT0904,Sportswear,Casual wear,Monsoon,Medium,Black,Low,Adults,2013,3.3
+CAT0905,Sportswear,Casual wear,Monsoon,Low,Yellow,Premium,Youth,2020,2.7
+CAT0906,Kids,Casual wear,All Season,High,Black,Premium,Kids,2017,4.6
+CAT0907,Ethnic,Casual wear,Summer,Low,Green,High,Youth,2013,4.3
+CAT0908,Winter,Casual wear,Monsoon,Medium,Blue,Medium,Kids,2023,2.4
+CAT0909,Men,Casual wear,Monsoon,Medium,Black,Medium,Unisex,2012,2
+CAT0910,Winter,Casual wear,Summer,Medium,Black,High,Youth,2014,2.5
+CAT0911,Ethnic,Casual wear,Summer,Medium,Red,High,Unisex,2023,3.4
+CAT0912,Accessories,Casual wear,Winter,Low,Green,Medium,Youth,2015,2.1
+CAT0913,Men,Casual wear,Winter,High,Yellow,Low,Unisex,2024,3.5
+CAT0914,Casual,Casual wear,Winter,High,Green,Premium,Kids,2022,2.6
+CAT0915,Sportswear,Casual wear,Winter,High,Pink,Medium,Adults,2021,3.2
+CAT0916,Men,Casual wear,All Season,Medium,Black,Low,Youth,2014,2.7
+CAT0917,Men,Casual wear,Summer,Medium,Yellow,Low,Youth,2018,2.2
+CAT0918,Accessories,Casual wear,Summer,Low,Pink,High,Adults,2015,4.8
+CAT0919,Footwear,Casual wear,Winter,Medium,Green,High,Unisex,2020,4.1
+CAT0920,Women,Casual wear,Monsoon,High,Red,High,Youth,2010,1.6
+CAT0921,Winter,Casual wear,Summer,High,White,High,Kids,2014,4.5
+CAT0922,Kids,Casual wear,Monsoon,Low,Red,Medium,Youth,2014,2.9
+CAT0923,Winter,Casual wear,Monsoon,Low,Yellow,Low,Adults,2010,4.6
+CAT0924,Formal,Casual wear,Summer,High,Yellow,Low,Youth,2016,4.2
+CAT0925,Ethnic,Casual wear,Winter,Low,White,Premium,Kids,2014,2.7
+CAT0926,Sportswear,Casual wear,Winter,Low,Pink,Low,Unisex,2019,1.1
+CAT0927,Kids,Casual wear,Summer,Low,Yellow,Low,Unisex,2014,2.1
+CAT0928,Formal,Casual wear,All Season,High,Red,Medium,Kids,2024,3.2
+CAT0929,Sportswear,Casual wear,All Season,High,Black,High,Kids,2017,3.5
+CAT0930,Formal,Casual wear,Summer,High,Yellow,Low,Kids,2017,2
+CAT0931,Formal,Casual wear,Winter,Medium,Pink,High,Adults,2018,1.6
+CAT0932,Women,Casual wear,All Season,Low,Pink,Low,Kids,2018,4.3
+CAT0933,Women,Casual wear,Monsoon,Low,Yellow,Premium,Unisex,2013,4.9
+CAT0934,Winter,Casual wear,Winter,Low,Red,Premium,Unisex,2011,3.1
+CAT0935,Sportswear,Casual wear,Winter,Low,White,Premium,Unisex,2019,1.7
+CAT0936,Sportswear,Casual wear,Winter,High,Black,Low,Unisex,2011,2.1
+CAT0937,Winter,Casual wear,All Season,Medium,White,Low,Unisex,2012,1.1
+CAT0938,Accessories,Casual wear,All Season,High,White,Low,Unisex,2015,4.7
+CAT0939,Formal,Casual wear,Summer,High,Red,Medium,Youth,2022,1.5
+CAT0940,Kids,Casual wear,Winter,Medium,White,High,Unisex,2019,3.3
+CAT0941,Winter,Casual wear,All Season,High,Red,High,Kids,2019,2.1
+CAT0942,Accessories,Casual wear,All Season,Low,Green,Low,Youth,2019,3.2
+CAT0943,Casual,Casual wear,All Season,High,Pink,High,Youth,2015,3.6
+CAT0944,Casual,Casual wear,Summer,High,Black,High,Youth,2023,4.3
+CAT0945,Accessories,Casual wear,Summer,High,Yellow,Premium,Kids,2021,1.8
+CAT0946,Ethnic,Casual wear,All Season,Medium,Yellow,Medium,Adults,2017,1
+CAT0947,Kids,Casual wear,Winter,Low,Yellow,High,Unisex,2012,1.5
+CAT0948,Accessories,Casual wear,Winter,High,Blue,Low,Youth,2012,4.6
+CAT0949,Formal,Casual wear,All Season,High,Blue,Medium,Unisex,2023,4.5
+CAT0950,Formal,Casual wear,All Season,Low,Red,Premium,Unisex,2018,3.4
+CAT0951,Formal,Casual wear,All Season,Medium,Red,Medium,Unisex,2019,3.4
+CAT0952,Men,Casual wear,All Season,Low,Red,High,Unisex,2024,3.7
+CAT0953,Casual,Casual wear,Monsoon,High,Blue,Premium,Kids,2011,1.7
+CAT0954,Winter,Casual wear,All Season,Low,Blue,Medium,Kids,2017,4.7
+CAT0955,Casual,Casual wear,Summer,Low,White,Low,Adults,2017,2.7
+CAT0956,Women,Casual wear,Monsoon,Low,Blue,High,Youth,2017,2.5
+CAT0957,Formal,Casual wear,All Season,Low,Black,High,Unisex,2015,3.1
+CAT0958,Accessories,Casual wear,Monsoon,High,Blue,High,Kids,2010,1.2
+CAT0959,Formal,Casual wear,Winter,Low,Blue,High,Youth,2014,1.7
+CAT0960,Formal,Casual wear,Summer,High,White,Low,Kids,2014,4
+CAT0961,Kids,Casual wear,Monsoon,Medium,Pink,High,Youth,2021,1.3
+CAT0962,Women,Casual wear,Winter,Low,Black,Medium,Unisex,2015,3.4
+CAT0963,Kids,Casual wear,Monsoon,Low,Red,Premium,Adults,2022,2
+CAT0964,Casual,Casual wear,Summer,Medium,Blue,Medium,Adults,2023,2.6
+CAT0965,Formal,Casual wear,All Season,Medium,Red,Premium,Adults,2013,2.2
+CAT0966,Winter,Casual wear,Monsoon,High,Black,High,Youth,2010,2.4
+CAT0967,Kids,Casual wear,All Season,Medium,Yellow,High,Unisex,2021,3.9
+CAT0968,Casual,Casual wear,Winter,Medium,Black,Premium,Unisex,2014,2.2
+CAT0969,Kids,Casual wear,All Season,High,Green,Premium,Unisex,2020,3.3
+CAT0970,Sportswear,Casual wear,Summer,High,White,High,Unisex,2019,2.9
+CAT0971,Accessories,Casual wear,Monsoon,Medium,Green,Low,Kids,2020,3.7
+CAT0972,Winter,Casual wear,All Season,Medium,Pink,Medium,Adults,2018,4.7
+CAT0973,Sportswear,Casual wear,Winter,Medium,White,Low,Youth,2023,3.9
+CAT0974,Women,Casual wear,Summer,Medium,Blue,Low,Unisex,2015,1.9
+CAT0975,Footwear,Casual wear,Monsoon,Medium,Red,Low,Youth,2019,1.1
+CAT0976,Women,Casual wear,Summer,Low,Black,Medium,Youth,2021,2
+CAT0977,Women,Casual wear,Summer,Low,Red,Premium,Adults,2024,3.4
+CAT0978,Women,Casual wear,Winter,Medium,Green,Premium,Youth,2020,1.2
+CAT0979,Formal,Casual wear,Monsoon,Medium,Black,High,Kids,2012,3
+CAT0980,Women,Casual wear,Monsoon,High,Yellow,Premium,Kids,2010,3.4
+CAT0981,Accessories,Casual wear,Monsoon,High,Yellow,Low,Unisex,2024,2.3
+CAT0982,Footwear,Casual wear,All Season,High,Black,Premium,Youth,2012,4.1
+CAT0983,Casual,Casual wear,All Season,High,White,Low,Unisex,2021,1.4
+CAT0984,Accessories,Casual wear,Summer,High,Blue,Low,Kids,2022,1.3
+CAT0985,Formal,Casual wear,Summer,Medium,Red,Low,Youth,2020,3.9
+CAT0986,Ethnic,Casual wear,Monsoon,High,Black,High,Unisex,2019,3
+CAT0987,Men,Casual wear,All Season,Medium,Yellow,Premium,Youth,2018,3.8
+CAT0988,Footwear,Casual wear,Summer,Medium,Black,Premium,Youth,2019,2.7
+CAT0989,Casual,Casual wear,Monsoon,Medium,Black,High,Unisex,2010,2
+CAT0990,Women,Casual wear,Monsoon,Low,Pink,High,Youth,2023,4.3
+CAT0991,Formal,Casual wear,Monsoon,Low,Red,Medium,Youth,2016,4.2
+CAT0992,Footwear,Casual wear,Monsoon,Low,Yellow,Low,Kids,2017,3.8
+CAT0993,Women,Casual wear,All Season,Low,Red,Medium,Youth,2013,2.1
+CAT0994,Men,Casual wear,Winter,Medium,Yellow,Low,Kids,2017,3.4
+CAT0995,Casual,Casual wear,All Season,High,Blue,High,Youth,2015,2.4
+CAT0996,Men,Casual wear,All Season,High,Red,Premium,Adults,2021,1.4
+CAT0997,Winter,Casual wear,Winter,High,Blue,Medium,Unisex,2020,4.7
+CAT0998,Men,Casual wear,All Season,Low,Blue,Medium,Adults,2010,1.5
+CAT0999,Kids,Casual wear,Summer,Medium,Pink,Low,Unisex,2019,4.8
+CAT1000,Kids,Casual wear,Summer,High,Blue,Premium,Adults,2011,2.8
